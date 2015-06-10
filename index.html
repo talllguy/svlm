@@ -28,6 +28,8 @@
 	L.control.locate().addTo(map);
 	
 	myLoc = null;
+	toLoc = null;
+	
 	map.featureLayer.on('ready', function(res){
 		for(var index in res.target._layers){
 			var layer = res.target._layers[index];
@@ -37,7 +39,7 @@
 			if(layer != null && layer._popup != null && layer._latlng != null){
 				var to = layer._latlng.lat + "," + layer._latlng.lng;
 			
-				layer._popup._content = '<div class="marker-title">' + layer.feature.properties.title + '</div><div><button id="' + buttonId + '" type="button" onclick="directions(\'' + to + '\')">Directions</button></div>';
+				layer._popup._content = '<div class="marker-title">' + layer.feature.properties.title + '</div><div><a style="cursor:pointer" class="ui-button" id="' + buttonId + '" onclick="directions(\'' + to + '\')">Directions</button></div>';
 				layer.buttonId = buttonId;
 			}
 		}
@@ -46,8 +48,15 @@
 	function directions(to){
 		var from = getFrom();
 		if(from == null){
-			alert('No Location!');
-			return;
+			var r = confirm("Location settings are off. Turn on?");
+			if (r == true) {
+			    toLoc = to;
+				map.on('locationfound', updateLocationForDirections);
+				map.locate();
+				return;
+			} else {
+				return;
+			}
 		}
 
 		window.location.href = "http://maps.google.com/?saddr=" + from + "&daddr=" + to;
@@ -60,10 +69,18 @@
 			return null;
 		}
 	}
-
-	map.on('locationfound', function(e) {
+	
+	function updateLocation(e){
 		myLoc = e;
-	});
+	}
+	
+	function updateLocationForDirections(e){
+		myLoc = e;
+		directions(toLoc);
+		map.on('locationfound', updateLocation);
+	}
+
+	map.on('locationfound', updateLocation);
 	
   </script>
 </body>
