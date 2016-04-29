@@ -34,10 +34,10 @@
   <script src="http://code.jquery.com/jquery-1.9.1.min.js"></script>
   <script type='text/javascript'>
     L.mapbox.accessToken = 'pk.eyJ1IjoidGFsbGxndXkiLCJhIjoiQU4zdXlIdyJ9.wGkUPqhITuNDLgnb5xNx7Q';
-    var map = L.mapbox.map('map', 'talllguy.nioo94li');
+    var map = L.mapbox.map('map', 'talllguy.0099jc05');
     var featureLayer = L.mapbox.featureLayer()
       .addTo(map);
-    featureLayer.loadURL('20160428.geojson');
+    featureLayer.loadURL('data/20160428.geojson');
     L.control.locate().addTo(map);
 
     myLoc = null;
