@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html>
+
 <head>
   <meta charset=utf-8 />
   <title>TMDL Grass Swale Field Map</title>
@@ -8,10 +9,20 @@
   <link href='https://api.tiles.mapbox.com/mapbox.js/v2.4.0/mapbox.css' rel='stylesheet' />
   <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
   <style>
-    body { margin:0; padding:0; }
-    #map { position:absolute; top:0; bottom:0; width:100%; }
+    body {
+      margin: 0;
+      padding: 0;
+    }
+
+    #map {
+      position: absolute;
+      top: 0;
+      bottom: 0;
+      width: 100%;
+    }
   </style>
 </head>
+
 <body>
   <script src='https://api.tiles.mapbox.com/mapbox.js/plugins/leaflet-locatecontrol/v0.43.0/L.Control.Locate.min.js'></script>
   <link href='https://api.tiles.mapbox.com/mapbox.js/plugins/leaflet-locatecontrol/v0.43.0/L.Control.Locate.mapbox.css' rel='stylesheet' />
@@ -22,7 +33,6 @@
   <div id='map'></div>
   <script src="http://code.jquery.com/jquery-1.9.1.min.js"></script>
   <script type='text/javascript'>
-
     L.mapbox.accessToken = 'pk.eyJ1IjoidGFsbGxndXkiLCJhIjoiQU4zdXlIdyJ9.wGkUPqhITuNDLgnb5xNx7Q';
     var map = L.mapbox.map('map', 'talllguy.nioo94li');
     var featureLayer = L.mapbox.featureLayer()
@@ -33,15 +43,15 @@
     myLoc = null;
     toLoc = null;
 
-    featureLayer.on('ready', function(res){
+    featureLayer.on('ready', function(res) {
       // This function provides the directions in the popup for the features
       // that are locaded from the geojson.
-      for(var index in res.target._layers){
+      for (var index in res.target._layers) {
         var layer = res.target._layers[index];
 
         var buttonId = "directions_" + index;
 
-        if(layer != null && layer._popup != null && layer._latlng != null){
+        if (layer != null && layer._popup != null && layer._latlng != null) {
           var to = layer._latlng.lat + "," + layer._latlng.lng;
 
           layer._popup._content = '<div class="marker-title">' + layer.feature.properties.name + '</div><div class="marker-description">' + layer.feature.properties.description + '</div><div><a style="cursor:pointer" class="ui-button" id="' + buttonId + '" onclick="directions(\'' + to + '\')">Directions</button></div>';
@@ -51,16 +61,16 @@
     });
 
 
-    map.featureLayer.on('ready', function(res){
+    map.featureLayer.on('ready', function(res) {
       // This function provides the directions in the popup for the features
       // that are locaded from the mapbox map. In this case it is the park & ride
       // layer.
-      for(var index in res.target._layers){
+      for (var index in res.target._layers) {
         var layer = res.target._layers[index];
 
         var buttonId = "directions_" + index;
 
-        if(layer != null && layer._popup != null && layer._latlng != null){
+        if (layer != null && layer._popup != null && layer._latlng != null) {
           var to = layer._latlng.lat + "," + layer._latlng.lng;
 
           layer._popup._content = '<div class="marker-title">' + layer.feature.properties.title + '</div><div class="marker-description">' + layer.feature.properties.description + '</div><div><a style="cursor:pointer" class="ui-button" id="' + buttonId + '" onclick="directions(\'' + to + '\')">Directions</button></div>';
@@ -69,42 +79,43 @@
       }
     });
 
-    function directions(to){
-  		var from = getFrom();
-  		if(from == null){
-  			var r = confirm("Location settings are off. Turn on?");
-  			if (r == true) {
-  			    toLoc = to;
-  				map.on('locationfound', updateLocationForDirections);
-  				map.locate();
-  				return;
-  			} else {
-  				return;
-  			}
-  		}
+    function directions(to) {
+      var from = getFrom();
+      if (from == null) {
+        var r = confirm("Location settings are off. Turn on?");
+        if (r == true) {
+          toLoc = to;
+          map.on('locationfound', updateLocationForDirections);
+          map.locate();
+          return;
+        } else {
+          return;
+        }
+      }
 
-  		window.location.href = "http://maps.google.com/?saddr=" + from + "&daddr=" + to;
-  	}
+      window.location.href = "http://maps.google.com/?saddr=" + from + "&daddr=" + to;
+    }
 
-  	function getFrom(){
-  		if(myLoc != null){
-  			return myLoc.latitude + "," + myLoc.longitude;
-  		}else{
-  			return null;
-  		}
-  	}
+    function getFrom() {
+      if (myLoc != null) {
+        return myLoc.latitude + "," + myLoc.longitude;
+      } else {
+        return null;
+      }
+    }
 
-  	function updateLocation(e){
-  		myLoc = e;
-  	}
+    function updateLocation(e) {
+      myLoc = e;
+    }
 
-  	function updateLocationForDirections(e){
-  		myLoc = e;
-  		directions(toLoc);
-  		map.on('locationfound', updateLocation);
-  	}
+    function updateLocationForDirections(e) {
+      myLoc = e;
+      directions(toLoc);
+      map.on('locationfound', updateLocation);
+    }
 
-  	map.on('locationfound', updateLocation);
-    </script>
+    map.on('locationfound', updateLocation);
+  </script>
 </body>
+
 </html>
