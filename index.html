@@ -39,7 +39,6 @@
     var map = L.mapbox.map('map', 'talllguy.0099jc05');
     var featureLayer = L.mapbox.featureLayer()
       .addTo(map);
-    featureLayer.loadURL('data/20160429.geojson');
     L.control.locate().addTo(map);
 
     myLoc = null;
