@@ -23,29 +23,85 @@
   </style>
 </head>
 
-  // v2 of the site. loads a geoJSON directly.
+  <!-- // v2 of the site. loads a geoJSON directly. -->
 
 <body>
+<style>
+/*This code styles the menu element for filtering*/
+.menu-ui {
+  background:#fff;
+  position:absolute;
+  top:10px;right:10px;
+  z-index:1;
+  border-radius:3px;
+  width:120px;
+  border:1px solid rgba(0,0,0,0.4);
+  }
+  .menu-ui a {
+    font-size:13px;
+    font-family: sans-serif;
+    color:#404040;
+    display:block;
+    margin:0;padding:0;
+    padding:10px;
+    text-decoration:none;
+    border-bottom:1px solid rgba(0,0,0,0.25);
+    text-align:center;
+    }
+    .menu-ui a:first-child {
+      border-radius:3px 3px 0 0;
+      }
+    .menu-ui a:last-child {
+      border:none;
+      border-radius:0 0 3px 3px;
+      }
+    .menu-ui a:hover {
+      background:#f8f8f8;
+      color:#404040;
+      }
+    .menu-ui a.active,
+    .menu-ui a.active:hover {
+      background:#3887BE;
+      color:#FFF;
+      }
+</style>
+
+<!-- This defines the menu class for the filter -->
+<nav id='menu-ui' class='menu-ui'>
+  <a href='#' class='active' id='filter-all'>All Swales</a>
+  <a href='#' id='filter-todo'>Swales to Measure</a>
+</nav>
+
+  <!-- The following loads the leaflet locate plugin. -->
   <script src='https://api.tiles.mapbox.com/mapbox.js/plugins/leaflet-locatecontrol/v0.43.0/L.Control.Locate.min.js'></script>
   <link href='https://api.tiles.mapbox.com/mapbox.js/plugins/leaflet-locatecontrol/v0.43.0/L.Control.Locate.mapbox.css' rel='stylesheet' />
   <!--[if lt IE 9]>
   <link href='https://api.tiles.mapbox.com/mapbox.js/plugins/leaflet-locatecontrol/v0.43.0/L.Control.Locate.ie.css' rel='stylesheet' />
   <![endif]-->
   <link href='https://api.tiles.mapbox.com/mapbox.js/plugins/leaflet-locatecontrol/v0.43.0/css/font-awesome.min.css' rel='stylesheet' />
+
+  <!-- Begin leaflet map code -->
   <div id='map'></div>
   <script src="http://code.jquery.com/jquery-1.9.1.min.js"></script>
   <script type='text/javascript'>
     L.mapbox.accessToken = 'pk.eyJ1IjoidGFsbGxndXkiLCJhIjoiQU4zdXlIdyJ9.wGkUPqhITuNDLgnb5xNx7Q';
-    var map = L.mapbox.map('map', 'talllguy.0099jc05');
+    var map = L.mapbox.map('map', 'talllguy.0099jc05'),
+    // set the todo and all filters
+    todo = document.getElementById('filter-todo'),
+    all = document.getElementById('filter-all');
+    // add the geoJSON from file
     var featureLayer = L.mapbox.featureLayer()
       .addTo(map);
     featureLayer.loadURL('data/20160503.geojson');
+    // add the leaflet-locatecontrol
     L.control.locate().addTo(map);
-
+    // null the location variables
     myLoc = null;
     toLoc = null;
 
-    featureLayer.on('ready', function(res) {
+    // load the marker with the directions for the geojson feature
+    // the click event allows it to rerun after filtration.
+    featureLayer.on('ready click', function(res) {
       // This function provides the directions in the popup for the features
       // that are locaded from the geojson.
       for (var index in res.target._layers) {
@@ -61,7 +117,6 @@
         }
       }
     });
-
 
     map.featureLayer.on('ready', function(res) {
       // This function provides the directions in the popup for the features
@@ -117,6 +172,29 @@
     }
 
     map.on('locationfound', updateLocation);
+
+    todo.onclick = function(e) {
+    all.className = '';
+    this.className = 'active';
+    // The setFilter function takes a GeoJSON feature object
+    // and returns true to show it or false to hide it.
+    // In this case, we're filtering by the marker symbol of water or cross,
+    // which are the ones to do.
+    featureLayer.setFilter(function(f) {
+        return f.properties['marker-symbol'] === 'water' || f.properties['marker-symbol'] === 'cross';
+    });
+    return false;
+};
+
+all.onclick = function() {
+    todo.className = '';
+    this.className = 'active';
+    featureLayer.setFilter(function(f) {
+        // Returning true for all markers shows everything.
+        return true;
+    });
+    return false;
+};
   </script>
 </body>
 
