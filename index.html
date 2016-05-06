@@ -190,8 +190,8 @@
 		featureLayer.setFilter(function(f) {
 			if (searchString.length>2) {
 				if (f.properties.name && f.properties.name.toLowerCase().indexOf(searchString) !== -1) return true;
-				if (f.properties.title && f.properties.title.toLowerCase().indexOf(searchString) !== -1) return true;
-				if (f.properties.description && f.properties.description.toLowerCase().indexOf(searchString) !== -1) return true;
+				//if (f.properties.title && f.properties.title.toLowerCase().indexOf(searchString) !== -1) return true;
+				//if (f.properties.description && f.properties.description.toLowerCase().indexOf(searchString) !== -1) return true;
 				return false;
 			} else {
 				return true;
