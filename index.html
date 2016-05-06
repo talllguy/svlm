@@ -20,6 +20,16 @@
       bottom: 0;
       width: 100%;
     }
+
+    #searchfield {
+      position: absolute;
+      top: 20px;
+      left: 50px;
+	  z-index:1;
+	  height: 20px;
+	  padding: 5px 15px;
+      width: 30%;
+    }
   </style>
 </head>
 
@@ -65,6 +75,8 @@
       color:#FFF;
       }
 </style>
+
+<input type='text' id='searchfield' placeholder="Search Maps" />
 
 <!-- This defines the menu class for the filter -->
 <nav id='menu-ui' class='menu-ui'>
@@ -173,7 +185,21 @@
 
     map.on('locationfound', updateLocation);
 
-    todo.onclick = function(e) {
+	jQuery("#searchfield").on('keyup', function(){
+		var searchString = $('#searchfield').val().toLowerCase();
+		featureLayer.setFilter(function(f) {
+			if (searchString.length>2) {
+				if (f.properties.name && f.properties.name.toLowerCase().indexOf(searchString) !== -1) return true;
+				if (f.properties.title && f.properties.title.toLowerCase().indexOf(searchString) !== -1) return true;
+				if (f.properties.description && f.properties.description.toLowerCase().indexOf(searchString) !== -1) return true;
+				return false;
+			} else {
+				return true;
+			}
+		});
+	});
+	
+todo.onclick = function(e) {
     all.className = '';
     this.className = 'active';
     // The setFilter function takes a GeoJSON feature object
