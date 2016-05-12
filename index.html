@@ -112,8 +112,8 @@
     toLoc = null;
 
     // load the marker with the directions for the geojson feature
-    // the click event allows it to rerun after filtration.
-    featureLayer.on('ready click', function(res) {
+    // the layeradd event allows it to rerun after filtration.
+    featureLayer.on('layeradd', function(res) {
       // This function provides the directions in the popup for the features
       // that are locaded from the geojson.
       for (var index in res.target._layers) {
