@@ -4,19 +4,19 @@
       "geometry": {
         "coordinates": [
           -76.3317066724989,
-          39.54048361143559
+          39.5404836114356
         ],
         "type": "Point"
       },
       "id": 1,
       "properties": {
         "ADA_COMPLIANT": 2,
-        "ADDRESS": "801 CHURCHVILLE RD, BEL AIR, MD 21014",
         "ADDRESS_SIGNED": 2,
         "BIKE_RACKS": 1,
         "BUS_SHELTER": 2,
         "CREATION_DATE": "2015-09-24",
         "EM_TRUCK_PARK": 2,
+        "GLOBAL_SEGMENT_ID": 20870815,
         "LAST_UPDATE": "2015-09-24",
         "LESSEE": "SHA",
         "LOCATION": "MD 22 @ Bynum Run Park (Bel Air)",
@@ -25,10 +25,14 @@
         "MAINTAINED_BY_ID": 2,
         "MAINT_SHOP_ID": 8441,
         "OWNER": "SHA",
-        "SIGNED_NAME": "MD 22 @ Bynum Run Park (Bel Air)",
         "TOTAL_ELEC_STA": 0,
         "YEAR_CONST": 2000,
-        "YEAR_EXPANDED": 2000
+        "YEAR_EXPANDED": 2000,
+        "description": "801 CHURCHVILLE RD, BEL AIR, MD 21014",
+        "marker-color": "fbb03b",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "MD 22 @ Bynum Run Park (Bel Air)"
       },
       "type": "Feature"
     },
@@ -36,14 +40,13 @@
       "geometry": {
         "coordinates": [
           -76.06742988522187,
-          39.598868522777636
+          39.59886852277764
         ],
         "type": "Point"
       },
       "id": 2,
       "properties": {
         "ADA_COMPLIANT": 1,
-        "ADDRESS": "290 PERRYLAWN DR, PORT DEPOSIT, MD 21904",
         "ADDRESS_SIGNED": 2,
         "BIKE_RACKS": 2,
         "BUS_SHELTER": 2,
@@ -53,6 +56,7 @@
         "ENT_WIDTH": 29,
         "EXIT_NUMBER": "93",
         "FENCED": 2,
+        "GLOBAL_SEGMENT_ID": 19497557,
         "LAST_UPDATE": "2015-07-08",
         "LIGHTS": 2,
         "LOCATION": "IS 95 @ MD 222",
@@ -63,11 +67,15 @@
         "OWNER": "SHA",
         "PAY_PHONE": 2,
         "SIGNED": 2,
-        "SIGNED_NAME": "IS 95 @ MD 222",
         "TOTAL_ELEC_STA": 0,
         "VEIP_KIOSK": 2,
         "YEAR_CONST": 2009,
-        "YEAR_EXPANDED": 1981
+        "YEAR_EXPANDED": 1981,
+        "description": "290 PERRYLAWN DR, PORT DEPOSIT, MD 21904",
+        "marker-color": "fbb03b",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "IS 95 @ MD 222"
       },
       "type": "Feature"
     },
@@ -75,14 +83,13 @@
       "geometry": {
         "coordinates": [
           -76.37437941375423,
-          39.683573734209425
+          39.68357373420942
         ],
         "type": "Point"
       },
       "id": 3,
       "properties": {
         "ADA_COMPLIANT": 2,
-        "ADDRESS": "4016 ADY RD, PYLESVILLE, MD 21132",
         "ADDRESS_SIGNED": 2,
         "BIKE_RACKS": 2,
         "BUS_SHELTER": 2,
@@ -91,6 +98,7 @@
         "EM_TRUCK_PARK": 2,
         "ENT_WIDTH": 32,
         "FENCED": 2,
+        "GLOBAL_SEGMENT_ID": 43291808,
         "LAST_UPDATE": "2015-07-08",
         "LIGHTS": 2,
         "LOCATION": "MD 543 @ MD 165 (Pylesville)",
@@ -101,11 +109,15 @@
         "OWNER": "SHA",
         "PAY_PHONE": 2,
         "SIGNED": 2,
-        "SIGNED_NAME": "MD 543 @ MD 165 (Pylesville)",
         "TOTAL_ELEC_STA": 0,
         "VEIP_KIOSK": 2,
         "YEAR_CONST": 1990,
-        "YEAR_EXPANDED": 1990
+        "YEAR_EXPANDED": 1990,
+        "description": "4016 ADY RD, PYLESVILLE, MD 21132",
+        "marker-color": "fbb03b",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "MD 543 @ MD 165 (Pylesville)"
       },
       "type": "Feature"
     },
@@ -113,14 +125,13 @@
       "geometry": {
         "coordinates": [
           -77.07408392900523,
-          39.11068535599713
+          39.110685355997134
         ],
         "type": "Point"
       },
       "id": 4,
       "properties": {
         "ADA_COMPLIANT": 2,
-        "ADDRESS": "3700 NORBECK RD, SILVER SPRING, MD 20906",
         "ADDRESS_SIGNED": 2,
         "BIKE_RACKS": 2,
         "BUS_SHELTER": 2,
@@ -129,6 +140,7 @@
         "EM_TRUCK_PARK": 1,
         "ENT_WIDTH": 28,
         "FENCED": 2,
+        "GLOBAL_SEGMENT_ID": 52428002,
         "LAST_UPDATE": "2015-07-08",
         "LIGHTS": 1,
         "LOCATION": "MD 97 @ MD 28",
@@ -139,11 +151,15 @@
         "OWNER": "SHA",
         "PAY_PHONE": 2,
         "SIGNED": 2,
-        "SIGNED_NAME": "MD 97 @ MD 28",
         "TOTAL_ELEC_STA": 0,
         "VEIP_KIOSK": 2,
         "YEAR_CONST": 1982,
-        "YEAR_EXPANDED": 1982
+        "YEAR_EXPANDED": 1982,
+        "description": "3700 NORBECK RD, SILVER SPRING, MD 20906",
+        "marker-color": "fbb03b",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "MD 97 @ MD 28"
       },
       "type": "Feature"
     },
@@ -157,16 +173,20 @@
       },
       "id": 5,
       "properties": {
-        "ADDRESS": "26 JONES STATION RD W, SEVERNA PARK, MD 21146",
         "ADDRESS_SIGNED": 2,
         "CREATION_DATE": "2016-03-07",
+        "GLOBAL_SEGMENT_ID": 3039727,
         "LAST_UPDATE": "2016-03-07",
         "LOCATION": "Severna Park Park and Ride",
         "LOT_ID": 292,
         "MAINTAINED_BY_ID": 2,
         "OWNER": "OTHER",
         "PNR_STATUS_ID": 1,
-        "SIGNED_NAME": "Severna Park Park and Ride"
+        "description": "26 JONES STATION RD W, SEVERNA PARK, MD 21146",
+        "marker-color": "3bb2d0",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "Severna Park Park and Ride"
       },
       "type": "Feature"
     },
@@ -174,22 +194,26 @@
       "geometry": {
         "coordinates": [
           -76.64487494978435,
-          39.21375833166634
+          39.213758331666334
         ],
         "type": "Point"
       },
       "id": 6,
       "properties": {
-        "ADDRESS": "450 CAMP MEADE RD N, Linthicum, MD 21090",
         "ADDRESS_SIGNED": 2,
         "CREATION_DATE": "2016-03-07",
+        "GLOBAL_SEGMENT_ID": 4281626,
         "LAST_UPDATE": "2016-03-07",
         "LOCATION": "North Linthicum Park and Ride",
         "LOT_ID": 290,
         "MAINTAINED_BY_ID": 2,
         "OWNER": "OTHER",
         "PNR_STATUS_ID": 1,
-        "SIGNED_NAME": "North Linthicum Park and Ride"
+        "description": "450 CAMP MEADE RD N, Linthicum, MD 21090",
+        "marker-color": "3bb2d0",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "North Linthicum Park and Ride"
       },
       "type": "Feature"
     },
@@ -197,22 +221,26 @@
       "geometry": {
         "coordinates": [
           -76.64186131293899,
-          39.221121922281235
+          39.22112192228124
         ],
         "type": "Point"
       },
       "id": 7,
       "properties": {
-        "ADDRESS": "6825 BALTIMORE ANNAPOLIS BLVD, LINTHICUM, MD 21090",
         "ADDRESS_SIGNED": 2,
         "CREATION_DATE": "2016-03-07",
+        "GLOBAL_SEGMENT_ID": 2390955,
         "LAST_UPDATE": "2016-03-07",
         "LOCATION": "Nursery Road Park and Ride",
         "LOT_ID": 291,
         "MAINTAINED_BY_ID": 2,
         "OWNER": "OTHER",
         "PNR_STATUS_ID": 1,
-        "SIGNED_NAME": "Nursery Road Park and Ride"
+        "description": "6825 BALTIMORE ANNAPOLIS BLVD, LINTHICUM, MD 21090",
+        "marker-color": "3bb2d0",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "Nursery Road Park and Ride"
       },
       "type": "Feature"
     },
@@ -226,16 +254,20 @@
       },
       "id": 8,
       "properties": {
-        "ADDRESS": "40 ARUNDEL BEACH RD, SEVERNA PARK, MD 21146",
         "ADDRESS_SIGNED": 2,
         "CREATION_DATE": "2016-03-18",
+        "GLOBAL_SEGMENT_ID": 3034982,
         "LAST_UPDATE": "2016-03-18",
         "LOCATION": "Arundel Beach Park and Ride",
         "LOT_ID": 299,
         "MAINTAINED_BY_ID": 2,
         "OWNER": "OTHER",
         "PNR_STATUS_ID": 1,
-        "SIGNED_NAME": "Arundel Beach Park and Ride"
+        "description": "40 ARUNDEL BEACH RD, SEVERNA PARK, MD 21146",
+        "marker-color": "3bb2d0",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "Arundel Beach Park and Ride"
       },
       "type": "Feature"
     },
@@ -243,14 +275,13 @@
       "geometry": {
         "coordinates": [
           -77.63510063806868,
-          39.3407731079757
+          39.34077310797569
         ],
         "type": "Point"
       },
       "id": 9,
       "properties": {
         "ADA_COMPLIANT": 1,
-        "ADDRESS": "1000 JEFFERSON PIKE, KNOXVILLE, MD 21758",
         "ADDRESS_SIGNED": 2,
         "BIKE_RACKS": 2,
         "BUS_SHELTER": 2,
@@ -259,6 +290,7 @@
         "EM_TRUCK_PARK": 2,
         "ENT_WIDTH": 35,
         "FENCED": 2,
+        "GLOBAL_SEGMENT_ID": 15585577,
         "LAST_UPDATE": "2015-07-13",
         "LIGHTS": 1,
         "LOCATION": "MD 180 @ MD 17 ( Rosemont)",
@@ -269,11 +301,15 @@
         "OWNER": "SHA",
         "PAY_PHONE": 2,
         "SIGNED": 2,
-        "SIGNED_NAME": "MD 180 @ MD 17 ( Rosemont)",
         "TOTAL_ELEC_STA": 0,
         "VEIP_KIOSK": 2,
         "YEAR_CONST": 1985,
-        "YEAR_EXPANDED": 1979
+        "YEAR_EXPANDED": 1979,
+        "description": "1000 JEFFERSON PIKE, KNOXVILLE, MD 21758",
+        "marker-color": "fbb03b",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "MD 180 @ MD 17 ( Rosemont)"
       },
       "type": "Feature"
     },
@@ -288,7 +324,6 @@
       "id": 10,
       "properties": {
         "ADA_COMPLIANT": 1,
-        "ADDRESS": "5498 ELMER DERR RD, FREDERICK, MD 21703",
         "ADDRESS_SIGNED": 2,
         "BIKE_RACKS": 1,
         "BUS_SHELTER": 2,
@@ -298,6 +333,7 @@
         "ENT_WIDTH": 14,
         "EXIT_NUMBER": "9",
         "FENCED": 2,
+        "GLOBAL_SEGMENT_ID": 14548991,
         "LAST_UPDATE": "2015-07-13",
         "LIGHTS": 1,
         "LOCATION": "US 340 @ Mt. Zion Road (West Lot)",
@@ -308,11 +344,15 @@
         "OWNER": "SHA",
         "PAY_PHONE": 2,
         "SIGNED": 2,
-        "SIGNED_NAME": "US 340 @ Mt. Zion Road (West Lot)",
         "TOTAL_ELEC_STA": 0,
         "VEIP_KIOSK": 2,
         "YEAR_CONST": 2011,
-        "YEAR_EXPANDED": 2011
+        "YEAR_EXPANDED": 2011,
+        "description": "5498 ELMER DERR RD, FREDERICK, MD 21703",
+        "marker-color": "fbb03b",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "US 340 @ Mt. Zion Road (West Lot)"
       },
       "type": "Feature"
     },
@@ -320,14 +360,13 @@
       "geometry": {
         "coordinates": [
           -75.95110468734948,
-          39.62023468104712
+          39.620234681047116
         ],
         "type": "Point"
       },
       "id": 11,
       "properties": {
         "ADA_COMPLIANT": 2,
-        "ADDRESS": "355 NORTH EAST RD, NORTH EAST, MD 21901",
         "ADDRESS_SIGNED": 2,
         "BIKE_RACKS": 2,
         "BUS_SHELTER": 2,
@@ -338,6 +377,7 @@
         "ENT_WIDTH": 26,
         "EXIT_NUMBER": "100",
         "FENCED": 2,
+        "GLOBAL_SEGMENT_ID": 53957728,
         "LAST_UPDATE": "2015-07-08",
         "LIGHTS": 2,
         "LOCATION": "IS 95 @ MD 272",
@@ -348,11 +388,15 @@
         "OWNER": "SHA",
         "PAY_PHONE": 2,
         "SIGNED": 2,
-        "SIGNED_NAME": "IS 95 @ MD 272",
         "TOTAL_ELEC_STA": 0,
         "VEIP_KIOSK": 2,
         "YEAR_CONST": 2000,
-        "YEAR_EXPANDED": 2000
+        "YEAR_EXPANDED": 2000,
+        "description": "355 NORTH EAST RD, NORTH EAST, MD 21901",
+        "marker-color": "fbb03b",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "IS 95 @ MD 272"
       },
       "type": "Feature"
     },
@@ -367,7 +411,6 @@
       "id": 12,
       "properties": {
         "ADA_COMPLIANT": 2,
-        "ADDRESS": "620 EAST WEST HWY, BEL AIR, MD 21014",
         "ADDRESS_SIGNED": 2,
         "BIKE_RACKS": 2,
         "BUS_SHELTER": 1,
@@ -376,6 +419,7 @@
         "EM_TRUCK_PARK": 2,
         "ENT_WIDTH": 29,
         "FENCED": 2,
+        "GLOBAL_SEGMENT_ID": 20883782,
         "LAST_UPDATE": "2015-07-08",
         "LIGHTS": 1,
         "LOCATION": "MD 23 @ US 1 (Hickory)",
@@ -386,11 +430,15 @@
         "OWNER": "SHA",
         "PAY_PHONE": 2,
         "SIGNED": 2,
-        "SIGNED_NAME": "MD 23 @ US 1 (Hickory)",
         "TOTAL_ELEC_STA": 0,
         "VEIP_KIOSK": 2,
         "YEAR_CONST": 2000,
-        "YEAR_EXPANDED": 2000
+        "YEAR_EXPANDED": 2000,
+        "description": "620 EAST WEST HWY, BEL AIR, MD 21014",
+        "marker-color": "fbb03b",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "MD 23 @ US 1 (Hickory)"
       },
       "type": "Feature"
     },
@@ -398,14 +446,13 @@
       "geometry": {
         "coordinates": [
           -76.66550574671687,
-          39.22720883433439
+          39.227208834334405
         ],
         "type": "Point"
       },
       "id": 13,
       "properties": {
         "ADA_COMPLIANT": 2,
-        "ADDRESS": "824 HAMMONDS FERRY ROAD, LINTHICUM HEIGHTS, MD 21090",
         "ADDRESS_SIGNED": 2,
         "BIKE_RACKS": 2,
         "BUS_SHELTER": 2,
@@ -415,6 +462,7 @@
         "ENT_WIDTH": 36,
         "EXIT_NUMBER": "8",
         "FENCED": 2,
+        "GLOBAL_SEGMENT_ID": 34694236,
         "LAST_UPDATE": "2016-05-11",
         "LESSEE": "DNR",
         "LIGHTS": 2,
@@ -426,11 +474,15 @@
         "OWNER": "SHA",
         "PAY_PHONE": 2,
         "SIGNED": 2,
-        "SIGNED_NAME": "IS 695 @ Hammonds Ferry Rd",
         "TOTAL_ELEC_STA": 0,
         "VEIP_KIOSK": 2,
         "YEAR_CONST": 1982,
-        "YEAR_EXPANDED": 1982
+        "YEAR_EXPANDED": 1982,
+        "description": "824 HAMMONDS FERRY ROAD, LINTHICUM HEIGHTS, MD 21090",
+        "marker-color": "fbb03b",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "IS 695 @ Hammonds Ferry Rd"
       },
       "type": "Feature"
     },
@@ -438,14 +490,13 @@
       "geometry": {
         "coordinates": [
           -78.56926542768944,
-          39.70743411594354
+          39.70743411594355
         ],
         "type": "Point"
       },
       "id": 14,
       "properties": {
         "ADA_COMPLIANT": 2,
-        "ADDRESS": "21608 FLINTSTONE CREEK ROAD, FLINTSTONE, MD 21530",
         "ADDRESS_SIGNED": 2,
         "BIKE_RACKS": 2,
         "BUS_SHELTER": 2,
@@ -455,6 +506,7 @@
         "ENT_WIDTH": 22,
         "EXIT_NUMBER": "56",
         "FENCED": 2,
+        "GLOBAL_SEGMENT_ID": 695949,
         "LAST_UPDATE": "2016-05-11",
         "LESSEE": "County",
         "LIGHTS": 1,
@@ -466,11 +518,15 @@
         "OWNER": "SHA",
         "PAY_PHONE": 2,
         "SIGNED": 2,
-        "SIGNED_NAME": "IS 68 @ MD 948 (Flintstone)",
         "TOTAL_ELEC_STA": 0,
         "VEIP_KIOSK": 2,
         "YEAR_CONST": 1998,
-        "YEAR_EXPANDED": 1998
+        "YEAR_EXPANDED": 1998,
+        "description": "21608 FLINTSTONE CREEK ROAD, FLINTSTONE, MD 21530",
+        "marker-color": "fbb03b",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "IS 68 @ MD 948 (Flintstone)"
       },
       "type": "Feature"
     },
@@ -478,14 +534,13 @@
       "geometry": {
         "coordinates": [
           -76.44634729724224,
-          39.42659922368339
+          39.4265992236834
         ],
         "type": "Point"
       },
       "id": 15,
       "properties": {
         "ADA_COMPLIANT": 2,
-        "ADDRESS": "10050 BELAIR ROAD, KINGSVILLE, MD 21087",
         "ADDRESS_SIGNED": 2,
         "BIKE_RACKS": 2,
         "BUS_SHELTER": 2,
@@ -494,6 +549,7 @@
         "EM_TRUCK_PARK": 2,
         "ENT_WIDTH": 25,
         "FENCED": 2,
+        "GLOBAL_SEGMENT_ID": 40548025,
         "LAST_UPDATE": "2015-07-08",
         "LIGHTS": 2,
         "LOCATION": "US 1 @ Gunpowder Falls (Perry Hall)",
@@ -504,11 +560,15 @@
         "OWNER": "SHA",
         "PAY_PHONE": 2,
         "SIGNED": 2,
-        "SIGNED_NAME": "US 1 @ Gunpowder Falls (Perry Hall)",
         "TOTAL_ELEC_STA": 0,
         "VEIP_KIOSK": 2,
         "YEAR_CONST": 1993,
-        "YEAR_EXPANDED": 1993
+        "YEAR_EXPANDED": 1993,
+        "description": "10050 BELAIR ROAD, KINGSVILLE, MD 21087",
+        "marker-color": "fbb03b",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "US 1 @ Gunpowder Falls (Perry Hall)"
       },
       "type": "Feature"
     },
@@ -516,14 +576,13 @@
       "geometry": {
         "coordinates": [
           -78.72861077435701,
-          39.674950916631694
+          39.6749509166317
         ],
         "type": "Point"
       },
       "id": 16,
       "properties": {
         "ADA_COMPLIANT": 1,
-        "ADDRESS": "12701 ALI GHAN ROAD, NE, CUMBERLAND, MD 21502",
         "ADDRESS_SIGNED": 2,
         "BIKE_RACKS": 1,
         "BUS_SHELTER": 2,
@@ -533,6 +592,7 @@
         "ENT_WIDTH": 34,
         "EXIT_NUMBER": "46",
         "FENCED": 2,
+        "GLOBAL_SEGMENT_ID": 647981,
         "LAST_UPDATE": "2015-07-09",
         "LIGHTS": 1,
         "LOCATION": "IS 68 @ Christie Rd",
@@ -543,11 +603,15 @@
         "OWNER": "SHA",
         "PAY_PHONE": 2,
         "SIGNED": 2,
-        "SIGNED_NAME": "IS 68 @ Christie Rd",
         "TOTAL_ELEC_STA": 0,
         "VEIP_KIOSK": 2,
         "YEAR_CONST": 1981,
-        "YEAR_EXPANDED": 1981
+        "YEAR_EXPANDED": 1981,
+        "description": "12701 ALI GHAN ROAD, NE, CUMBERLAND, MD 21502",
+        "marker-color": "fbb03b",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "IS 68 @ Christie Rd"
       },
       "type": "Feature"
     },
@@ -562,7 +626,6 @@
       "id": 17,
       "properties": {
         "ADA_COMPLIANT": 2,
-        "ADDRESS": "19685 WEVERTON CLIFFS ROAD, KNOXVILLE, MD 21758",
         "ADDRESS_SIGNED": 2,
         "BIKE_RACKS": 1,
         "BUS_SHELTER": 2,
@@ -571,6 +634,7 @@
         "EM_TRUCK_PARK": 2,
         "ENT_WIDTH": 38,
         "FENCED": 2,
+        "GLOBAL_SEGMENT_ID": 24957077,
         "LAST_UPDATE": "2015-07-09",
         "LIGHTS": 1,
         "LOCATION": "US 340 @ MD 67 (MD 67D Weverton)",
@@ -582,11 +646,15 @@
         "PAY_PHONE": 2,
         "PNR_STATUS_ID": 1,
         "SIGNED": 2,
-        "SIGNED_NAME": "US 340 @ MD 67 (MD 67D Weverton)",
         "TOTAL_ELEC_STA": 0,
         "VEIP_KIOSK": 2,
         "YEAR_CONST": 2010,
-        "YEAR_EXPANDED": 2010
+        "YEAR_EXPANDED": 2010,
+        "description": "19685 WEVERTON CLIFFS ROAD, KNOXVILLE, MD 21758",
+        "marker-color": "fbb03b",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "US 340 @ MD 67 (MD 67D Weverton)"
       },
       "type": "Feature"
     },
@@ -601,7 +669,6 @@
       "id": 18,
       "properties": {
         "ADA_COMPLIANT": 2,
-        "ADDRESS": "7802 SANDY SPRING RD, LAUREL, MD 20707",
         "ADDRESS_SIGNED": 2,
         "BIKE_RACKS": 2,
         "BUS_SHELTER": 2,
@@ -611,6 +678,7 @@
         "EM_TRUCK_PARK": 2,
         "ENT_WIDTH": 30,
         "FENCED": 2,
+        "GLOBAL_SEGMENT_ID": 62427977,
         "LAST_UPDATE": "2015-07-16",
         "LIGHTS": 1,
         "LOCATION": "MD 198 @ Van Dusen Road (Laurel)",
@@ -621,11 +689,15 @@
         "OWNER": "SHA",
         "PAY_PHONE": 2,
         "SIGNED": 2,
-        "SIGNED_NAME": "MD 198 @ Van Dusen Road (Laurel)",
         "TOTAL_ELEC_STA": 0,
         "VEIP_KIOSK": 2,
         "YEAR_CONST": 1986,
-        "YEAR_EXPANDED": 1978
+        "YEAR_EXPANDED": 1978,
+        "description": "7802 SANDY SPRING RD, LAUREL, MD 20707",
+        "marker-color": "fbb03b",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "MD 198 @ Van Dusen Road (Laurel)"
       },
       "type": "Feature"
     },
@@ -640,7 +712,6 @@
       "id": 19,
       "properties": {
         "ADA_COMPLIANT": 2,
-        "ADDRESS": "301 PHILLIP MORRIS DRIVE, SALISBURY, MD 21804",
         "ADDRESS_SIGNED": 2,
         "BIKE_RACKS": 2,
         "BUS_SHELTER": 2,
@@ -649,6 +720,7 @@
         "EM_TRUCK_PARK": 2,
         "ENT_WIDTH": 30,
         "FENCED": 2,
+        "GLOBAL_SEGMENT_ID": 18086774,
         "LAST_UPDATE": "2015-07-16",
         "LIGHTS": 1,
         "LOCATION": "US 50 @ Philip Morris Drive (Salisbury)",
@@ -660,11 +732,15 @@
         "OWNER": "SHA",
         "PAY_PHONE": 2,
         "SIGNED": 2,
-        "SIGNED_NAME": "US 50 @ Philip Morris Drive (Salisbury)",
         "TOTAL_ELEC_STA": 0,
         "VEIP_KIOSK": 2,
         "YEAR_CONST": 1978,
-        "YEAR_EXPANDED": 1978
+        "YEAR_EXPANDED": 1978,
+        "description": "301 PHILLIP MORRIS DRIVE, SALISBURY, MD 21804",
+        "marker-color": "fbb03b",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "US 50 @ Philip Morris Drive (Salisbury)"
       },
       "type": "Feature"
     },
@@ -672,14 +748,13 @@
       "geometry": {
         "coordinates": [
           -77.73152343805397,
-          39.6015938562772
+          39.601593856277205
         ],
         "type": "Point"
       },
       "id": 20,
       "properties": {
         "ADA_COMPLIANT": 1,
-        "ADDRESS": "18215 COLONEL HENRY K DOUGLAS DRIVE, HAGERSTOWN, MD 21740",
         "ADDRESS_SIGNED": 2,
         "BIKE_RACKS": 2,
         "BUS_SHELTER": 1,
@@ -689,6 +764,7 @@
         "ENT_WIDTH": 14,
         "EXIT_NUMBER": "29",
         "FENCED": 2,
+        "GLOBAL_SEGMENT_ID": 24931348,
         "LAST_UPDATE": "2015-07-09",
         "LESSEE": "MVA",
         "LIGHTS": 1,
@@ -700,11 +776,15 @@
         "OWNER": "SHA",
         "PAY_PHONE": 2,
         "SIGNED": 2,
-        "SIGNED_NAME": "IS 70 @ MD 65 (MVA Lower Lot)",
         "TOTAL_ELEC_STA": 0,
         "VEIP_KIOSK": 2,
         "YEAR_CONST": 1994,
-        "YEAR_EXPANDED": 1987
+        "YEAR_EXPANDED": 1987,
+        "description": "18215 COLONEL HENRY K DOUGLAS DRIVE, HAGERSTOWN, MD 21740",
+        "marker-color": "fbb03b",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "IS 70 @ MD 65 (MVA Lower Lot)"
       },
       "type": "Feature"
     },
@@ -719,7 +799,6 @@
       "id": 21,
       "properties": {
         "ADA_COMPLIANT": 2,
-        "ADDRESS": "12101 EDGEHILL TERRACE, PRINCESS ANNE, MD 21853",
         "ADDRESS_SIGNED": 2,
         "BIKE_RACKS": 2,
         "BUS_SHELTER": 2,
@@ -728,6 +807,7 @@
         "EM_TRUCK_PARK": 2,
         "ENT_WIDTH": 30,
         "FENCED": 2,
+        "GLOBAL_SEGMENT_ID": 23805380,
         "LAST_UPDATE": "2015-09-17",
         "LIGHTS": 2,
         "LOCATION": "US 13 @ MD 362",
@@ -738,11 +818,15 @@
         "OWNER": "SHA",
         "PAY_PHONE": 2,
         "SIGNED": 2,
-        "SIGNED_NAME": "US 13 @ MD 362",
         "TOTAL_ELEC_STA": 0,
         "VEIP_KIOSK": 2,
         "YEAR_CONST": 1978,
-        "YEAR_EXPANDED": 1978
+        "YEAR_EXPANDED": 1978,
+        "description": "12101 EDGEHILL TERRACE, PRINCESS ANNE, MD 21853",
+        "marker-color": "fbb03b",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "US 13 @ MD 362"
       },
       "type": "Feature"
     },
@@ -750,14 +834,13 @@
       "geometry": {
         "coordinates": [
           -77.53189220521978,
-          39.36054206744691
+          39.360542067446914
         ],
         "type": "Point"
       },
       "id": 22,
       "properties": {
         "ADA_COMPLIANT": 2,
-        "ADDRESS": "4601 LANDER RD, JEFFERSON, MD 21755",
         "ADDRESS_SIGNED": 2,
         "BIKE_RACKS": 2,
         "BUS_SHELTER": 2,
@@ -767,6 +850,7 @@
         "ENT_WIDTH": 32,
         "EXIT_NUMBER": "8",
         "FENCED": 2,
+        "GLOBAL_SEGMENT_ID": 48426716,
         "LAST_UPDATE": "2016-05-11",
         "LESSEE": "Ruritan Club",
         "LIGHTS": 1,
@@ -778,11 +862,15 @@
         "OWNER": "SHA",
         "PAY_PHONE": 2,
         "SIGNED": 2,
-        "SIGNED_NAME": "US 340 @ Lander Road",
         "TOTAL_ELEC_STA": 0,
         "VEIP_KIOSK": 2,
         "YEAR_CONST": 2007,
-        "YEAR_EXPANDED": 1984
+        "YEAR_EXPANDED": 1984,
+        "description": "4601 LANDER RD, JEFFERSON, MD 21755",
+        "marker-color": "fbb03b",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "US 340 @ Lander Road"
       },
       "type": "Feature"
     },
@@ -790,14 +878,13 @@
       "geometry": {
         "coordinates": [
           -76.15234047263858,
-          38.501645815710766
+          38.50164581571076
         ],
         "type": "Point"
       },
       "id": 23,
       "properties": {
         "ADA_COMPLIANT": 2,
-        "ADDRESS": "4682 GOLDEN HILL RD, CHURCH CREEK, MD 21622",
         "ADDRESS_SIGNED": 2,
         "BIKE_RACKS": 2,
         "BUS_SHELTER": 2,
@@ -806,6 +893,7 @@
         "EM_TRUCK_PARK": 2,
         "ENT_WIDTH": 21,
         "FENCED": 2,
+        "GLOBAL_SEGMENT_ID": 56805745,
         "LAST_UPDATE": "2015-07-16",
         "LIGHTS": 1,
         "LOCATION": "MD 16 @ MD 335 (Church Creek)",
@@ -817,10 +905,14 @@
         "PAY_PHONE": 2,
         "PNR_STATUS_ID": 1,
         "SIGNED": 2,
-        "SIGNED_NAME": "MD 16 @ MD 335 (Church Creek)",
         "TOTAL_ELEC_STA": 0,
         "VEIP_KIOSK": 2,
-        "YEAR_CONST": 1978
+        "YEAR_CONST": 1978,
+        "description": "4682 GOLDEN HILL RD, CHURCH CREEK, MD 21622",
+        "marker-color": "fbb03b",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "MD 16 @ MD 335 (Church Creek)"
       },
       "type": "Feature"
     },
@@ -828,22 +920,26 @@
       "geometry": {
         "coordinates": [
           -76.67267880150816,
-          39.19201149842482
+          39.19201149842483
         ],
         "type": "Point"
       },
       "id": 24,
       "properties": {
-        "ADDRESS": "678 ELKRIDGE LANDING RD, LINTHICUM, MD 21090",
         "ADDRESS_SIGNED": 2,
         "CREATION_DATE": "2016-03-07",
+        "GLOBAL_SEGMENT_ID": 4804615,
         "LAST_UPDATE": "2016-03-07",
         "LOCATION": "BWI Business District Park and Ridge",
         "LOT_ID": 284,
         "MAINTAINED_BY_ID": 2,
         "OWNER": "OTHER",
         "PNR_STATUS_ID": 1,
-        "SIGNED_NAME": "BWI Business District Park and Ridge"
+        "description": "678 ELKRIDGE LANDING RD, LINTHICUM, MD 21090",
+        "marker-color": "3bb2d0",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "BWI Business District Park and Ridge"
       },
       "type": "Feature"
     },
@@ -857,16 +953,20 @@
       },
       "id": 25,
       "properties": {
-        "ADDRESS": "109 S PHILADELPHIA BLVD, ABERDEEN, MD 21001",
         "ADDRESS_SIGNED": 2,
         "CREATION_DATE": "2016-02-12",
+        "GLOBAL_SEGMENT_ID": 21185241,
         "LAST_UPDATE": "2016-03-07",
         "LOCATION": "Aberdeen MARC Station (Penn Line)",
         "LOT_ID": 296,
         "MAINTAINED_BY_ID": 2,
         "OWNER": "OTHER",
         "PNR_STATUS_ID": 1,
-        "SIGNED_NAME": "Aberdeen MARC Station (Penn Line)"
+        "description": "109 S PHILADELPHIA BLVD, ABERDEEN, MD 21001",
+        "marker-color": "3bb2d0",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "Aberdeen MARC Station (Penn Line)"
       },
       "type": "Feature"
     },
@@ -874,14 +974,13 @@
       "geometry": {
         "coordinates": [
           -76.02763019157287,
-          39.02790876077556
+          39.02790876077555
         ],
         "type": "Point"
       },
       "id": 26,
       "properties": {
         "ADA_COMPLIANT": 2,
-        "ADDRESS": "105 TIDEWATER DR, CENTREVILLE, MD 21617",
         "ADDRESS_SIGNED": 2,
         "BIKE_RACKS": 2,
         "BUS_SHELTER": 2,
@@ -890,6 +989,7 @@
         "EMERG_COND": 2,
         "EM_TRUCK_PARK": 2,
         "FENCED": 2,
+        "GLOBAL_SEGMENT_ID": 23265321,
         "LAST_UPDATE": "2015-07-16",
         "LIGHTS": 2,
         "LOCATION": "US 301 @ MD 304",
@@ -900,11 +1000,15 @@
         "OWNER": "SHA",
         "PAY_PHONE": 2,
         "SIGNED": 2,
-        "SIGNED_NAME": "US 301 @ MD 304",
         "TOTAL_ELEC_STA": 0,
         "VEIP_KIOSK": 2,
         "YEAR_CONST": 1998,
-        "YEAR_EXPANDED": 1998
+        "YEAR_EXPANDED": 1998,
+        "description": "105 TIDEWATER DR, CENTREVILLE, MD 21617",
+        "marker-color": "fbb03b",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "US 301 @ MD 304"
       },
       "type": "Feature"
     },
@@ -912,14 +1016,13 @@
       "geometry": {
         "coordinates": [
           -76.88124333957586,
-          38.9960528056315
+          38.996052805631514
         ],
         "type": "Point"
       },
       "id": 27,
       "properties": {
         "ADA_COMPLIANT": 2,
-        "ADDRESS": "5090 SOUTHWAY, GREENBELT, MD 20770",
         "ADDRESS_SIGNED": 2,
         "BIKE_RACKS": 2,
         "BUS_SHELTER": 2,
@@ -929,6 +1032,7 @@
         "ENT_WIDTH": 25,
         "EXIT_NUMBER": "22",
         "FENCED": 2,
+        "GLOBAL_SEGMENT_ID": 63218159,
         "LAST_UPDATE": "2016-05-11",
         "LESSEE": "SHA",
         "LIGHTS": 1,
@@ -940,11 +1044,15 @@
         "OWNER": "SHA",
         "PAY_PHONE": 2,
         "SIGNED": 2,
-        "SIGNED_NAME": "MD 193 @ B/W Parkway Armory",
         "TOTAL_ELEC_STA": 0,
         "VEIP_KIOSK": 2,
         "YEAR_CONST": 1981,
-        "YEAR_EXPANDED": 1981
+        "YEAR_EXPANDED": 1981,
+        "description": "5090 SOUTHWAY, GREENBELT, MD 20770",
+        "marker-color": "fbb03b",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "MD 193 @ B/W Parkway Armory"
       },
       "type": "Feature"
     },
@@ -959,7 +1067,6 @@
       "id": 28,
       "properties": {
         "ADA_COMPLIANT": 2,
-        "ADDRESS": "2700 CAPITAL BELTWAY INNER LOOP, COLLEGE PARK, MD 20740",
         "ADDRESS_SIGNED": 2,
         "BIKE_RACKS": 2,
         "BUS_SHELTER": 2,
@@ -970,6 +1077,7 @@
         "ENT_WIDTH": 34,
         "EXIT_NUMBER": "27",
         "FENCED": 2,
+        "GLOBAL_SEGMENT_ID": 30487104,
         "LAST_UPDATE": "2015-07-08",
         "LIGHTS": 1,
         "LOCATION": "IS 95 @ IS 495",
@@ -980,11 +1088,15 @@
         "OWNER": "SHA",
         "PAY_PHONE": 2,
         "SIGNED": 2,
-        "SIGNED_NAME": "IS 95 @ IS 495",
         "TOTAL_ELEC_STA": 0,
         "VEIP_KIOSK": 2,
         "YEAR_CONST": 2006,
-        "YEAR_EXPANDED": 1985
+        "YEAR_EXPANDED": 1985,
+        "description": "2700 CAPITAL BELTWAY INNER LOOP, COLLEGE PARK, MD 20740",
+        "marker-color": "fbb03b",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "IS 95 @ IS 495"
       },
       "type": "Feature"
     },
@@ -992,14 +1104,13 @@
       "geometry": {
         "coordinates": [
           -76.67156639037849,
-          39.49536188959483
+          39.495361889594825
         ],
         "type": "Point"
       },
       "id": 29,
       "properties": {
         "ADA_COMPLIANT": 2,
-        "ADDRESS": "700 SHAWAN ROAD, COCKEYSVILLE, MD 21030",
         "ADDRESS_SIGNED": 2,
         "BIKE_RACKS": 2,
         "BUS_SHELTER": 2,
@@ -1010,6 +1121,7 @@
         "ENT_WIDTH": 42,
         "EXIT_NUMBER": "20",
         "FENCED": 2,
+        "GLOBAL_SEGMENT_ID": 5157298,
         "LAST_UPDATE": "2016-04-11",
         "LIGHTS": 2,
         "LOCATION": "IS 83 @ Shawan Rd",
@@ -1020,26 +1132,29 @@
         "OWNER": "SHA",
         "PAY_PHONE": 2,
         "SIGNED": 2,
-        "SIGNED_NAME": "IS 83 @ Shawan Rd (unsigned)",
         "TOTAL_ELEC_STA": 0,
         "VEIP_KIOSK": 2,
         "YEAR_CONST": 1999,
-        "YEAR_EXPANDED": 1999
+        "YEAR_EXPANDED": 1999,
+        "description": "700 SHAWAN ROAD, COCKEYSVILLE, MD 21030",
+        "marker-color": "fbb03b",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "IS 83 @ Shawan Rd (unsigned)"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          -75.82044581617681,
-          39.58169032247729
+          -75.8204458161768,
+          39.5816903224773
         ],
         "type": "Point"
       },
       "id": 30,
       "properties": {
         "ADA_COMPLIANT": 2,
-        "ADDRESS": "560 AUGUSTINE HERMAN HWY, ELKTON, MD 21921",
         "ADDRESS_SIGNED": 2,
         "BIKE_RACKS": 2,
         "BUS_SHELTER": 2,
@@ -1049,6 +1164,7 @@
         "EM_TRUCK_PARK": 2,
         "ENT_WIDTH": 40,
         "FENCED": 2,
+        "GLOBAL_SEGMENT_ID": 19484205,
         "LAST_UPDATE": "2015-07-08",
         "LIGHTS": 1,
         "LOCATION": "MD 213 @ Frenchtown Road (Elkton)",
@@ -1059,11 +1175,15 @@
         "OWNER": "SHA",
         "PAY_PHONE": 2,
         "SIGNED": 2,
-        "SIGNED_NAME": "MD 213 @ Frenchtown Road (Elkton)",
         "TOTAL_ELEC_STA": 0,
         "VEIP_KIOSK": 2,
         "YEAR_CONST": 2005,
-        "YEAR_EXPANDED": 2005
+        "YEAR_EXPANDED": 2005,
+        "description": "560 AUGUSTINE HERMAN HWY, ELKTON, MD 21921",
+        "marker-color": "fbb03b",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "MD 213 @ Frenchtown Road (Elkton)"
       },
       "type": "Feature"
     },
@@ -1071,14 +1191,13 @@
       "geometry": {
         "coordinates": [
           -76.097810819714,
-          39.552684886469734
+          39.55268488646973
         ],
         "type": "Point"
       },
       "id": 31,
       "properties": {
         "ADA_COMPLIANT": 2,
-        "ADDRESS": "816 OTSEGO ST, HAVRE DE GRACE, MD 21078",
         "ADDRESS_SIGNED": 2,
         "BIKE_RACKS": 1,
         "BUS_SHELTER": 1,
@@ -1088,6 +1207,7 @@
         "EM_TRUCK_PARK": 2,
         "ENT_WIDTH": 13,
         "FENCED": 1,
+        "GLOBAL_SEGMENT_ID": 20870024,
         "LAST_UPDATE": "2015-07-08",
         "LIGHTS": 2,
         "LOCATION": "MD 7 A @ Juniata St",
@@ -1098,11 +1218,15 @@
         "OWNER": "SHA",
         "PAY_PHONE": 2,
         "SIGNED": 2,
-        "SIGNED_NAME": "MD 7 A @ Juniata St",
         "TOTAL_ELEC_STA": 0,
         "VEIP_KIOSK": 2,
         "YEAR_CONST": 2005,
-        "YEAR_EXPANDED": 2005
+        "YEAR_EXPANDED": 2005,
+        "description": "816 OTSEGO ST, HAVRE DE GRACE, MD 21078",
+        "marker-color": "fbb03b",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "MD 7 A @ Juniata St"
       },
       "type": "Feature"
     },
@@ -1110,7 +1234,7 @@
       "geometry": {
         "coordinates": [
           -77.29750445806967,
-          39.25002402798623
+          39.25002402798622
         ],
         "type": "Point"
       },
@@ -1119,13 +1243,17 @@
         "ADDRESS_SIGNED": 2,
         "COMMENTS": "Closed. Entrances gated.",
         "CREATION_DATE": "2015-11-16",
+        "GLOBAL_SEGMENT_ID": 28026416,
         "LAST_UPDATE": "2015-11-16",
         "LOCATION": "Comus Park and Ride",
         "LOT_ID": 123,
         "LOT_STATUS_ID": 4,
         "MAINTAINED_BY_ID": 2,
         "OWNER": "OTHER",
-        "SIGNED_NAME": "Comus Park and Ride"
+        "marker-color": "3bb2d0",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "Comus Park and Ride"
       },
       "type": "Feature"
     },
@@ -1140,11 +1268,15 @@
       "id": 33,
       "properties": {
         "ADDRESS_SIGNED": 2,
+        "GLOBAL_SEGMENT_ID": 25537298,
         "LOCATION": "Greencastle Park and Ride",
         "LOT_ID": 124,
         "MAINTAINED_BY_ID": 2,
         "OWNER": "OTHER",
-        "SIGNED_NAME": "Greencastle Park and Ride"
+        "marker-color": "3bb2d0",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "Greencastle Park and Ride"
       },
       "type": "Feature"
     },
@@ -1152,14 +1284,13 @@
       "geometry": {
         "coordinates": [
           -75.86271602931014,
-          39.26498568314228
+          39.26498568314229
         ],
         "type": "Point"
       },
       "id": 34,
       "properties": {
         "ADA_COMPLIANT": 2,
-        "ADDRESS": "31787 HOWARD JOHNSON ROAD, MILLINGTON, MD 21651",
         "ADDRESS_SIGNED": 2,
         "BIKE_RACKS": 2,
         "BUS_SHELTER": 2,
@@ -1169,6 +1300,7 @@
         "EM_TRUCK_PARK": 2,
         "ENT_WIDTH": 52,
         "FENCED": 2,
+        "GLOBAL_SEGMENT_ID": 54652810,
         "LAST_UPDATE": "2015-07-08",
         "LIGHTS": 1,
         "LOCATION": "US 301 @ MD 291",
@@ -1179,11 +1311,15 @@
         "OWNER": "SHA",
         "PAY_PHONE": 2,
         "SIGNED": 2,
-        "SIGNED_NAME": "US 301 @ MD 291",
         "TOTAL_ELEC_STA": 0,
         "VEIP_KIOSK": 2,
         "YEAR_CONST": 1999,
-        "YEAR_EXPANDED": 1999
+        "YEAR_EXPANDED": 1999,
+        "description": "31787 HOWARD JOHNSON ROAD, MILLINGTON, MD 21651",
+        "marker-color": "fbb03b",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "US 301 @ MD 291"
       },
       "type": "Feature"
     },
@@ -1199,12 +1335,16 @@
       "properties": {
         "ADDRESS_SIGNED": 2,
         "CREATION_DATE": "2015-07-06",
+        "GLOBAL_SEGMENT_ID": -1,
         "LAST_UPDATE": "2015-07-06",
         "LOCATION": "Laurel Racetrack Park and Ride, US 1 at Laurel Racetrack Entrance for Camden Line MARC Train",
         "LOT_ID": 126,
         "MAINTAINED_BY_ID": 2,
         "OWNER": "OTHER",
-        "SIGNED_NAME": "Laurel Racetrack Park and Ride, US 1 at Laurel Racetrack Entrance for Camden Line MARC Train"
+        "marker-color": "3bb2d0",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "Laurel Racetrack Park and Ride, US 1 at Laurel Racetrack Entrance for Camden Line MARC Train"
       },
       "type": "Feature"
     },
@@ -1212,14 +1352,13 @@
       "geometry": {
         "coordinates": [
           -76.90732082560346,
-          39.14622635119503
+          39.14622635119504
         ],
         "type": "Point"
       },
       "id": 36,
       "properties": {
         "ADA_COMPLIANT": 2,
-        "ADDRESS": "8251 OLD COLUMBIA ROAD, FULTON, MD 20759",
         "ADDRESS_SIGNED": 2,
         "BIKE_RACKS": 1,
         "BUS_SHELTER": 1,
@@ -1229,6 +1368,7 @@
         "ENT_WIDTH": 25,
         "EXIT_NUMBER": "13",
         "FENCED": 2,
+        "GLOBAL_SEGMENT_ID": 22472250,
         "LAST_UPDATE": "2015-07-09",
         "LIGHTS": 1,
         "LOCATION": "US 29 @ MD 216",
@@ -1239,11 +1379,15 @@
         "OWNER": "SHA",
         "PAY_PHONE": 2,
         "SIGNED": 2,
-        "SIGNED_NAME": "US 29 @ MD 216",
         "TOTAL_ELEC_STA": 0,
         "VEIP_KIOSK": 2,
         "YEAR_CONST": 1994,
-        "YEAR_EXPANDED": 1981
+        "YEAR_EXPANDED": 1981,
+        "description": "8251 OLD COLUMBIA ROAD, FULTON, MD 20759",
+        "marker-color": "fbb03b",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "US 29 @ MD 216"
       },
       "type": "Feature"
     },
@@ -1251,18 +1395,22 @@
       "geometry": {
         "coordinates": [
           -76.9408157907151,
-          39.20859435884581
+          39.2085943588458
         ],
         "type": "Point"
       },
       "id": 37,
       "properties": {
         "ADDRESS_SIGNED": 2,
+        "GLOBAL_SEGMENT_ID": 22427116,
         "LOCATION": "Clarksville Park and Ride",
         "LOT_ID": 129,
         "MAINTAINED_BY_ID": 2,
         "OWNER": "OTHER",
-        "SIGNED_NAME": "Clarksville Park and Ride"
+        "marker-color": "3bb2d0",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "Clarksville Park and Ride"
       },
       "type": "Feature"
     },
@@ -1277,11 +1425,15 @@
       "id": 38,
       "properties": {
         "ADDRESS_SIGNED": 2,
+        "GLOBAL_SEGMENT_ID": 22413805,
         "LOCATION": "Dorsey Park and Ride for the Camden Line MARC Train",
         "LOT_ID": 130,
         "MAINTAINED_BY_ID": 2,
         "OWNER": "OTHER",
-        "SIGNED_NAME": "Dorsey Park and Ride for the Camden Line MARC Train"
+        "marker-color": "3bb2d0",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "Dorsey Park and Ride for the Camden Line MARC Train"
       },
       "type": "Feature"
     },
@@ -1289,14 +1441,13 @@
       "geometry": {
         "coordinates": [
           -77.01911318295785,
-          39.32048211616281
+          39.320482116162815
         ],
         "type": "Point"
       },
       "id": 39,
       "properties": {
         "ADA_COMPLIANT": 2,
-        "ADDRESS": "14510 FREDERICK ROAD, COOKSVILLE, MD 21723",
         "ADDRESS_SIGNED": 2,
         "BIKE_RACKS": 2,
         "BUS_SHELTER": 2,
@@ -1306,6 +1457,7 @@
         "ENT_WIDTH": 36,
         "EXIT_NUMBER": "76",
         "FENCED": 2,
+        "GLOBAL_SEGMENT_ID": 61114382,
         "LAST_UPDATE": "2015-07-09",
         "LIGHTS": 1,
         "LOCATION": "IS 70 @ MD 97 (MD144) Cooksville",
@@ -1316,11 +1468,15 @@
         "OWNER": "SHA",
         "PAY_PHONE": 2,
         "SIGNED": 2,
-        "SIGNED_NAME": "IS 70 @ MD 97 (MD144) Cooksville",
         "TOTAL_ELEC_STA": 0,
         "VEIP_KIOSK": 2,
         "YEAR_CONST": 1987,
-        "YEAR_EXPANDED": 1987
+        "YEAR_EXPANDED": 1987,
+        "description": "14510 FREDERICK ROAD, COOKSVILLE, MD 21723",
+        "marker-color": "fbb03b",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "IS 70 @ MD 97 (MD144) Cooksville"
       },
       "type": "Feature"
     },
@@ -1328,14 +1484,13 @@
       "geometry": {
         "coordinates": [
           -76.95043068455566,
-          39.3156054541509
+          39.31560545415089
         ],
         "type": "Point"
       },
       "id": 40,
       "properties": {
         "ADA_COMPLIANT": 2,
-        "ADDRESS": "2050 SYKESVILLE ROAD, SYKESVILLE, MD 21784",
         "ADDRESS_SIGNED": 2,
         "BIKE_RACKS": 1,
         "BUS_SHELTER": 2,
@@ -1345,6 +1500,7 @@
         "ENT_WIDTH": 32,
         "EXIT_NUMBER": "80",
         "FENCED": 2,
+        "GLOBAL_SEGMENT_ID": 61030532,
         "LAST_UPDATE": "2015-07-09",
         "LIGHTS": 1,
         "LOCATION": "IS 70 @ MD 32 (West Friendship)",
@@ -1355,11 +1511,15 @@
         "OWNER": "SHA",
         "PAY_PHONE": 2,
         "SIGNED": 2,
-        "SIGNED_NAME": "IS 70 @ MD 32 (West Friendship)",
         "TOTAL_ELEC_STA": 0,
         "VEIP_KIOSK": 2,
         "YEAR_CONST": 2005,
-        "YEAR_EXPANDED": 1980
+        "YEAR_EXPANDED": 1980,
+        "description": "2050 SYKESVILLE ROAD, SYKESVILLE, MD 21784",
+        "marker-color": "fbb03b",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "IS 70 @ MD 32 (West Friendship)"
       },
       "type": "Feature"
     },
@@ -1367,14 +1527,13 @@
       "geometry": {
         "coordinates": [
           -76.8191038375901,
-          39.24750481599264
+          39.247504815992635
         ],
         "type": "Point"
       },
       "id": 41,
       "properties": {
         "ADA_COMPLIANT": 2,
-        "ADDRESS": "4951 MEADOWBROOK LANE, ELLICOTT CITY, MD 21043",
         "ADDRESS_SIGNED": 2,
         "BIKE_RACKS": 1,
         "BUS_SHELTER": 1,
@@ -1384,6 +1543,7 @@
         "ENT_WIDTH": 28,
         "EXIT_NUMBER": "1A",
         "FENCED": 2,
+        "GLOBAL_SEGMENT_ID": 22261856,
         "LAST_UPDATE": "2015-07-09",
         "LIGHTS": 1,
         "LOCATION": "MD 100 @ Long Gate Parkway (Columbia)",
@@ -1394,11 +1554,15 @@
         "OWNER": "SHA",
         "PAY_PHONE": 2,
         "SIGNED": 2,
-        "SIGNED_NAME": "MD 100 @ Long Gate Parkway (Columbia)",
         "TOTAL_ELEC_STA": 0,
         "VEIP_KIOSK": 2,
         "YEAR_CONST": 1996,
-        "YEAR_EXPANDED": 1996
+        "YEAR_EXPANDED": 1996,
+        "description": "4951 MEADOWBROOK LANE, ELLICOTT CITY, MD 21043",
+        "marker-color": "fbb03b",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "MD 100 @ Long Gate Parkway (Columbia)"
       },
       "type": "Feature"
     },
@@ -1406,19 +1570,23 @@
       "geometry": {
         "coordinates": [
           -76.51965451395111,
-          39.30014965879357
+          39.300149658793565
         ],
         "type": "Point"
       },
       "id": 42,
       "properties": {
         "ADDRESS_SIGNED": 2,
+        "GLOBAL_SEGMENT_ID": 6826157,
         "LAST_UPDATE": "2014-12-17",
         "LOCATION": "Canton Industrial Park Park and Ride",
         "LOT_ID": 81,
         "MAINTAINED_BY_ID": 2,
         "OWNER": "OTHER",
-        "SIGNED_NAME": "Canton Industrial Park Park and Ride"
+        "marker-color": "3bb2d0",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "Canton Industrial Park Park and Ride"
       },
       "type": "Feature"
     },
@@ -1426,14 +1594,13 @@
       "geometry": {
         "coordinates": [
           -76.57850290122698,
-          39.41029353582018
+          39.410293535820195
         ],
         "type": "Point"
       },
       "id": 43,
       "properties": {
         "ADA_COMPLIANT": 2,
-        "ADDRESS": "1001 PROVIDENCE ROAD, TOWSON, MD 21286",
         "ADDRESS_SIGNED": 2,
         "BIKE_RACKS": 2,
         "BUS_SHELTER": 2,
@@ -1443,6 +1610,7 @@
         "ENT_WIDTH": 24,
         "EXIT_NUMBER": "28",
         "FENCED": 2,
+        "GLOBAL_SEGMENT_ID": 38595504,
         "LAST_UPDATE": "2015-07-08",
         "LIGHTS": 1,
         "LOCATION": "IS 695 @ Providence RD",
@@ -1453,11 +1621,15 @@
         "OWNER": "SHA",
         "PAY_PHONE": 2,
         "SIGNED": 2,
-        "SIGNED_NAME": "IS 695 @ Providence RD",
         "TOTAL_ELEC_STA": 0,
         "VEIP_KIOSK": 2,
         "YEAR_CONST": 2010,
-        "YEAR_EXPANDED": 1976
+        "YEAR_EXPANDED": 1976,
+        "description": "1001 PROVIDENCE ROAD, TOWSON, MD 21286",
+        "marker-color": "fbb03b",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "IS 695 @ Providence RD"
       },
       "type": "Feature"
     },
@@ -1465,7 +1637,7 @@
       "geometry": {
         "coordinates": [
           -76.7790457550104,
-          39.410142212577654
+          39.41014221257766
         ],
         "type": "Point"
       },
@@ -1473,12 +1645,16 @@
       "properties": {
         "ADDRESS_SIGNED": 2,
         "CREATION_DATE": "2016-02-18",
+        "GLOBAL_SEGMENT_ID": 38289497,
         "LAST_UPDATE": "2016-02-18",
         "LOCATION": "Owings Mills Park and Ride (North Ent)",
         "LOT_ID": 85,
         "MAINTAINED_BY_ID": 2,
         "OWNER": "OTHER",
-        "SIGNED_NAME": "Owings Mills Park and Ride"
+        "marker-color": "3bb2d0",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "Owings Mills Park and Ride"
       },
       "type": "Feature"
     },
@@ -1486,18 +1662,22 @@
       "geometry": {
         "coordinates": [
           -76.91764584224839,
-          39.51993383736999
+          39.519933837370004
         ],
         "type": "Point"
       },
       "id": 45,
       "properties": {
         "ADDRESS_SIGNED": 2,
+        "GLOBAL_SEGMENT_ID": 12121567,
         "LOCATION": "Sandymount Park and Ride",
         "LOT_ID": 86,
         "MAINTAINED_BY_ID": 2,
         "OWNER": "OTHER",
-        "SIGNED_NAME": "Sandymount Park and Ride"
+        "marker-color": "3bb2d0",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "Sandymount Park and Ride"
       },
       "type": "Feature"
     },
@@ -1512,12 +1692,16 @@
       "id": 46,
       "properties": {
         "ADDRESS_SIGNED": 2,
+        "GLOBAL_SEGMENT_ID": 5884100,
         "LAST_UPDATE": "2014-09-25",
         "LOCATION": "Park and Ride, US 40 null Rd.",
         "LOT_ID": 87,
         "MAINTAINED_BY_ID": 2,
         "OWNER": "OTHER",
-        "SIGNED_NAME": "Park and Ride, US 40 null Rd."
+        "marker-color": "3bb2d0",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "Park and Ride, US 40 null Rd."
       },
       "type": "Feature"
     },
@@ -1525,18 +1709,22 @@
       "geometry": {
         "coordinates": [
           -76.74177174871464,
-          39.372073079387334
+          39.37207307938734
         ],
         "type": "Point"
       },
       "id": 47,
       "properties": {
         "ADDRESS_SIGNED": 2,
+        "GLOBAL_SEGMENT_ID": 38119500,
         "LOCATION": "Old Court Park and Ride",
         "LOT_ID": 88,
         "MAINTAINED_BY_ID": 2,
         "OWNER": "OTHER",
-        "SIGNED_NAME": "Old Court Park and Ride"
+        "marker-color": "3bb2d0",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "Old Court Park and Ride"
       },
       "type": "Feature"
     },
@@ -1544,19 +1732,23 @@
       "geometry": {
         "coordinates": [
           -76.63550831794194,
-          39.44714061869431
+          39.44714061869432
         ],
         "type": "Point"
       },
       "id": 48,
       "properties": {
         "ADDRESS_SIGNED": 2,
+        "GLOBAL_SEGMENT_ID": 5573618,
         "LAST_UPDATE": "2014-09-15",
         "LOCATION": "Timonium Park and Ride",
         "LOT_ID": 89,
         "MAINTAINED_BY_ID": 2,
         "OWNER": "OTHER",
-        "SIGNED_NAME": "Timonium Park and Ride"
+        "marker-color": "3bb2d0",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "Timonium Park and Ride"
       },
       "type": "Feature"
     },
@@ -1564,14 +1756,13 @@
       "geometry": {
         "coordinates": [
           -76.1971197511267,
-          39.529767627393774
+          39.52976762739376
         ],
         "type": "Point"
       },
       "id": 49,
       "properties": {
         "ADA_COMPLIANT": 2,
-        "ADDRESS": "1191 TECHNOLOGY DR, ABERDEEN, MD 21001",
         "ADDRESS_SIGNED": 2,
         "BIKE_RACKS": 2,
         "BUS_SHELTER": 2,
@@ -1581,6 +1772,7 @@
         "ENT_WIDTH": 24,
         "EXIT_NUMBER": "85",
         "FENCED": 2,
+        "GLOBAL_SEGMENT_ID": 43027892,
         "LAST_UPDATE": "2015-07-08",
         "LESSEE": "SHA",
         "LIGHTS": 2,
@@ -1592,11 +1784,15 @@
         "OWNER": "SHA",
         "PAY_PHONE": 2,
         "SIGNED": 2,
-        "SIGNED_NAME": "IS 95 @ MD 22 (Aberdeen)",
         "TOTAL_ELEC_STA": 0,
         "VEIP_KIOSK": 2,
         "YEAR_CONST": 1989,
-        "YEAR_EXPANDED": 1989
+        "YEAR_EXPANDED": 1989,
+        "description": "1191 TECHNOLOGY DR, ABERDEEN, MD 21001",
+        "marker-color": "fbb03b",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "IS 95 @ MD 22 (Aberdeen)"
       },
       "type": "Feature"
     },
@@ -1604,14 +1800,13 @@
       "geometry": {
         "coordinates": [
           -76.24706889272657,
-          39.48329240907579
+          39.483292409075794
         ],
         "type": "Point"
       },
       "id": 50,
       "properties": {
         "ADA_COMPLIANT": 2,
-        "ADDRESS": "1404 BELCAMP RD, BEL AIR, MD 21014",
         "ADDRESS_SIGNED": 2,
         "BIKE_RACKS": 1,
         "BUS_SHELTER": 2,
@@ -1622,6 +1817,7 @@
         "ENT_WIDTH": 20,
         "EXIT_NUMBER": "80",
         "FENCED": 2,
+        "GLOBAL_SEGMENT_ID": 20648924,
         "LAST_UPDATE": "2015-07-08",
         "LIGHTS": 1,
         "LOCATION": "IS 95 @ MD 543 (Belcamp)",
@@ -1632,11 +1828,15 @@
         "OWNER": "SHA",
         "PAY_PHONE": 2,
         "SIGNED": 2,
-        "SIGNED_NAME": "IS 95 @ MD 543 (Belcamp)",
         "TOTAL_ELEC_STA": 2,
         "VEIP_KIOSK": 2,
         "YEAR_CONST": 2001,
-        "YEAR_EXPANDED": 2001
+        "YEAR_EXPANDED": 2001,
+        "description": "1404 BELCAMP RD, BEL AIR, MD 21014",
+        "marker-color": "fbb03b",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "IS 95 @ MD 543 (Belcamp)"
       },
       "type": "Feature"
     },
@@ -1651,11 +1851,15 @@
       "id": 51,
       "properties": {
         "ADDRESS_SIGNED": 2,
+        "GLOBAL_SEGMENT_ID": 15880267,
         "LOCATION": "Airport Industrial Park Park and Ride",
         "LOT_ID": 94,
         "MAINTAINED_BY_ID": 2,
         "OWNER": "OTHER",
-        "SIGNED_NAME": "Airport Industrial Park Park and Ride"
+        "marker-color": "3bb2d0",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "Airport Industrial Park Park and Ride"
       },
       "type": "Feature"
     },
@@ -1663,18 +1867,22 @@
       "geometry": {
         "coordinates": [
           -77.62731826292818,
-          39.31153416295831
+          39.31153416295832
         ],
         "type": "Point"
       },
       "id": 52,
       "properties": {
         "ADDRESS_SIGNED": 2,
+        "GLOBAL_SEGMENT_ID": 15842674,
         "LOCATION": "Brunswick Park and Ride",
         "LOT_ID": 95,
         "MAINTAINED_BY_ID": 2,
         "OWNER": "OTHER",
-        "SIGNED_NAME": "Brunswick Park and Ride"
+        "marker-color": "3bb2d0",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "Brunswick Park and Ride"
       },
       "type": "Feature"
     },
@@ -1682,14 +1890,13 @@
       "geometry": {
         "coordinates": [
           -77.35570117772613,
-          39.32381086029167
+          39.323810860291665
         ],
         "type": "Point"
       },
       "id": 53,
       "properties": {
         "ADA_COMPLIANT": 1,
-        "ADDRESS": "8721 FINGERBOARD ROAD, FREDERICK, MD 21704",
         "ADDRESS_SIGNED": 2,
         "BIKE_RACKS": 1,
         "BUS_SHELTER": 1,
@@ -1699,6 +1906,7 @@
         "ENT_WIDTH": 38,
         "EXIT_NUMBER": "26",
         "FENCED": 2,
+        "GLOBAL_SEGMENT_ID": 15549915,
         "LAST_UPDATE": "2015-07-13",
         "LIGHTS": 1,
         "LOCATION": "IS 270 @ MD 80 South Lot",
@@ -1709,11 +1917,15 @@
         "OWNER": "SHA",
         "PAY_PHONE": 2,
         "SIGNED": 1,
-        "SIGNED_NAME": "IS 270 @ MD 80 South Lot",
         "TOTAL_ELEC_STA": 0,
         "VEIP_KIOSK": 2,
         "YEAR_CONST": 1999,
-        "YEAR_EXPANDED": 1978
+        "YEAR_EXPANDED": 1978,
+        "description": "8721 FINGERBOARD ROAD, FREDERICK, MD 21704",
+        "marker-color": "fbb03b",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "IS 270 @ MD 80 South Lot"
       },
       "type": "Feature"
     },
@@ -1721,18 +1933,22 @@
       "geometry": {
         "coordinates": [
           -77.3966702521478,
-          39.38326460538929
+          39.38326460538931
         ],
         "type": "Point"
       },
       "id": 54,
       "properties": {
         "ADDRESS_SIGNED": 2,
+        "GLOBAL_SEGMENT_ID": 15717303,
         "LOCATION": "Frederick MARC Station Park and Ride",
         "LOT_ID": 98,
         "MAINTAINED_BY_ID": 2,
         "OWNER": "OTHER",
-        "SIGNED_NAME": "Frederick MARC Station Park and Ride"
+        "marker-color": "3bb2d0",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "Frederick MARC Station Park and Ride"
       },
       "type": "Feature"
     },
@@ -1747,7 +1963,6 @@
       "id": 55,
       "properties": {
         "ADA_COMPLIANT": 2,
-        "ADDRESS": "636 S MAIN ST, WOODSBORO, MD 21798",
         "ADDRESS_SIGNED": 2,
         "BIKE_RACKS": 1,
         "BUS_SHELTER": 2,
@@ -1756,6 +1971,7 @@
         "EM_TRUCK_PARK": 2,
         "ENT_WIDTH": 28,
         "FENCED": 2,
+        "GLOBAL_SEGMENT_ID": 15610770,
         "LAST_UPDATE": "2015-07-13",
         "LIGHTS": 1,
         "LOCATION": "MD 194 @ Main St. S. (Woodsboro)",
@@ -1766,11 +1982,15 @@
         "OWNER": "SHA",
         "PAY_PHONE": 2,
         "SIGNED": 2,
-        "SIGNED_NAME": "MD 194 @ Main St. S. (Woodsboro)",
         "TOTAL_ELEC_STA": 0,
         "VEIP_KIOSK": 2,
         "YEAR_CONST": 2004,
-        "YEAR_EXPANDED": 2004
+        "YEAR_EXPANDED": 2004,
+        "description": "636 S MAIN ST, WOODSBORO, MD 21798",
+        "marker-color": "fbb03b",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "MD 194 @ Main St. S. (Woodsboro)"
       },
       "type": "Feature"
     },
@@ -1778,14 +1998,13 @@
       "geometry": {
         "coordinates": [
           -77.37288025934623,
-          39.40104609847527
+          39.401046098475284
         ],
         "type": "Point"
       },
       "id": 56,
       "properties": {
         "ADA_COMPLIANT": 1,
-        "ADDRESS": "8500 OLD NATIONAL PIKE, FREDERICK, MD 21701",
         "ADDRESS_SIGNED": 2,
         "BIKE_RACKS": 2,
         "BUS_SHELTER": 2,
@@ -1795,6 +2014,7 @@
         "ENT_WIDTH": 56,
         "EXIT_NUMBER": "56",
         "FENCED": 2,
+        "GLOBAL_SEGMENT_ID": 15205891,
         "LAST_UPDATE": "2015-07-16",
         "LIGHTS": 1,
         "LOCATION": "IS 70 @ MD 144",
@@ -1805,11 +2025,15 @@
         "OWNER": "SHA",
         "PAY_PHONE": 2,
         "SIGNED": 2,
-        "SIGNED_NAME": "IS 70 @ MD 144",
         "TOTAL_ELEC_STA": 0,
         "VEIP_KIOSK": 2,
         "YEAR_CONST": 1994,
-        "YEAR_EXPANDED": 1994
+        "YEAR_EXPANDED": 1994,
+        "description": "8500 OLD NATIONAL PIKE, FREDERICK, MD 21701",
+        "marker-color": "fbb03b",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "IS 70 @ MD 144"
       },
       "type": "Feature"
     },
@@ -1817,14 +2041,13 @@
       "geometry": {
         "coordinates": [
           -77.26186373860838,
-          39.37701647426923
+          39.377016474269226
         ],
         "type": "Point"
       },
       "id": 57,
       "properties": {
         "ADA_COMPLIANT": 1,
-        "ADDRESS": "11599 BALDWIN RD, MONROVIA, MD 21770",
         "ADDRESS_SIGNED": 2,
         "BIKE_RACKS": 2,
         "BUS_SHELTER": 2,
@@ -1834,6 +2057,7 @@
         "ENT_WIDTH": 55,
         "EXIT_NUMBER": "62",
         "FENCED": 2,
+        "GLOBAL_SEGMENT_ID": 15671171,
         "LAST_UPDATE": "2016-03-04",
         "LIGHTS": 1,
         "LOCATION": "IS 70 @ MD 75 (Monrovia)",
@@ -1844,11 +2068,15 @@
         "OWNER": "SHA",
         "PAY_PHONE": 2,
         "SIGNED": 2,
-        "SIGNED_NAME": "IS 70 @ MD 75 (Monrovia)",
         "TOTAL_ELEC_STA": 0,
         "VEIP_KIOSK": 2,
         "YEAR_CONST": 1999,
-        "YEAR_EXPANDED": 2014
+        "YEAR_EXPANDED": 2014,
+        "description": "11599 BALDWIN RD, MONROVIA, MD 21770",
+        "marker-color": "fbb03b",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "IS 70 @ MD 75 (Monrovia)"
       },
       "type": "Feature"
     },
@@ -1856,18 +2084,22 @@
       "geometry": {
         "coordinates": [
           -77.40865255237205,
-          39.38543393389293
+          39.38543393389294
         ],
         "type": "Point"
       },
       "id": 58,
       "properties": {
         "ADDRESS_SIGNED": 2,
+        "GLOBAL_SEGMENT_ID": 15234460,
         "LOCATION": "Francis Scott Key Mall Park and Ride",
         "LOT_ID": 103,
         "MAINTAINED_BY_ID": 2,
         "OWNER": "OTHER",
-        "SIGNED_NAME": "Francis Scott Key Mall Park and Ride"
+        "marker-color": "3bb2d0",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "Francis Scott Key Mall Park and Ride"
       },
       "type": "Feature"
     },
@@ -1875,14 +2107,13 @@
       "geometry": {
         "coordinates": [
           -77.5674945392205,
-          39.49249064312661
+          39.492490643126615
         ],
         "type": "Point"
       },
       "id": 59,
       "properties": {
         "ADA_COMPLIANT": 1,
-        "ADDRESS": "3002 VENTRIE CT, MYERSVILLE, MD 21773",
         "ADDRESS_SIGNED": 2,
         "BIKE_RACKS": 1,
         "BUS_SHELTER": 1,
@@ -1892,6 +2123,7 @@
         "ENT_WIDTH": 24,
         "EXIT_NUMBER": "42",
         "FENCED": 2,
+        "GLOBAL_SEGMENT_ID": 15166871,
         "LAST_UPDATE": "2015-07-13",
         "LIGHTS": 1,
         "LOCATION": "IS 70 @ MD 17 (Myersville)",
@@ -1902,11 +2134,15 @@
         "OWNER": "SHA",
         "PAY_PHONE": 2,
         "SIGNED": 2,
-        "SIGNED_NAME": "IS 70 @ MD 17 (Myersville)",
         "TOTAL_ELEC_STA": 0,
         "VEIP_KIOSK": 2,
         "YEAR_CONST": 1984,
-        "YEAR_EXPANDED": 1984
+        "YEAR_EXPANDED": 1984,
+        "description": "3002 VENTRIE CT, MYERSVILLE, MD 21773",
+        "marker-color": "fbb03b",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "IS 70 @ MD 17 (Myersville)"
       },
       "type": "Feature"
     },
@@ -1914,14 +2150,13 @@
       "geometry": {
         "coordinates": [
           -77.35437315811191,
-          39.32468506428377
+          39.32468506428376
         ],
         "type": "Point"
       },
       "id": 60,
       "properties": {
         "ADA_COMPLIANT": 2,
-        "ADDRESS": "8810 URBANA CHURCH ROAD, FREDERICK, MD 21704",
         "ADDRESS_SIGNED": 2,
         "BIKE_RACKS": 2,
         "BUS_SHELTER": 2,
@@ -1931,6 +2166,7 @@
         "ENT_WIDTH": 30,
         "EXIT_NUMBER": "26",
         "FENCED": 2,
+        "GLOBAL_SEGMENT_ID": 15366590,
         "LAST_UPDATE": "2015-07-13",
         "LIGHTS": 1,
         "LOCATION": "IS 270 @ MD 80 North Lot",
@@ -1941,11 +2177,15 @@
         "OWNER": "SHA",
         "PAY_PHONE": 2,
         "SIGNED": 1,
-        "SIGNED_NAME": "IS 270 @ MD 80 North Lot",
         "TOTAL_ELEC_STA": 0,
         "VEIP_KIOSK": 2,
         "YEAR_CONST": 2010,
-        "YEAR_EXPANDED": 1999
+        "YEAR_EXPANDED": 1999,
+        "description": "8810 URBANA CHURCH ROAD, FREDERICK, MD 21704",
+        "marker-color": "fbb03b",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "IS 270 @ MD 80 North Lot"
       },
       "type": "Feature"
     },
@@ -1953,14 +2193,13 @@
       "geometry": {
         "coordinates": [
           -76.9865768647157,
-          38.539776061729455
+          38.53977606172947
         ],
         "type": "Point"
       },
       "id": 61,
       "properties": {
         "ADA_COMPLIANT": 2,
-        "ADDRESS": "14 W  HAWTHORNE DR, LA PLATA, MD 20646",
         "ADDRESS_SIGNED": 2,
         "BIKE_RACKS": 2,
         "BUS_SHELTER": 2,
@@ -1969,6 +2208,7 @@
         "EM_TRUCK_PARK": 2,
         "ENT_WIDTH": 22,
         "FENCED": 1,
+        "GLOBAL_SEGMENT_ID": 47080955,
         "LAST_UPDATE": "2016-05-11",
         "LESSEE": "Armory",
         "LIGHTS": 2,
@@ -1980,11 +2220,15 @@
         "OWNER": "SHA",
         "PAY_PHONE": 2,
         "SIGNED": 2,
-        "SIGNED_NAME": "US 301 @ MD 225",
         "TOTAL_ELEC_STA": 0,
         "VEIP_KIOSK": 2,
         "YEAR_CONST": 1987,
-        "YEAR_EXPANDED": 1987
+        "YEAR_EXPANDED": 1987,
+        "description": "14 W  HAWTHORNE DR, LA PLATA, MD 20646",
+        "marker-color": "fbb03b",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "US 301 @ MD 225"
       },
       "type": "Feature"
     },
@@ -1999,7 +2243,6 @@
       "id": 62,
       "properties": {
         "ADA_COMPLIANT": 2,
-        "ADDRESS": "2257 COMMUNITY DR, WALDORF, MD 20601",
         "ADDRESS_SIGNED": 2,
         "BIKE_RACKS": 1,
         "BUS_SHELTER": 1,
@@ -2008,6 +2251,7 @@
         "EM_TRUCK_PARK": 1,
         "ENT_WIDTH": 35,
         "FENCED": 2,
+        "GLOBAL_SEGMENT_ID": 13799901,
         "LAST_UPDATE": "2015-07-09",
         "LIGHTS": 1,
         "LOCATION": "MD 5 Mattawoman/Beantown Road",
@@ -2018,11 +2262,15 @@
         "OWNER": "SHA",
         "PAY_PHONE": 2,
         "SIGNED": 2,
-        "SIGNED_NAME": "MD 5 Mattawoman/Beantown Road",
         "TOTAL_ELEC_STA": 0,
         "VEIP_KIOSK": 2,
         "YEAR_CONST": 2005,
-        "YEAR_EXPANDED": 1998
+        "YEAR_EXPANDED": 1998,
+        "description": "2257 COMMUNITY DR, WALDORF, MD 20601",
+        "marker-color": "fbb03b",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "MD 5 Mattawoman/Beantown Road"
       },
       "type": "Feature"
     },
@@ -2030,14 +2278,13 @@
       "geometry": {
         "coordinates": [
           -75.80535415009831,
-          39.636671539719266
+          39.63667153971927
         ],
         "type": "Point"
       },
       "id": 63,
       "properties": {
         "ADA_COMPLIANT": 2,
-        "ADDRESS": "291 BELLE HILL ROAD, ELKTON, MD 21921",
         "ADDRESS_SIGNED": 2,
         "BIKE_RACKS": 1,
         "BUS_SHELTER": 2,
@@ -2047,6 +2294,7 @@
         "ENT_WIDTH": 30,
         "EXIT_NUMBER": "109",
         "FENCED": 2,
+        "GLOBAL_SEGMENT_ID": 19733556,
         "LAST_UPDATE": "2015-07-08",
         "LIGHTS": 1,
         "LOCATION": "IS 95 @ MD 279",
@@ -2057,11 +2305,15 @@
         "OWNER": "SHA",
         "PAY_PHONE": 2,
         "SIGNED": 2,
-        "SIGNED_NAME": "IS 95 @ MD 279",
         "TOTAL_ELEC_STA": 0,
         "VEIP_KIOSK": 2,
         "YEAR_CONST": 2000,
-        "YEAR_EXPANDED": 2000
+        "YEAR_EXPANDED": 2000,
+        "description": "291 BELLE HILL ROAD, ELKTON, MD 21921",
+        "marker-color": "fbb03b",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "IS 95 @ MD 279"
       },
       "type": "Feature"
     },
@@ -2069,14 +2321,13 @@
       "geometry": {
         "coordinates": [
           -76.96833345193329,
-          39.375504184561194
+          39.3755041845612
         ],
         "type": "Point"
       },
       "id": 64,
       "properties": {
         "ADA_COMPLIANT": 1,
-        "ADDRESS": "7225 SPRINGFIELD AVE, SYKESVILLE, MD 21784",
         "ADDRESS_SIGNED": 2,
         "BIKE_RACKS": 1,
         "BUS_SHELTER": 2,
@@ -2085,6 +2336,7 @@
         "EM_TRUCK_PARK": 2,
         "ENT_WIDTH": 29,
         "FENCED": 2,
+        "GLOBAL_SEGMENT_ID": 12762885,
         "LAST_UPDATE": "2015-07-09",
         "LIGHTS": 1,
         "LOCATION": "MD 32 @ MD 851",
@@ -2095,11 +2347,15 @@
         "OWNER": "SHA",
         "PAY_PHONE": 2,
         "SIGNED": 2,
-        "SIGNED_NAME": "MD 32 @ MD 851",
         "TOTAL_ELEC_STA": 0,
         "VEIP_KIOSK": 2,
         "YEAR_CONST": 2007,
-        "YEAR_EXPANDED": 1978
+        "YEAR_EXPANDED": 1978,
+        "description": "7225 SPRINGFIELD AVE, SYKESVILLE, MD 21784",
+        "marker-color": "fbb03b",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "MD 32 @ MD 851"
       },
       "type": "Feature"
     },
@@ -2107,14 +2363,13 @@
       "geometry": {
         "coordinates": [
           -76.3041659806056,
-          39.45051268541134
+          39.45051268541135
         ],
         "type": "Point"
       },
       "id": 65,
       "properties": {
         "ADA_COMPLIANT": 2,
-        "ADDRESS": "1699 EMMORTON RD S, EDGEWOOD, MD 21040",
         "ADDRESS_SIGNED": 2,
         "BIKE_RACKS": 2,
         "BUS_SHELTER": 2,
@@ -2125,6 +2380,7 @@
         "ENT_WIDTH": 24,
         "EXIT_NUMBER": "77",
         "FENCED": 2,
+        "GLOBAL_SEGMENT_ID": 20906094,
         "LAST_UPDATE": "2015-07-08",
         "LIGHTS": 2,
         "LOCATION": "IS 95 @ MD 24 (Emmorton)",
@@ -2135,11 +2391,15 @@
         "OWNER": "SHA",
         "PAY_PHONE": 2,
         "SIGNED": 2,
-        "SIGNED_NAME": "IS 95 @ MD 24 (Emmorton)",
         "TOTAL_ELEC_STA": 0,
         "VEIP_KIOSK": 2,
         "YEAR_CONST": 1997,
-        "YEAR_EXPANDED": 1978
+        "YEAR_EXPANDED": 1978,
+        "description": "1699 EMMORTON RD S, EDGEWOOD, MD 21040",
+        "marker-color": "fbb03b",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "IS 95 @ MD 24 (Emmorton)"
       },
       "type": "Feature"
     },
@@ -2147,14 +2407,13 @@
       "geometry": {
         "coordinates": [
           -76.99041615279363,
-          39.520768951523
+          39.52076895152301
         ],
         "type": "Point"
       },
       "id": 66,
       "properties": {
         "ADA_COMPLIANT": 1,
-        "ADDRESS": "1945 WASHINGTON RD, WESTMINSTER, MD 21157",
         "ADDRESS_SIGNED": 2,
         "BIKE_RACKS": 2,
         "BUS_SHELTER": 2,
@@ -2163,6 +2422,7 @@
         "EM_TRUCK_PARK": 2,
         "ENT_WIDTH": 53,
         "FENCED": 2,
+        "GLOBAL_SEGMENT_ID": 12675185,
         "LAST_UPDATE": "2015-07-09",
         "LIGHTS": 1,
         "LOCATION": "MD 97 @ MD 32",
@@ -2173,11 +2433,15 @@
         "OWNER": "SHA",
         "PAY_PHONE": 2,
         "SIGNED": 2,
-        "SIGNED_NAME": "MD 97 @ MD 32",
         "TOTAL_ELEC_STA": 0,
         "VEIP_KIOSK": 2,
         "YEAR_CONST": 1982,
-        "YEAR_EXPANDED": 1982
+        "YEAR_EXPANDED": 1982,
+        "description": "1945 WASHINGTON RD, WESTMINSTER, MD 21157",
+        "marker-color": "fbb03b",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "MD 97 @ MD 32"
       },
       "type": "Feature"
     },
@@ -2185,14 +2449,13 @@
       "geometry": {
         "coordinates": [
           -76.95614551756128,
-          39.39708432412379
+          39.397084324123796
         ],
         "type": "Point"
       },
       "id": 67,
       "properties": {
         "ADA_COMPLIANT": 1,
-        "ADDRESS": "6411 SYKESVILLE RD, SYKESVILLE, MD 21784",
         "ADDRESS_SIGNED": 2,
         "BIKE_RACKS": 2,
         "BUS_SHELTER": 2,
@@ -2201,6 +2464,7 @@
         "EM_TRUCK_PARK": 2,
         "ENT_WIDTH": 33,
         "FENCED": 2,
+        "GLOBAL_SEGMENT_ID": 12624454,
         "LAST_UPDATE": "2015-07-09",
         "LIGHTS": 1,
         "LOCATION": "MD 32 @ Circle Drive (Eldersburg)",
@@ -2211,11 +2475,15 @@
         "OWNER": "SHA",
         "PAY_PHONE": 2,
         "SIGNED": 2,
-        "SIGNED_NAME": "MD 32 @ Circle Drive (Eldersburg)",
         "TOTAL_ELEC_STA": 0,
         "VEIP_KIOSK": 2,
         "YEAR_CONST": 1983,
-        "YEAR_EXPANDED": 1983
+        "YEAR_EXPANDED": 1983,
+        "description": "6411 SYKESVILLE RD, SYKESVILLE, MD 21784",
+        "marker-color": "fbb03b",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "MD 32 @ Circle Drive (Eldersburg)"
       },
       "type": "Feature"
     },
@@ -2223,18 +2491,22 @@
       "geometry": {
         "coordinates": [
           -76.96921999816331,
-          39.05911416593057
+          39.059114165930566
         ],
         "type": "Point"
       },
       "id": 68,
       "properties": {
         "ADDRESS_SIGNED": 2,
+        "GLOBAL_SEGMENT_ID": 27008518,
         "LOCATION": "Tech Rd at Old Columbia Pike",
         "LOT_ID": 120,
         "MAINTAINED_BY_ID": 2,
         "OWNER": "OTHER",
-        "SIGNED_NAME": "Tech Rd at Old Columbia Pike"
+        "marker-color": "3bb2d0",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "Tech Rd at Old Columbia Pike"
       },
       "type": "Feature"
     },
@@ -2242,18 +2514,22 @@
       "geometry": {
         "coordinates": [
           -77.199297913886,
-          39.15319123772241
+          39.1531912377224
         ],
         "type": "Point"
       },
       "id": 69,
       "properties": {
         "ADDRESS_SIGNED": 2,
+        "GLOBAL_SEGMENT_ID": 26903785,
         "LOCATION": "Lakeforest Mall Park and Ride",
         "LOT_ID": 121,
         "MAINTAINED_BY_ID": 2,
         "OWNER": "OTHER",
-        "SIGNED_NAME": "Lakeforest Mall Park and Ride"
+        "marker-color": "3bb2d0",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "Lakeforest Mall Park and Ride"
       },
       "type": "Feature"
     },
@@ -2261,18 +2537,22 @@
       "geometry": {
         "coordinates": [
           -77.14775787878884,
-          39.02662266321124
+          39.026622663211235
         ],
         "type": "Point"
       },
       "id": 70,
       "properties": {
         "ADDRESS_SIGNED": 2,
+        "GLOBAL_SEGMENT_ID": 26710525,
         "LOCATION": "Westfield Shoppingtown Montgomery (Montgomery Mall) Park and Ride",
         "LOT_ID": 122,
         "MAINTAINED_BY_ID": 2,
         "OWNER": "OTHER",
-        "SIGNED_NAME": "Westfield Shoppingtown Montgomery (Montgomery Mall) Park and Ride"
+        "marker-color": "3bb2d0",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "Westfield Shoppingtown Montgomery (Montgomery Mall) Park and Ride"
       },
       "type": "Feature"
     },
@@ -2280,18 +2560,22 @@
       "geometry": {
         "coordinates": [
           -76.79628710691502,
-          39.124564032956194
+          39.1245640329562
         ],
         "type": "Point"
       },
       "id": 71,
       "properties": {
         "ADDRESS_SIGNED": 2,
+        "GLOBAL_SEGMENT_ID": 22073006,
         "LOCATION": "Savage Park and Ride, MD 32 null Run Rd for Camden Line MARC Train",
         "LOT_ID": 134,
         "MAINTAINED_BY_ID": 2,
         "OWNER": "OTHER",
-        "SIGNED_NAME": "Savage Park and Ride, MD 32 null Run Rd for Camden Line MARC Train"
+        "marker-color": "3bb2d0",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "Savage Park and Ride, MD 32 null Run Rd for Camden Line MARC Train"
       },
       "type": "Feature"
     },
@@ -2299,18 +2583,22 @@
       "geometry": {
         "coordinates": [
           -77.06849992632465,
-          39.34831385659725
+          39.34831385659726
         ],
         "type": "Point"
       },
       "id": 72,
       "properties": {
         "ADDRESS_SIGNED": 2,
+        "GLOBAL_SEGMENT_ID": 21865209,
         "LOCATION": "Woodbine Park and Ride",
         "LOT_ID": 135,
         "MAINTAINED_BY_ID": 2,
         "OWNER": "OTHER",
-        "SIGNED_NAME": "Woodbine Park and Ride"
+        "marker-color": "3bb2d0",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "Woodbine Park and Ride"
       },
       "type": "Feature"
     },
@@ -2325,11 +2613,15 @@
       "id": 73,
       "properties": {
         "ADDRESS_SIGNED": 2,
+        "GLOBAL_SEGMENT_ID": 27887856,
         "LOCATION": "Germantown/ MARC Station Park and Ride",
         "LOT_ID": 136,
         "MAINTAINED_BY_ID": 2,
         "OWNER": "OTHER",
-        "SIGNED_NAME": "Germantown/ MARC Station Park and Ride"
+        "marker-color": "3bb2d0",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "Germantown/ MARC Station Park and Ride"
       },
       "type": "Feature"
     },
@@ -2344,7 +2636,6 @@
       "id": 74,
       "properties": {
         "ADA_COMPLIANT": 2,
-        "ADDRESS": "9601 BROKEN LAND PKWY, COLUMBIA, MD 21046",
         "ADDRESS_SIGNED": 2,
         "BIKE_RACKS": 1,
         "BUS_SHELTER": 1,
@@ -2354,6 +2645,7 @@
         "ENT_WIDTH": 52,
         "EXIT_NUMBER": "14",
         "FENCED": 1,
+        "GLOBAL_SEGMENT_ID": 21857407,
         "LAST_UPDATE": "2015-07-09",
         "LIGHTS": 1,
         "LOCATION": "MD 32 @ Broken Land Pkwy (West Lot)",
@@ -2364,11 +2656,15 @@
         "OWNER": "SHA",
         "PAY_PHONE": 2,
         "SIGNED": 2,
-        "SIGNED_NAME": "MD 32 @ Broken Land Pkwy (West Lot)",
         "TOTAL_ELEC_STA": 0,
         "VEIP_KIOSK": 2,
         "YEAR_CONST": 2005,
-        "YEAR_EXPANDED": 1983
+        "YEAR_EXPANDED": 1983,
+        "description": "9601 BROKEN LAND PKWY, COLUMBIA, MD 21046",
+        "marker-color": "fbb03b",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "MD 32 @ Broken Land Pkwy (West Lot)"
       },
       "type": "Feature"
     },
@@ -2383,7 +2679,6 @@
       "id": 75,
       "properties": {
         "ADA_COMPLIANT": 1,
-        "ADDRESS": "8791 SNOWDEN RIVER PKWY, COLUMBIA, MD 21045",
         "ADDRESS_SIGNED": 2,
         "BIKE_RACKS": 1,
         "BUS_SHELTER": 1,
@@ -2392,6 +2687,7 @@
         "EM_TRUCK_PARK": 2,
         "ENT_WIDTH": 39,
         "FENCED": 2,
+        "GLOBAL_SEGMENT_ID": 60511835,
         "LAST_UPDATE": "2015-07-14",
         "LIGHTS": 1,
         "LOCATION": "MD 175 @ Snowden River Parkway (Columbia)",
@@ -2402,11 +2698,15 @@
         "OWNER": "SHA",
         "PAY_PHONE": 2,
         "SIGNED": 2,
-        "SIGNED_NAME": "MD 175 @ Snowden River Parkway (Columbia)",
         "TOTAL_ELEC_STA": 0,
         "VEIP_KIOSK": 2,
         "YEAR_CONST": 2015,
-        "YEAR_EXPANDED": 1988
+        "YEAR_EXPANDED": 1988,
+        "description": "8791 SNOWDEN RIVER PKWY, COLUMBIA, MD 21045",
+        "marker-color": "fbb03b",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "MD 175 @ Snowden River Parkway (Columbia)"
       },
       "type": "Feature"
     },
@@ -2414,7 +2714,7 @@
       "geometry": {
         "coordinates": [
           -77.26155655713208,
-          39.18263198255311
+          39.18263198255312
         ],
         "type": "Point"
       },
@@ -2426,6 +2726,7 @@
         "COMMENTS": "Yellow lined spaces only",
         "CREATION_DATE": "2015-11-16",
         "FENCED": 2,
+        "GLOBAL_SEGMENT_ID": 52198191,
         "LAST_UPDATE": "2015-11-16",
         "LIGHTS": 1,
         "LOCATION": "Germantown Transit Center (GTC) Park and Ride",
@@ -2433,7 +2734,10 @@
         "LOT_STATUS_ID": 1,
         "MAINTAINED_BY_ID": 2,
         "OWNER": "OTHER",
-        "SIGNED_NAME": "Germantown Transit Center (GTC) Park and Ride"
+        "marker-color": "3bb2d0",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "Germantown Transit Center (GTC) Park and Ride"
       },
       "type": "Feature"
     },
@@ -2441,14 +2745,13 @@
       "geometry": {
         "coordinates": [
           -76.35008863676804,
-          39.44138671512286
+          39.44138671512285
         ],
         "type": "Point"
       },
       "id": 77,
       "properties": {
         "ADA_COMPLIANT": 2,
-        "ADDRESS": "1599 OLD MOUNTAIN RD S, JOPPA, MD 21085",
         "ADDRESS_SIGNED": 2,
         "BIKE_RACKS": 2,
         "BUS_SHELTER": 2,
@@ -2458,6 +2761,7 @@
         "ENT_WIDTH": 31,
         "EXIT_NUMBER": "74",
         "FENCED": 2,
+        "GLOBAL_SEGMENT_ID": 20555886,
         "LAST_UPDATE": "2016-03-07",
         "LESSEE": "SHA",
         "LIGHTS": 1,
@@ -2469,11 +2773,15 @@
         "OWNER": "SHA",
         "PAY_PHONE": 2,
         "SIGNED": 2,
-        "SIGNED_NAME": "IS 95 @ MD 152 (North Lot) (Joppa)",
         "TOTAL_ELEC_STA": 0,
         "VEIP_KIOSK": 2,
         "YEAR_CONST": 1977,
-        "YEAR_EXPANDED": 2007
+        "YEAR_EXPANDED": 2007,
+        "description": "1599 OLD MOUNTAIN RD S, JOPPA, MD 21085",
+        "marker-color": "fbb03b",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "IS 95 @ MD 152 (North Lot) (Joppa)"
       },
       "type": "Feature"
     },
@@ -2481,18 +2789,22 @@
       "geometry": {
         "coordinates": [
           -76.29201573468325,
-          39.4155899408273
+          39.41558994082731
         ],
         "type": "Point"
       },
       "id": 78,
       "properties": {
         "ADDRESS_SIGNED": 2,
+        "GLOBAL_SEGMENT_ID": 21076339,
         "LOCATION": "Edgewood Park and Ride",
         "LOT_ID": 143,
         "MAINTAINED_BY_ID": 2,
         "OWNER": "OTHER",
-        "SIGNED_NAME": "Edgewood Park and Ride"
+        "marker-color": "3bb2d0",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "Edgewood Park and Ride"
       },
       "type": "Feature"
     },
@@ -2507,7 +2819,6 @@
       "id": 79,
       "properties": {
         "ADA_COMPLIANT": 2,
-        "ADDRESS": "580 W D DIAMOND AVE, GAITHERSBURG, MD 20877",
         "ADDRESS_SIGNED": 2,
         "BIKE_RACKS": 1,
         "BUS_SHELTER": 2,
@@ -2518,6 +2829,7 @@
         "ENT_WIDTH": 26,
         "EXIT_NUMBER": "10",
         "FENCED": 2,
+        "GLOBAL_SEGMENT_ID": 28215922,
         "LAST_UPDATE": "2015-07-13",
         "LIGHTS": 1,
         "LOCATION": "IS 270 @ MD 117",
@@ -2528,11 +2840,15 @@
         "OWNER": "SHA",
         "PAY_PHONE": 2,
         "SIGNED": 1,
-        "SIGNED_NAME": "IS 270 @ MD 117",
         "TOTAL_ELEC_STA": 0,
         "VEIP_KIOSK": 2,
         "YEAR_CONST": 2004,
-        "YEAR_EXPANDED": 2004
+        "YEAR_EXPANDED": 2004,
+        "description": "580 W D DIAMOND AVE, GAITHERSBURG, MD 20877",
+        "marker-color": "fbb03b",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "IS 270 @ MD 117"
       },
       "type": "Feature"
     },
@@ -2540,14 +2856,13 @@
       "geometry": {
         "coordinates": [
           -76.39936507090657,
-          39.500582658670716
+          39.50058265867073
         ],
         "type": "Point"
       },
       "id": 80,
       "properties": {
         "ADA_COMPLIANT": 2,
-        "ADDRESS": "514 FALLSTON RD, FALLSTON, MD 21047",
         "ADDRESS_SIGNED": 2,
         "BIKE_RACKS": 2,
         "BUS_SHELTER": 1,
@@ -2557,6 +2872,7 @@
         "EM_TRUCK_PARK": 2,
         "ENT_WIDTH": 24,
         "FENCED": 2,
+        "GLOBAL_SEGMENT_ID": 43229600,
         "LAST_UPDATE": "2015-07-08",
         "LIGHTS": 1,
         "LOCATION": "MD 152 @ MD 147 (Fallston)",
@@ -2567,11 +2883,15 @@
         "OWNER": "SHA",
         "PAY_PHONE": 2,
         "SIGNED": 2,
-        "SIGNED_NAME": "MD 152 @ MD 147 (Fallston)",
         "TOTAL_ELEC_STA": 0,
         "VEIP_KIOSK": 2,
         "YEAR_CONST": 1980,
-        "YEAR_EXPANDED": 1978
+        "YEAR_EXPANDED": 1978,
+        "description": "514 FALLSTON RD, FALLSTON, MD 21047",
+        "marker-color": "fbb03b",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "MD 152 @ MD 147 (Fallston)"
       },
       "type": "Feature"
     },
@@ -2579,14 +2899,13 @@
       "geometry": {
         "coordinates": [
           -76.3852094797206,
-          39.47960223417284
+          39.47960223417285
         ],
         "type": "Point"
       },
       "id": 81,
       "properties": {
         "ADA_COMPLIANT": 2,
-        "ADDRESS": "998 OLD MOUNTAIN RD N, JOPPA, MD 21085",
         "ADDRESS_SIGNED": 2,
         "BIKE_RACKS": 2,
         "BUS_SHELTER": 2,
@@ -2595,6 +2914,7 @@
         "EM_TRUCK_PARK": 2,
         "ENT_WIDTH": 20,
         "FENCED": 2,
+        "GLOBAL_SEGMENT_ID": 20405603,
         "LAST_UPDATE": "2016-03-07",
         "LIGHTS": 1,
         "LOCATION": "MD 152 @ Old Mountain Road",
@@ -2605,11 +2925,15 @@
         "OWNER": "SHA",
         "PAY_PHONE": 2,
         "SIGNED": 2,
-        "SIGNED_NAME": "MD 152 @ Old Mountain Road",
         "TOTAL_ELEC_STA": 0,
         "VEIP_KIOSK": 2,
         "YEAR_CONST": 1976,
-        "YEAR_EXPANDED": 1976
+        "YEAR_EXPANDED": 1976,
+        "description": "998 OLD MOUNTAIN RD N, JOPPA, MD 21085",
+        "marker-color": "fbb03b",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "MD 152 @ Old Mountain Road"
       },
       "type": "Feature"
     },
@@ -2617,18 +2941,22 @@
       "geometry": {
         "coordinates": [
           -76.94202239948314,
-          39.07766102799407
+          39.07766102799408
         ],
         "type": "Point"
       },
       "id": 82,
       "properties": {
         "ADDRESS_SIGNED": 2,
+        "GLOBAL_SEGMENT_ID": 27213995,
         "LOCATION": "Briggs Chaney Park and Ride",
         "LOT_ID": 149,
         "MAINTAINED_BY_ID": 2,
         "OWNER": "OTHER",
-        "SIGNED_NAME": "Briggs Chaney Park and Ride"
+        "marker-color": "3bb2d0",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "Briggs Chaney Park and Ride"
       },
       "type": "Feature"
     },
@@ -2636,14 +2964,13 @@
       "geometry": {
         "coordinates": [
           -76.36818368346113,
-          39.55575862430089
+          39.5557586243009
         ],
         "type": "Point"
       },
       "id": 83,
       "properties": {
         "ADA_COMPLIANT": 2,
-        "ADDRESS": "1400 ROCK SPRING RD, BEL AIR, MD 21014",
         "ADDRESS_SIGNED": 2,
         "BIKE_RACKS": 1,
         "BUS_SHELTER": 1,
@@ -2653,6 +2980,7 @@
         "EM_TRUCK_PARK": 2,
         "ENT_WIDTH": 18,
         "FENCED": 2,
+        "GLOBAL_SEGMENT_ID": 43162258,
         "LAST_UPDATE": "2015-07-14",
         "LIGHTS": 1,
         "LOCATION": "MD 24 @ US 1 (Marywood)",
@@ -2663,11 +2991,15 @@
         "OWNER": "SHA",
         "PAY_PHONE": 2,
         "SIGNED": 2,
-        "SIGNED_NAME": "MD 24 @ US 1 (Marywood)",
         "TOTAL_ELEC_STA": 0,
         "VEIP_KIOSK": 2,
         "YEAR_CONST": 1995,
-        "YEAR_EXPANDED": 1985
+        "YEAR_EXPANDED": 1985,
+        "description": "1400 ROCK SPRING RD, BEL AIR, MD 21014",
+        "marker-color": "fbb03b",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "MD 24 @ US 1 (Marywood)"
       },
       "type": "Feature"
     },
@@ -2675,18 +3007,22 @@
       "geometry": {
         "coordinates": [
           -76.34503745934792,
-          39.520615344214214
+          39.52061534421422
         ],
         "type": "Point"
       },
       "id": 84,
       "properties": {
         "ADDRESS_SIGNED": 2,
+        "GLOBAL_SEGMENT_ID": 20911468,
         "LOCATION": "MVA Park null Lot",
         "LOT_ID": 151,
         "MAINTAINED_BY_ID": 2,
         "OWNER": "OTHER",
-        "SIGNED_NAME": "MVA Park null Lot"
+        "marker-color": "3bb2d0",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "MVA Park null Lot"
       },
       "type": "Feature"
     },
@@ -2694,18 +3030,22 @@
       "geometry": {
         "coordinates": [
           -77.118462274782,
-          39.052571220409185
+          39.05257122040919
         ],
         "type": "Point"
       },
       "id": 85,
       "properties": {
         "ADDRESS_SIGNED": 2,
+        "GLOBAL_SEGMENT_ID": 27135084,
         "LOCATION": "Montrose/Mid-Pike Lot Park and Ride",
         "LOT_ID": 152,
         "MAINTAINED_BY_ID": 2,
         "OWNER": "OTHER",
-        "SIGNED_NAME": "Montrose/Mid-Pike Lot Park and Ride"
+        "marker-color": "3bb2d0",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "Montrose/Mid-Pike Lot Park and Ride"
       },
       "type": "Feature"
     },
@@ -2720,11 +3060,15 @@
       "id": 86,
       "properties": {
         "ADDRESS_SIGNED": 2,
+        "GLOBAL_SEGMENT_ID": 27877592,
         "LOCATION": "Germantown Park and Ride",
         "LOT_ID": 153,
         "MAINTAINED_BY_ID": 2,
         "OWNER": "OTHER",
-        "SIGNED_NAME": "Germantown Park and Ride"
+        "marker-color": "3bb2d0",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "Germantown Park and Ride"
       },
       "type": "Feature"
     },
@@ -2732,14 +3076,13 @@
       "geometry": {
         "coordinates": [
           -76.71702343659683,
-          38.42690680027018
+          38.426906800270196
         ],
         "type": "Point"
       },
       "id": 87,
       "properties": {
         "ADA_COMPLIANT": 2,
-        "ADDRESS": "31501 POINT LOOKOUT RD, MECHANICSVILLE, MD 20659",
         "ADDRESS_SIGNED": 2,
         "BIKE_RACKS": 2,
         "BUS_SHELTER": 2,
@@ -2748,6 +3091,7 @@
         "EM_TRUCK_PARK": 2,
         "ENT_WIDTH": 32,
         "FENCED": 2,
+        "GLOBAL_SEGMENT_ID": 57593640,
         "LAST_UPDATE": "2015-07-09",
         "LIGHTS": 2,
         "LOCATION": "MD 5 @ MD 235",
@@ -2758,11 +3102,15 @@
         "OWNER": "SHA",
         "PAY_PHONE": 2,
         "SIGNED": 2,
-        "SIGNED_NAME": "MD 5 @ MD 235",
         "TOTAL_ELEC_STA": 0,
         "VEIP_KIOSK": 2,
         "YEAR_CONST": 1983,
-        "YEAR_EXPANDED": 1983
+        "YEAR_EXPANDED": 1983,
+        "description": "31501 POINT LOOKOUT RD, MECHANICSVILLE, MD 20659",
+        "marker-color": "fbb03b",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "MD 5 @ MD 235"
       },
       "type": "Feature"
     },
@@ -2777,11 +3125,15 @@
       "id": 88,
       "properties": {
         "ADDRESS_SIGNED": 2,
+        "GLOBAL_SEGMENT_ID": 16165244,
         "LOCATION": "Mechanicsville Park and Ride",
         "LOT_ID": 155,
         "MAINTAINED_BY_ID": 2,
         "OWNER": "OTHER",
-        "SIGNED_NAME": "Mechanicsville Park and Ride"
+        "marker-color": "3bb2d0",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "Mechanicsville Park and Ride"
       },
       "type": "Feature"
     },
@@ -2789,18 +3141,22 @@
       "geometry": {
         "coordinates": [
           -76.77405471307144,
-          38.49534941911986
+          38.49534941911987
         ],
         "type": "Point"
       },
       "id": 89,
       "properties": {
         "ADDRESS_SIGNED": 2,
+        "GLOBAL_SEGMENT_ID": 16130733,
         "LOCATION": "Charlotte Hall Park and Ride",
         "LOT_ID": 156,
         "MAINTAINED_BY_ID": 2,
         "OWNER": "OTHER",
-        "SIGNED_NAME": "Charlotte Hall Park and Ride"
+        "marker-color": "3bb2d0",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "Charlotte Hall Park and Ride"
       },
       "type": "Feature"
     },
@@ -2808,14 +3164,13 @@
       "geometry": {
         "coordinates": [
           -76.29171612432559,
-          38.97673784260619
+          38.976737842606184
         ],
         "type": "Point"
       },
       "id": 90,
       "properties": {
         "ADA_COMPLIANT": 2,
-        "ADDRESS": "1382 MAIN ST, CHESTER, MD 21619",
         "ADDRESS_SIGNED": 2,
         "BIKE_RACKS": 2,
         "BUS_SHELTER": 2,
@@ -2824,6 +3179,7 @@
         "EM_TRUCK_PARK": 2,
         "ENT_WIDTH": 30,
         "FENCED": 2,
+        "GLOBAL_SEGMENT_ID": 23198560,
         "LAST_UPDATE": "2015-07-08",
         "LIGHTS": 1,
         "LOCATION": "US 50 @ Castle Marina Rd (Kent Island)",
@@ -2834,11 +3190,15 @@
         "OWNER": "SHA",
         "PAY_PHONE": 2,
         "SIGNED": 2,
-        "SIGNED_NAME": "US 50 @ Castle Marina Rd (Kent Island)",
         "TOTAL_ELEC_STA": 0,
         "VEIP_KIOSK": 2,
         "YEAR_CONST": 1982,
-        "YEAR_EXPANDED": 1978
+        "YEAR_EXPANDED": 1978,
+        "description": "1382 MAIN ST, CHESTER, MD 21619",
+        "marker-color": "fbb03b",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "US 50 @ Castle Marina Rd (Kent Island)"
       },
       "type": "Feature"
     },
@@ -2846,14 +3206,13 @@
       "geometry": {
         "coordinates": [
           -76.65290286599702,
-          38.95986785861112
+          38.95986785861113
         ],
         "type": "Point"
       },
       "id": 91,
       "properties": {
         "ADA_COMPLIANT": 2,
-        "ADDRESS": "2701 DAVIDSONVILLE ROAD, DAVIDSONVILLE, MD 21035",
         "ADDRESS_SIGNED": 2,
         "BIKE_RACKS": 2,
         "BUS_SHELTER": 1,
@@ -2864,6 +3223,7 @@
         "ENT_WIDTH": 40,
         "EXIT_NUMBER": "16",
         "FENCED": 2,
+        "GLOBAL_SEGMENT_ID": 4418753,
         "LAST_UPDATE": "2015-10-01",
         "LIGHTS": 1,
         "LOCATION": "US 50 @ MD 424 (Davidonsville)",
@@ -2874,11 +3234,15 @@
         "OWNER": "SHA",
         "PAY_PHONE": 2,
         "SIGNED": 2,
-        "SIGNED_NAME": "US 50 @ MD 424 (Davidonsville)",
         "TOTAL_ELEC_STA": 0,
         "VEIP_KIOSK": 2,
         "YEAR_CONST": 1984,
-        "YEAR_EXPANDED": 1979
+        "YEAR_EXPANDED": 1979,
+        "description": "2701 DAVIDSONVILLE ROAD, DAVIDSONVILLE, MD 21035",
+        "marker-color": "fbb03b",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "US 50 @ MD 424 (Davidonsville)"
       },
       "type": "Feature"
     },
@@ -2886,14 +3250,13 @@
       "geometry": {
         "coordinates": [
           -76.65934535284298,
-          38.771905713139134
+          38.77190571313915
         ],
         "type": "Point"
       },
       "id": 92,
       "properties": {
         "ADA_COMPLIANT": 2,
-        "ADDRESS": "6250 SOUTHERN MARYLAND BLVD, LOTHIAN, MD 20711",
         "ADDRESS_SIGNED": 2,
         "BIKE_RACKS": 2,
         "BUS_SHELTER": 1,
@@ -2902,6 +3265,7 @@
         "EM_TRUCK_PARK": 2,
         "ENT_WIDTH": 30,
         "FENCED": 2,
+        "GLOBAL_SEGMENT_ID": 36835774,
         "LAST_UPDATE": "2015-07-09",
         "LIGHTS": 1,
         "LOCATION": "MD 4 @ Lower Pindell Road",
@@ -2912,11 +3276,15 @@
         "OWNER": "SHA",
         "PAY_PHONE": 2,
         "SIGNED": 2,
-        "SIGNED_NAME": "MD 4 @ Lower Pindell Road",
         "TOTAL_ELEC_STA": 0,
         "VEIP_KIOSK": 2,
         "YEAR_CONST": 1982,
-        "YEAR_EXPANDED": 1982
+        "YEAR_EXPANDED": 1982,
+        "description": "6250 SOUTHERN MARYLAND BLVD, LOTHIAN, MD 20711",
+        "marker-color": "fbb03b",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "MD 4 @ Lower Pindell Road"
       },
       "type": "Feature"
     },
@@ -2924,14 +3292,13 @@
       "geometry": {
         "coordinates": [
           -76.5989071850607,
-          38.79002156621197
+          38.790021566211976
         ],
         "type": "Point"
       },
       "id": 93,
       "properties": {
         "ADA_COMPLIANT": 2,
-        "ADDRESS": "5770 SOLOMONS ISLAND ROAD, LOTHIAN, MD 20711",
         "ADDRESS_SIGNED": 2,
         "BIKE_RACKS": 2,
         "BUS_SHELTER": 2,
@@ -2940,6 +3307,7 @@
         "EM_TRUCK_PARK": 2,
         "ENT_WIDTH": 30,
         "FENCED": 2,
+        "GLOBAL_SEGMENT_ID": 36503086,
         "LAST_UPDATE": "2015-07-09",
         "LIGHTS": 1,
         "LOCATION": "MD 2 @ MD 258 (Bay Front Rd)",
@@ -2950,11 +3318,15 @@
         "OWNER": "SHA",
         "PAY_PHONE": 2,
         "SIGNED": 2,
-        "SIGNED_NAME": "MD 2 @ MD 258 (Bay Front Rd)",
         "TOTAL_ELEC_STA": 0,
         "VEIP_KIOSK": 2,
         "YEAR_CONST": 1983,
-        "YEAR_EXPANDED": 1983
+        "YEAR_EXPANDED": 1983,
+        "description": "5770 SOLOMONS ISLAND ROAD, LOTHIAN, MD 20711",
+        "marker-color": "fbb03b",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "MD 2 @ MD 258 (Bay Front Rd)"
       },
       "type": "Feature"
     },
@@ -2962,20 +3334,24 @@
       "geometry": {
         "coordinates": [
           -76.70544762180359,
-          39.0866337311406
+          39.08663373114061
         ],
         "type": "Point"
       },
       "id": 94,
       "properties": {
-        "ADDRESS": "1396 ODENTON RD, ODENTON, MD 21113",
         "ADDRESS_SIGNED": 2,
+        "GLOBAL_SEGMENT_ID": 36049480,
         "LAST_UPDATE": "2014-09-25",
         "LOCATION": "Odenton Park and Ride",
         "LOT_ID": 161,
         "MAINTAINED_BY_ID": 2,
         "OWNER": "OTHER",
-        "SIGNED_NAME": "Odenton Park and Ride"
+        "description": "1396 ODENTON RD, ODENTON, MD 21113",
+        "marker-color": "3bb2d0",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "Odenton Park and Ride"
       },
       "type": "Feature"
     },
@@ -2990,7 +3366,6 @@
       "id": 95,
       "properties": {
         "ADA_COMPLIANT": 2,
-        "ADDRESS": "5434 SOUTHERN MARYLAND BLVD, LOTHIAN, MD 20711",
         "ADDRESS_SIGNED": 2,
         "BIKE_RACKS": 2,
         "BUS_SHELTER": 1,
@@ -3000,6 +3375,7 @@
         "EM_TRUCK_PARK": 2,
         "ENT_WIDTH": 30,
         "FENCED": 2,
+        "GLOBAL_SEGMENT_ID": 36821331,
         "LAST_UPDATE": "2015-07-13",
         "LIGHTS": 1,
         "LOCATION": "MD 4 @ MD 408",
@@ -3010,11 +3386,15 @@
         "OWNER": "SHA",
         "PAY_PHONE": 2,
         "SIGNED": 2,
-        "SIGNED_NAME": "MD 4 @ MD 408",
         "TOTAL_ELEC_STA": 0,
         "VEIP_KIOSK": 2,
         "YEAR_CONST": 1999,
-        "YEAR_EXPANDED": 1993
+        "YEAR_EXPANDED": 1993,
+        "description": "5434 SOUTHERN MARYLAND BLVD, LOTHIAN, MD 20711",
+        "marker-color": "fbb03b",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "MD 4 @ MD 408"
       },
       "type": "Feature"
     },
@@ -3022,14 +3402,13 @@
       "geometry": {
         "coordinates": [
           -76.67355291388398,
-          39.633066507309366
+          39.63306650730936
         ],
         "type": "Point"
       },
       "id": 96,
       "properties": {
         "ADA_COMPLIANT": 2,
-        "ADDRESS": "Needs Address Assigned, PARKTON, MD 21120",
         "ADDRESS_SIGNED": 2,
         "BIKE_RACKS": 1,
         "BUS_SHELTER": 2,
@@ -3039,6 +3418,7 @@
         "ENT_WIDTH": 42,
         "EXIT_NUMBER": "31",
         "FENCED": 2,
+        "GLOBAL_SEGMENT_ID": 4986084,
         "LAST_UPDATE": "2015-07-16",
         "LIGHTS": 2,
         "LOCATION": "IS 83 @ Middletown Rd",
@@ -3049,11 +3429,15 @@
         "OWNER": "SHA",
         "PAY_PHONE": 2,
         "SIGNED": 1,
-        "SIGNED_NAME": "IS 83 @ Middletown Rd",
         "TOTAL_ELEC_STA": 0,
         "VEIP_KIOSK": 2,
         "YEAR_CONST": 2001,
-        "YEAR_EXPANDED": 1979
+        "YEAR_EXPANDED": 1979,
+        "description": "Needs Address Assigned, PARKTON, MD 21120",
+        "marker-color": "fbb03b",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "IS 83 @ Middletown Rd"
       },
       "type": "Feature"
     },
@@ -3061,19 +3445,23 @@
       "geometry": {
         "coordinates": [
           -76.5712584749136,
-          38.927088513360324
+          38.92708851336033
         ],
         "type": "Point"
       },
       "id": 97,
       "properties": {
         "ADDRESS_SIGNED": 2,
+        "GLOBAL_SEGMENT_ID": 36676390,
         "LAST_UPDATE": "2014-09-25",
         "LOCATION": "Edgewater Park and Ride",
         "LOT_ID": 170,
         "MAINTAINED_BY_ID": 2,
         "OWNER": "OTHER",
-        "SIGNED_NAME": "Edgewater Park and Ride"
+        "marker-color": "3bb2d0",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "Edgewater Park and Ride"
       },
       "type": "Feature"
     },
@@ -3081,21 +3469,25 @@
       "geometry": {
         "coordinates": [
           -76.77589712561222,
-          39.15075370866497
+          39.15075370866498
         ],
         "type": "Point"
       },
       "id": 98,
       "properties": {
-        "ADDRESS": "8010 OLD JESSUP RD, JESSUP, MD 20794",
         "ADDRESS_SIGNED": 2,
         "CREATION_DATE": "2016-03-07",
+        "GLOBAL_SEGMENT_ID": 36815144,
         "LAST_UPDATE": "2016-03-07",
         "LOCATION": "Jessup MARC Park and Ride",
         "LOT_ID": 171,
         "MAINTAINED_BY_ID": 2,
         "OWNER": "OTHER",
-        "SIGNED_NAME": "Jessup MARC Park and Ride"
+        "description": "8010 OLD JESSUP RD, JESSUP, MD 20794",
+        "marker-color": "3bb2d0",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "Jessup MARC Park and Ride"
       },
       "type": "Feature"
     },
@@ -3110,12 +3502,16 @@
       "id": 99,
       "properties": {
         "ADDRESS_SIGNED": 2,
+        "GLOBAL_SEGMENT_ID": 35309810,
         "LAST_UPDATE": "2014-09-25",
         "LOCATION": "Earleigh Heights Park and Ride",
         "LOT_ID": 172,
         "MAINTAINED_BY_ID": 2,
         "OWNER": "OTHER",
-        "SIGNED_NAME": "Earleigh Heights Park and Ride"
+        "marker-color": "3bb2d0",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "Earleigh Heights Park and Ride"
       },
       "type": "Feature"
     },
@@ -3123,20 +3519,24 @@
       "geometry": {
         "coordinates": [
           -76.70805928317756,
-          39.08851530299584
+          39.088515302995845
         ],
         "type": "Point"
       },
       "id": 100,
       "properties": {
-        "ADDRESS": "1151 TOWN CENTER BLVD, ODENTON, MD 21113",
         "ADDRESS_SIGNED": 2,
+        "GLOBAL_SEGMENT_ID": 67235158,
         "LAST_UPDATE": "2014-09-25",
         "LOCATION": "Odenton MARC Park and Ride",
         "LOT_ID": 173,
         "MAINTAINED_BY_ID": 2,
         "OWNER": "OTHER",
-        "SIGNED_NAME": "Odenton MARC Park and Ride"
+        "description": "1151 TOWN CENTER BLVD, ODENTON, MD 21113",
+        "marker-color": "3bb2d0",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "Odenton MARC Park and Ride"
       },
       "type": "Feature"
     },
@@ -3144,18 +3544,22 @@
       "geometry": {
         "coordinates": [
           -76.625831147539,
-          39.4287038384438
+          39.42870383844381
         ],
         "type": "Point"
       },
       "id": 101,
       "properties": {
         "ADDRESS_SIGNED": 2,
+        "GLOBAL_SEGMENT_ID": 5552304,
         "LOCATION": "Lutherville Park and Ride",
         "LOT_ID": 175,
         "MAINTAINED_BY_ID": 2,
         "OWNER": "OTHER",
-        "SIGNED_NAME": "Lutherville Park and Ride"
+        "marker-color": "3bb2d0",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "Lutherville Park and Ride"
       },
       "type": "Feature"
     },
@@ -3163,21 +3567,25 @@
       "geometry": {
         "coordinates": [
           -76.63301936323961,
-          39.17264351771915
+          39.172643517719145
         ],
         "type": "Point"
       },
       "id": 102,
       "properties": {
-        "ADDRESS": "7378 BALTIMORE ANNAPOLIS BLVD, GLEN BURNIE, MD 21061",
         "ADDRESS_SIGNED": 2,
         "CREATION_DATE": "2016-03-07",
+        "GLOBAL_SEGMENT_ID": 4466317,
         "LAST_UPDATE": "2016-03-07",
         "LOCATION": "Cromwell Park and Ride",
         "LOT_ID": 176,
         "MAINTAINED_BY_ID": 2,
         "OWNER": "OTHER",
-        "SIGNED_NAME": "Cromwell Park and Ride"
+        "description": "7378 BALTIMORE ANNAPOLIS BLVD, GLEN BURNIE, MD 21061",
+        "marker-color": "3bb2d0",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "Cromwell Park and Ride"
       },
       "type": "Feature"
     },
@@ -3185,35 +3593,38 @@
       "geometry": {
         "coordinates": [
           -76.62700215006456,
-          39.16527608596384
+          39.16527608596385
         ],
         "type": "Point"
       },
       "id": 103,
       "properties": {
-        "ADDRESS": "16 GREENWAY NW, GLEN BURNIE, MD 21061",
         "ADDRESS_SIGNED": 2,
+        "GLOBAL_SEGMENT_ID": 3776684,
         "LAST_UPDATE": "2016-03-07",
         "LOCATION": "Glen Burnie Park and Ride",
         "LOT_ID": 177,
         "MAINTAINED_BY_ID": 2,
         "OWNER": "OTHER",
-        "SIGNED_NAME": "Glen Burnie Park and Ride"
+        "description": "16 GREENWAY NW, GLEN BURNIE, MD 21061",
+        "marker-color": "3bb2d0",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "Glen Burnie Park and Ride"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          -78.79283379832896,
-          39.64125454747173
+          -78.79283379832897,
+          39.641254547471725
         ],
         "type": "Point"
       },
       "id": 104,
       "properties": {
         "ADA_COMPLIANT": 1,
-        "ADDRESS": "11301 MCMULLEN HIGHWAY, CUMBERLAND, MD 21502",
         "ADDRESS_SIGNED": 2,
         "BIKE_RACKS": 2,
         "BUS_SHELTER": 2,
@@ -3223,6 +3634,7 @@
         "ENT_WIDTH": 38,
         "EXIT_NUMBER": "42",
         "FENCED": 2,
+        "GLOBAL_SEGMENT_ID": 34484847,
         "LAST_UPDATE": "2015-07-09",
         "LIGHTS": 1,
         "LOCATION": "IS 68 @ US 220 S (South Cumberland)",
@@ -3233,11 +3645,15 @@
         "OWNER": "SHA",
         "PAY_PHONE": 2,
         "SIGNED": 2,
-        "SIGNED_NAME": "IS 68 @ US 220 S (South Cumberland)",
         "TOTAL_ELEC_STA": 0,
         "VEIP_KIOSK": 2,
         "YEAR_CONST": 1982,
-        "YEAR_EXPANDED": 1982
+        "YEAR_EXPANDED": 1982,
+        "description": "11301 MCMULLEN HIGHWAY, CUMBERLAND, MD 21502",
+        "marker-color": "fbb03b",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "IS 68 @ US 220 S (South Cumberland)"
       },
       "type": "Feature"
     },
@@ -3245,19 +3661,23 @@
       "geometry": {
         "coordinates": [
           -76.66336598953552,
-          39.16291107427988
+          39.1629110742799
         ],
         "type": "Point"
       },
       "id": 105,
       "properties": {
         "ADDRESS_SIGNED": 2,
+        "GLOBAL_SEGMENT_ID": 4313945,
         "LAST_UPDATE": "2014-09-25",
         "LOCATION": "BWI Overlook Parking (Thomas A.Dixon Jr. Aircraft Observation Area)",
         "LOT_ID": 179,
         "MAINTAINED_BY_ID": 2,
         "OWNER": "OTHER",
-        "SIGNED_NAME": "BWI Overlook Parking (Thomas A.Dixon Jr. Aircraft Observation Area)"
+        "marker-color": "3bb2d0",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "BWI Overlook Parking (Thomas A.Dixon Jr. Aircraft Observation Area)"
       },
       "type": "Feature"
     },
@@ -3272,7 +3692,6 @@
       "id": 106,
       "properties": {
         "ADA_COMPLIANT": 2,
-        "ADDRESS": "12750 Naves Cross Rd NE MD 21502, CUMBERLAND, MD 21502",
         "ADDRESS_SIGNED": 2,
         "BIKE_RACKS": 1,
         "BUS_SHELTER": 2,
@@ -3282,6 +3701,7 @@
         "ENT_WIDTH": 23,
         "EXIT_NUMBER": "46",
         "FENCED": 2,
+        "GLOBAL_SEGMENT_ID": 34293866,
         "LAST_UPDATE": "2015-07-09",
         "LIGHTS": 1,
         "LOCATION": "IS 68 @ US 220 N (East Cumberland)",
@@ -3292,11 +3712,15 @@
         "OWNER": "SHA",
         "PAY_PHONE": 2,
         "SIGNED": 2,
-        "SIGNED_NAME": "IS 68 @ US 220 N (East Cumberland)",
         "TOTAL_ELEC_STA": 0,
         "VEIP_KIOSK": 2,
         "YEAR_CONST": 2001,
-        "YEAR_EXPANDED": 1997
+        "YEAR_EXPANDED": 1997,
+        "description": "12750 Naves Cross Rd NE MD 21502, CUMBERLAND, MD 21502",
+        "marker-color": "fbb03b",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "IS 68 @ US 220 N (East Cumberland)"
       },
       "type": "Feature"
     },
@@ -3304,7 +3728,7 @@
       "geometry": {
         "coordinates": [
           -76.69152238694733,
-          39.191000710198026
+          39.19100071019802
         ],
         "type": "Point"
       },
@@ -3312,12 +3736,16 @@
       "properties": {
         "ADDRESS_SIGNED": 2,
         "CREATION_DATE": "2015-10-01",
+        "GLOBAL_SEGMENT_ID": 36838038,
         "LAST_UPDATE": "2015-10-01",
         "LOCATION": "MD 170 null Way",
         "LOT_ID": 182,
         "MAINTAINED_BY_ID": 2,
         "OWNER": "OTHER",
-        "SIGNED_NAME": "MD 170 null Way"
+        "marker-color": "3bb2d0",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "MD 170 null Way"
       },
       "type": "Feature"
     },
@@ -3325,19 +3753,23 @@
       "geometry": {
         "coordinates": [
           -76.66384812445706,
-          39.484624985520135
+          39.48462498552013
         ],
         "type": "Point"
       },
       "id": 108,
       "properties": {
         "ADDRESS_SIGNED": 2,
+        "GLOBAL_SEGMENT_ID": 5335201,
         "LAST_UPDATE": "2014-09-25",
         "LOCATION": "Baltimore Highlands Park and Ride",
         "LOT_ID": 183,
         "MAINTAINED_BY_ID": 2,
         "OWNER": "OTHER",
-        "SIGNED_NAME": "Baltimore Highlands Park and Ride"
+        "marker-color": "3bb2d0",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "Baltimore Highlands Park and Ride"
       },
       "type": "Feature"
     },
@@ -3345,21 +3777,25 @@
       "geometry": {
         "coordinates": [
           -76.5041701632846,
-          38.98597011066116
+          38.98597011066115
         ],
         "type": "Point"
       },
       "id": 109,
       "properties": {
-        "ADDRESS": "511 TAYLOR AVE, ANNAPOLIS, MD 21401",
         "ADDRESS_SIGNED": 2,
         "CREATION_DATE": "2016-02-08",
+        "GLOBAL_SEGMENT_ID": 36751399,
         "LAST_UPDATE": "2016-02-08",
         "LOCATION": "Annapolis US Naval Academy Park and Ride",
         "LOT_ID": 185,
         "MAINTAINED_BY_ID": 2,
         "OWNER": "OTHER",
-        "SIGNED_NAME": "Annapolis US Naval Academy Park and Ride"
+        "description": "511 TAYLOR AVE, ANNAPOLIS, MD 21401",
+        "marker-color": "3bb2d0",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "Annapolis US Naval Academy Park and Ride"
       },
       "type": "Feature"
     },
@@ -3367,14 +3803,13 @@
       "geometry": {
         "coordinates": [
           -76.46406672091359,
-          38.34409364073696
+          38.34409364073697
         ],
         "type": "Point"
       },
       "id": 110,
       "properties": {
         "ADA_COMPLIANT": 2,
-        "ADDRESS": "7 CRESTON LN, SOLOMONS, MD 20688",
         "ADDRESS_SIGNED": 2,
         "BIKE_RACKS": 2,
         "BUS_SHELTER": 2,
@@ -3383,6 +3818,7 @@
         "EM_TRUCK_PARK": 2,
         "ENT_WIDTH": 23,
         "FENCED": 2,
+        "GLOBAL_SEGMENT_ID": 46185068,
         "LAST_UPDATE": "2016-03-07",
         "LIGHTS": 1,
         "LOCATION": "MD 2/4 @ Creston Lane",
@@ -3393,11 +3829,15 @@
         "OWNER": "SHA",
         "PAY_PHONE": 2,
         "SIGNED": 2,
-        "SIGNED_NAME": "MD 2/4 @ Creston Lane",
         "TOTAL_ELEC_STA": 0,
         "VEIP_KIOSK": 2,
         "YEAR_CONST": 2001,
-        "YEAR_EXPANDED": 2001
+        "YEAR_EXPANDED": 2001,
+        "description": "7 CRESTON LN, SOLOMONS, MD 20688",
+        "marker-color": "fbb03b",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "MD 2/4 @ Creston Lane"
       },
       "type": "Feature"
     },
@@ -3412,7 +3852,6 @@
       "id": 111,
       "properties": {
         "ADA_COMPLIANT": 2,
-        "ADDRESS": "95 COVE POINT ROAD, LUSBY, MD 20657",
         "ADDRESS_SIGNED": 2,
         "BIKE_RACKS": 2,
         "BUS_SHELTER": 2,
@@ -3421,6 +3860,7 @@
         "EM_TRUCK_PARK": 2,
         "ENT_WIDTH": 27,
         "FENCED": 2,
+        "GLOBAL_SEGMENT_ID": 46148246,
         "LAST_UPDATE": "2015-07-09",
         "LIGHTS": 1,
         "LOCATION": "MD 765 @ MD 497 (Cove  Point)",
@@ -3431,11 +3871,15 @@
         "OWNER": "SHA",
         "PAY_PHONE": 2,
         "SIGNED": 2,
-        "SIGNED_NAME": "MD 765 @ MD 497 (Cove  Point)",
         "TOTAL_ELEC_STA": 0,
         "VEIP_KIOSK": 2,
         "YEAR_CONST": 2004,
-        "YEAR_EXPANDED": 1990
+        "YEAR_EXPANDED": 1990,
+        "description": "95 COVE POINT ROAD, LUSBY, MD 20657",
+        "marker-color": "fbb03b",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "MD 765 @ MD 497 (Cove  Point)"
       },
       "type": "Feature"
     },
@@ -3450,11 +3894,15 @@
       "id": 112,
       "properties": {
         "ADDRESS_SIGNED": 2,
+        "GLOBAL_SEGMENT_ID": 11429998,
         "LOCATION": "Prince Frederick Park and Ride",
         "LOT_ID": 191,
         "MAINTAINED_BY_ID": 2,
         "OWNER": "OTHER",
-        "SIGNED_NAME": "Prince Frederick Park and Ride"
+        "marker-color": "3bb2d0",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "Prince Frederick Park and Ride"
       },
       "type": "Feature"
     },
@@ -3469,7 +3917,6 @@
       "id": 113,
       "properties": {
         "ADA_COMPLIANT": 2,
-        "ADDRESS": "3501 HALLOWING POINT RD, PRINCE FREDERICK, MD 20678",
         "ADDRESS_SIGNED": 2,
         "BIKE_RACKS": 2,
         "BUS_SHELTER": 2,
@@ -3478,6 +3925,7 @@
         "EM_TRUCK_PARK": 2,
         "ENT_WIDTH": 28,
         "FENCED": 2,
+        "GLOBAL_SEGMENT_ID": 11427732,
         "LAST_UPDATE": "2015-10-01",
         "LIGHTS": 2,
         "LOCATION": "MD 231 @ Fairgrounds (SHA Lot)",
@@ -3489,11 +3937,15 @@
         "PAY_PHONE": 2,
         "PNR_STATUS_ID": 4,
         "SIGNED": 2,
-        "SIGNED_NAME": "MD 231 @ Fairgrounds (SHA Lot)",
         "TOTAL_ELEC_STA": 0,
         "VEIP_KIOSK": 2,
         "YEAR_CONST": 2000,
-        "YEAR_EXPANDED": 2000
+        "YEAR_EXPANDED": 2000,
+        "description": "3501 HALLOWING POINT RD, PRINCE FREDERICK, MD 20678",
+        "marker-color": "3bb2d0",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "MD 231 @ Fairgrounds (SHA Lot)"
       },
       "type": "Feature"
     },
@@ -3507,13 +3959,17 @@
       },
       "id": 114,
       "properties": {
-        "ADDRESS": "10839 TOWN CENTER BLVD, DUNKIRK, MD 20754",
         "ADDRESS_SIGNED": 2,
+        "GLOBAL_SEGMENT_ID": 46098396,
         "LOCATION": "Dunkirk Park and Ride",
         "LOT_ID": 193,
         "MAINTAINED_BY_ID": 2,
         "OWNER": "OTHER",
-        "SIGNED_NAME": "Dunkirk Park and Ride"
+        "description": "10839 TOWN CENTER BLVD, DUNKIRK, MD 20754",
+        "marker-color": "3bb2d0",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "Dunkirk Park and Ride"
       },
       "type": "Feature"
     },
@@ -3528,7 +3984,6 @@
       "id": 115,
       "properties": {
         "ADA_COMPLIANT": 1,
-        "ADDRESS": "3625 HAMPSTEAD MEXICO RD, HAMPSTEAD, MD 21074",
         "ADDRESS_SIGNED": 2,
         "BIKE_RACKS": 1,
         "BUS_SHELTER": 2,
@@ -3537,6 +3992,7 @@
         "EM_TRUCK_PARK": 2,
         "ENT_WIDTH": 34,
         "FENCED": 2,
+        "GLOBAL_SEGMENT_ID": 12735603,
         "LAST_UPDATE": "2015-07-09",
         "LIGHTS": 1,
         "LOCATION": "MD 30 @ MD 482 (Hampstead)",
@@ -3547,11 +4003,15 @@
         "OWNER": "SHA",
         "PAY_PHONE": 2,
         "SIGNED": 2,
-        "SIGNED_NAME": "MD 30 @ MD 482 (Hampstead)",
         "TOTAL_ELEC_STA": 0,
         "VEIP_KIOSK": 2,
         "YEAR_CONST": 2009,
-        "YEAR_EXPANDED": 2009
+        "YEAR_EXPANDED": 2009,
+        "description": "3625 HAMPSTEAD MEXICO RD, HAMPSTEAD, MD 21074",
+        "marker-color": "fbb03b",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "MD 30 @ MD 482 (Hampstead)"
       },
       "type": "Feature"
     },
@@ -3559,18 +4019,22 @@
       "geometry": {
         "coordinates": [
           -76.60580004531977,
-          38.58387672444513
+          38.58387672444514
         ],
         "type": "Point"
       },
       "id": 116,
       "properties": {
         "ADDRESS_SIGNED": 2,
+        "GLOBAL_SEGMENT_ID": 46066933,
         "LOCATION": "Lord Calvert Bowling Lanes",
         "LOT_ID": 196,
         "MAINTAINED_BY_ID": 2,
         "OWNER": "OTHER",
-        "SIGNED_NAME": "Lord Calvert Bowling Lanes"
+        "marker-color": "3bb2d0",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "Lord Calvert Bowling Lanes"
       },
       "type": "Feature"
     },
@@ -3578,14 +4042,13 @@
       "geometry": {
         "coordinates": [
           -76.61300173242705,
-          38.61425943599712
+          38.614259435997134
         ],
         "type": "Point"
       },
       "id": 117,
       "properties": {
         "ADA_COMPLIANT": 2,
-        "ADDRESS": "3808 OLD TOWN ROAD, HUNTINGTOWN, MD 20639",
         "ADDRESS_SIGNED": 2,
         "BIKE_RACKS": 2,
         "BUS_SHELTER": 2,
@@ -3594,6 +4057,7 @@
         "EM_TRUCK_PARK": 2,
         "ENT_WIDTH": 26,
         "FENCED": 2,
+        "GLOBAL_SEGMENT_ID": 46159561,
         "LAST_UPDATE": "2015-07-09",
         "LIGHTS": 1,
         "LOCATION": "MD 2/4 @ MD 524 (Huntingtown)",
@@ -3604,11 +4068,15 @@
         "OWNER": "SHA",
         "PAY_PHONE": 2,
         "SIGNED": 2,
-        "SIGNED_NAME": "MD 2/4 @ MD 524 (Huntingtown)",
         "TOTAL_ELEC_STA": 0,
         "VEIP_KIOSK": 2,
         "YEAR_CONST": 1986,
-        "YEAR_EXPANDED": 1986
+        "YEAR_EXPANDED": 1986,
+        "description": "3808 OLD TOWN ROAD, HUNTINGTOWN, MD 20639",
+        "marker-color": "fbb03b",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "MD 2/4 @ MD 524 (Huntingtown)"
       },
       "type": "Feature"
     },
@@ -3623,7 +4091,6 @@
       "id": 118,
       "properties": {
         "ADA_COMPLIANT": 2,
-        "ADDRESS": "6425 N  SOLOMONS ISLAND ROAD, SUNDERLAND, MD 20689",
         "ADDRESS_SIGNED": 2,
         "BIKE_RACKS": 2,
         "BUS_SHELTER": 2,
@@ -3633,6 +4100,7 @@
         "EM_TRUCK_PARK": 2,
         "ENT_WIDTH": 34,
         "FENCED": 1,
+        "GLOBAL_SEGMENT_ID": 11407781,
         "LAST_UPDATE": "2015-07-09",
         "LIGHTS": 1,
         "LOCATION": "MD 2/4 @ MD 262 Sunderland",
@@ -3643,11 +4111,15 @@
         "OWNER": "SHA",
         "PAY_PHONE": 2,
         "SIGNED": 2,
-        "SIGNED_NAME": "MD 2/4 @ MD 262 Sunderland",
         "TOTAL_ELEC_STA": 0,
         "VEIP_KIOSK": 2,
         "YEAR_CONST": 1990,
-        "YEAR_EXPANDED": 1982
+        "YEAR_EXPANDED": 1982,
+        "description": "6425 N  SOLOMONS ISLAND ROAD, SUNDERLAND, MD 20689",
+        "marker-color": "fbb03b",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "MD 2/4 @ MD 262 Sunderland"
       },
       "type": "Feature"
     },
@@ -3655,14 +4127,13 @@
       "geometry": {
         "coordinates": [
           -76.88818041241838,
-          39.66329762963101
+          39.66329762963102
         ],
         "type": "Point"
       },
       "id": 119,
       "properties": {
         "ADA_COMPLIANT": 1,
-        "ADDRESS": "3050 MANCHESTER ROAD, MANCHESTER, MD 21102",
         "ADDRESS_SIGNED": 2,
         "BIKE_RACKS": 2,
         "BUS_SHELTER": 2,
@@ -3671,6 +4142,7 @@
         "EM_TRUCK_PARK": 2,
         "ENT_WIDTH": 29,
         "FENCED": 2,
+        "GLOBAL_SEGMENT_ID": 41565421,
         "LAST_UPDATE": "2016-03-09",
         "LIGHTS": 1,
         "LOCATION": "MD 30 @ MD 27 (Manchester)",
@@ -3681,11 +4153,15 @@
         "OWNER": "SHA",
         "PAY_PHONE": 2,
         "SIGNED": 2,
-        "SIGNED_NAME": "MD 30 @ MD 27 (Manchester)",
         "TOTAL_ELEC_STA": 0,
         "VEIP_KIOSK": 2,
         "YEAR_CONST": 1985,
-        "YEAR_EXPANDED": 1985
+        "YEAR_EXPANDED": 1985,
+        "description": "3050 MANCHESTER ROAD, MANCHESTER, MD 21102",
+        "marker-color": "fbb03b",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "MD 30 @ MD 27 (Manchester)"
       },
       "type": "Feature"
     },
@@ -3700,7 +4176,6 @@
       "id": 120,
       "properties": {
         "ADA_COMPLIANT": 2,
-        "ADDRESS": "Needs Address Assigned, PARKTON, MD 21120",
         "ADDRESS_SIGNED": 2,
         "BIKE_RACKS": 2,
         "BUS_SHELTER": 2,
@@ -3711,6 +4186,7 @@
         "ENT_WIDTH": 31,
         "EXIT_NUMBER": "36",
         "FENCED": 2,
+        "GLOBAL_SEGMENT_ID": 7909772,
         "LAST_UPDATE": "2015-07-13",
         "LIGHTS": 1,
         "LOCATION": "IS 83 @ MD 439 (Old York Rd)",
@@ -3721,11 +4197,15 @@
         "OWNER": "SHA",
         "PAY_PHONE": 2,
         "SIGNED": 2,
-        "SIGNED_NAME": "IS 83 @ MD 439 (Old York Rd)",
         "TOTAL_ELEC_STA": 0,
         "VEIP_KIOSK": 2,
         "YEAR_CONST": 1981,
-        "YEAR_EXPANDED": 1981
+        "YEAR_EXPANDED": 1981,
+        "description": "Needs Address Assigned, PARKTON, MD 21120",
+        "marker-color": "fbb03b",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "IS 83 @ MD 439 (Old York Rd)"
       },
       "type": "Feature"
     },
@@ -3740,7 +4220,6 @@
       "id": 121,
       "properties": {
         "ADA_COMPLIANT": 1,
-        "ADDRESS": "1220 ROLLING ROAD, CATONSVILLE, MD 21228",
         "ADDRESS_SIGNED": 2,
         "BIKE_RACKS": 2,
         "BUS_SHELTER": 1,
@@ -3751,6 +4230,7 @@
         "ENT_WIDTH": 12,
         "EXIT_NUMBER": "47",
         "FENCED": 2,
+        "GLOBAL_SEGMENT_ID": 7905237,
         "LAST_UPDATE": "2015-07-08",
         "LIGHTS": 2,
         "LOCATION": "IS 195 @ MD 166",
@@ -3761,11 +4241,15 @@
         "OWNER": "SHA",
         "PAY_PHONE": 2,
         "SIGNED": 2,
-        "SIGNED_NAME": "IS 195 @ MD 166",
         "TOTAL_ELEC_STA": 0,
         "VEIP_KIOSK": 2,
         "YEAR_CONST": 1990,
-        "YEAR_EXPANDED": 1990
+        "YEAR_EXPANDED": 1990,
+        "description": "1220 ROLLING ROAD, CATONSVILLE, MD 21228",
+        "marker-color": "fbb03b",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "IS 195 @ MD 166"
       },
       "type": "Feature"
     },
@@ -3780,11 +4264,15 @@
       "id": 122,
       "properties": {
         "ADDRESS_SIGNED": 2,
+        "GLOBAL_SEGMENT_ID": 7877641,
         "LOCATION": "Essex Park and Ride",
         "LOT_ID": 205,
         "MAINTAINED_BY_ID": 2,
         "OWNER": "OTHER",
-        "SIGNED_NAME": "Essex Park and Ride"
+        "marker-color": "3bb2d0",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "Essex Park and Ride"
       },
       "type": "Feature"
     },
@@ -3799,7 +4287,6 @@
       "id": 123,
       "properties": {
         "ADA_COMPLIANT": 2,
-        "ADDRESS": "Needs Address Assigned, HEREFORD, MD 21120",
         "ADDRESS_SIGNED": 2,
         "BIKE_RACKS": 1,
         "BUS_SHELTER": 2,
@@ -3809,6 +4296,7 @@
         "ENT_WIDTH": 24,
         "EXIT_NUMBER": "27",
         "FENCED": 2,
+        "GLOBAL_SEGMENT_ID": 40132030,
         "LAST_UPDATE": "2015-07-08",
         "LIGHTS": 1,
         "LOCATION": "IS 83 @ MD 137 (Mt Carmel Rd)",
@@ -3819,11 +4307,15 @@
         "OWNER": "SHA",
         "PAY_PHONE": 2,
         "SIGNED": 2,
-        "SIGNED_NAME": "IS 83 @ MD 137 (Mt Carmel Rd)",
         "TOTAL_ELEC_STA": 0,
         "VEIP_KIOSK": 2,
         "YEAR_CONST": 2001,
-        "YEAR_EXPANDED": 1978
+        "YEAR_EXPANDED": 1978,
+        "description": "Needs Address Assigned, HEREFORD, MD 21120",
+        "marker-color": "fbb03b",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "IS 83 @ MD 137 (Mt Carmel Rd)"
       },
       "type": "Feature"
     },
@@ -3840,12 +4332,16 @@
         "ADDRESS_SIGNED": 2,
         "CREATION_DATE": "2014-09-12",
         "EM_TRUCK_PARK": 2,
+        "GLOBAL_SEGMENT_ID": 39674116,
         "LAST_UPDATE": "2014-09-12",
         "LOCATION": "Timonium Park and Ride",
         "LOT_ID": 207,
         "MAINTAINED_BY_ID": 2,
         "OWNER": "OTHER",
-        "SIGNED_NAME": "Timonium Park and Ride"
+        "marker-color": "3bb2d0",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "Timonium Park and Ride"
       },
       "type": "Feature"
     },
@@ -3860,11 +4356,15 @@
       "id": 125,
       "properties": {
         "ADDRESS_SIGNED": 2,
+        "GLOBAL_SEGMENT_ID": 7223249,
         "LOCATION": "Milford Mill Park and Ride",
         "LOT_ID": 208,
         "MAINTAINED_BY_ID": 2,
         "OWNER": "OTHER",
-        "SIGNED_NAME": "Milford Mill Park and Ride"
+        "marker-color": "3bb2d0",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "Milford Mill Park and Ride"
       },
       "type": "Feature"
     },
@@ -3872,18 +4372,22 @@
       "geometry": {
         "coordinates": [
           -76.46011317701428,
-          39.37769639389312
+          39.377696393893125
         ],
         "type": "Point"
       },
       "id": 126,
       "properties": {
         "ADDRESS_SIGNED": 2,
+        "GLOBAL_SEGMENT_ID": 39480175,
         "LOCATION": "Honeygo Park and Ride",
         "LOT_ID": 209,
         "MAINTAINED_BY_ID": 2,
         "OWNER": "OTHER",
-        "SIGNED_NAME": "Honeygo Park and Ride"
+        "marker-color": "3bb2d0",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "Honeygo Park and Ride"
       },
       "type": "Feature"
     },
@@ -3891,14 +4395,13 @@
       "geometry": {
         "coordinates": [
           -77.15300182565166,
-          39.36522603664607
+          39.36522603664608
         ],
         "type": "Point"
       },
       "id": 127,
       "properties": {
         "ADA_COMPLIANT": 1,
-        "ADDRESS": "7337 RIDGE ROAD, MOUNT AIRY, MD 21771",
         "ADDRESS_SIGNED": 2,
         "BIKE_RACKS": 2,
         "BUS_SHELTER": 2,
@@ -3908,6 +4411,7 @@
         "ENT_WIDTH": 53,
         "EXIT_NUMBER": "68",
         "FENCED": 2,
+        "GLOBAL_SEGMENT_ID": 12568314,
         "LAST_UPDATE": "2015-07-13",
         "LIGHTS": 1,
         "LOCATION": "IS 70 @ MD 27 (Mount Airy)",
@@ -3918,11 +4422,15 @@
         "OWNER": "SHA",
         "PAY_PHONE": 2,
         "SIGNED": 2,
-        "SIGNED_NAME": "IS 70 @ MD 27 (Mount Airy)",
         "TOTAL_ELEC_STA": 0,
         "VEIP_KIOSK": 2,
         "YEAR_CONST": 2001,
-        "YEAR_EXPANDED": 1981
+        "YEAR_EXPANDED": 1981,
+        "description": "7337 RIDGE ROAD, MOUNT AIRY, MD 21771",
+        "marker-color": "fbb03b",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "IS 70 @ MD 27 (Mount Airy)"
       },
       "type": "Feature"
     },
@@ -3930,18 +4438,22 @@
       "geometry": {
         "coordinates": [
           -76.49967557076845,
-          39.268079268284
+          39.268079268284005
         ],
         "type": "Point"
       },
       "id": 128,
       "properties": {
         "ADDRESS_SIGNED": 2,
+        "GLOBAL_SEGMENT_ID": 6901300,
         "LOCATION": "North Point Gov. Center Park and Ride",
         "LOT_ID": 211,
         "MAINTAINED_BY_ID": 2,
         "OWNER": "OTHER",
-        "SIGNED_NAME": "North Point Gov. Center Park and Ride"
+        "marker-color": "3bb2d0",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "North Point Gov. Center Park and Ride"
       },
       "type": "Feature"
     },
@@ -3949,14 +4461,13 @@
       "geometry": {
         "coordinates": [
           -78.9165897110948,
-          39.62953168975204
+          39.62953168975205
         ],
         "type": "Point"
       },
       "id": 129,
       "properties": {
         "ADA_COMPLIANT": 1,
-        "ADDRESS": "12100 NEW GEORGES CREEK ROAD SW, FROSTBURG, MD 21532",
         "ADDRESS_SIGNED": 2,
         "BIKE_RACKS": 2,
         "BUS_SHELTER": 2,
@@ -3966,6 +4477,7 @@
         "ENT_WIDTH": 27,
         "EXIT_NUMBER": "34",
         "FENCED": 2,
+        "GLOBAL_SEGMENT_ID": 587213,
         "LAST_UPDATE": "2015-07-09",
         "LIGHTS": 1,
         "LOCATION": "IS 68 @ MD 36",
@@ -3976,11 +4488,15 @@
         "OWNER": "SHA",
         "PAY_PHONE": 2,
         "SIGNED": 2,
-        "SIGNED_NAME": "IS 68 @ MD 36",
         "TOTAL_ELEC_STA": 0,
         "VEIP_KIOSK": 2,
         "YEAR_CONST": 1984,
-        "YEAR_EXPANDED": 1984
+        "YEAR_EXPANDED": 1984,
+        "description": "12100 NEW GEORGES CREEK ROAD SW, FROSTBURG, MD 21532",
+        "marker-color": "fbb03b",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "IS 68 @ MD 36"
       },
       "type": "Feature"
     },
@@ -3988,14 +4504,13 @@
       "geometry": {
         "coordinates": [
           -77.41143008817092,
-          39.40114269480076
+          39.40114269480077
         ],
         "type": "Point"
       },
       "id": 130,
       "properties": {
         "ADA_COMPLIANT": 1,
-        "ADDRESS": "6075 NEW DESIGN RD, FREDERICK, MD 21701",
         "ADDRESS_SIGNED": 2,
         "BIKE_RACKS": 2,
         "BUS_SHELTER": 2,
@@ -4005,6 +4520,7 @@
         "ENT_WIDTH": 38,
         "EXIT_NUMBER": "54",
         "FENCED": 2,
+        "GLOBAL_SEGMENT_ID": 67338965,
         "LAST_UPDATE": "2015-07-13",
         "LIGHTS": 1,
         "LOCATION": "IS 70 @ MD 355 (New Design Rd)",
@@ -4016,11 +4532,15 @@
         "PAY_PHONE": 2,
         "PNR_STATUS_ID": 1,
         "SIGNED": 2,
-        "SIGNED_NAME": "IS 70 @ MD 355 (New Design Rd)",
         "TOTAL_ELEC_STA": 0,
         "VEIP_KIOSK": 2,
         "YEAR_CONST": 2010,
-        "YEAR_EXPANDED": 2010
+        "YEAR_EXPANDED": 2010,
+        "description": "6075 NEW DESIGN RD, FREDERICK, MD 21701",
+        "marker-color": "fbb03b",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "IS 70 @ MD 355 (New Design Rd)"
       },
       "type": "Feature"
     },
@@ -4035,7 +4555,6 @@
       "id": 131,
       "properties": {
         "ADA_COMPLIANT": 2,
-        "ADDRESS": "28989 QUEEN ANNE HWY, WYE MILLS, MD 21679",
         "ADDRESS_SIGNED": 2,
         "BIKE_RACKS": 1,
         "BUS_SHELTER": 2,
@@ -4044,6 +4563,7 @@
         "EM_TRUCK_PARK": 2,
         "ENT_WIDTH": 23,
         "FENCED": 2,
+        "GLOBAL_SEGMENT_ID": 23394431,
         "LAST_UPDATE": "2015-07-15",
         "LIGHTS": 1,
         "LOCATION": "US 50 @ MD 404 (West Lot)",
@@ -4055,11 +4575,15 @@
         "PAY_PHONE": 2,
         "PNR_STATUS_ID": 1,
         "SIGNED": 2,
-        "SIGNED_NAME": "US 50 @ MD 404 (Lot B)",
         "TOTAL_ELEC_STA": 0,
         "VEIP_KIOSK": 2,
         "YEAR_CONST": 2011,
-        "YEAR_EXPANDED": 2011
+        "YEAR_EXPANDED": 2011,
+        "description": "28989 QUEEN ANNE HWY, WYE MILLS, MD 21679",
+        "marker-color": "fbb03b",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "US 50 @ MD 404 (Lot B)"
       },
       "type": "Feature"
     },
@@ -4074,7 +4598,6 @@
       "id": 132,
       "properties": {
         "ADA_COMPLIANT": 2,
-        "ADDRESS": "15800 GEORGIA AVE, ROCKVILLE, MD 20853",
         "ADDRESS_SIGNED": 2,
         "BIKE_RACKS": 1,
         "BUS_SHELTER": 1,
@@ -4083,6 +4606,7 @@
         "EM_TRUCK_PARK": 2,
         "ENT_WIDTH": 49,
         "FENCED": 2,
+        "GLOBAL_SEGMENT_ID": 52465874,
         "LAST_UPDATE": "2016-05-11",
         "LESSEE": "SHA",
         "LIGHTS": 1,
@@ -4095,11 +4619,15 @@
         "PAY_PHONE": 2,
         "PNR_STATUS_ID": 1,
         "SIGNED": 2,
-        "SIGNED_NAME": "MD 200 @ MD 97 (MDTA)",
         "TOTAL_ELEC_STA": 0,
         "VEIP_KIOSK": 2,
         "YEAR_CONST": 2012,
-        "YEAR_EXPANDED": 2012
+        "YEAR_EXPANDED": 2012,
+        "description": "15800 GEORGIA AVE, ROCKVILLE, MD 20853",
+        "marker-color": "fbb03b",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "MD 200 @ MD 97 (MDTA)"
       },
       "type": "Feature"
     },
@@ -4107,14 +4635,13 @@
       "geometry": {
         "coordinates": [
           -76.3213597850632,
-          38.976825720924325
+          38.97682572092434
         ],
         "type": "Point"
       },
       "id": 133,
       "properties": {
         "ADA_COMPLIANT": 1,
-        "ADDRESS": "111 THOMPSON CREEK RD, STEVENSVILLE, MD 21666",
         "ADDRESS_SIGNED": 2,
         "BIKE_RACKS": 1,
         "BUS_SHELTER": 1,
@@ -4124,6 +4651,7 @@
         "EM_TRUCK_PARK": 2,
         "ENT_WIDTH": 32,
         "FENCED": 2,
+        "GLOBAL_SEGMENT_ID": 23335331,
         "LAST_UPDATE": "2015-07-08",
         "LIGHTS": 1,
         "LOCATION": "US 50 @ MD 8 (Kent Island)",
@@ -4134,11 +4662,15 @@
         "OWNER": "SHA",
         "PAY_PHONE": 2,
         "SIGNED": 2,
-        "SIGNED_NAME": "US 50 @ MD 8 (Kent Island)",
         "TOTAL_ELEC_STA": 0,
         "VEIP_KIOSK": 2,
         "YEAR_CONST": 1995,
-        "YEAR_EXPANDED": 1995
+        "YEAR_EXPANDED": 1995,
+        "description": "111 THOMPSON CREEK RD, STEVENSVILLE, MD 21666",
+        "marker-color": "fbb03b",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "US 50 @ MD 8 (Kent Island)"
       },
       "type": "Feature"
     },
@@ -4146,14 +4678,13 @@
       "geometry": {
         "coordinates": [
           -75.92463268267619,
-          39.14068245289908
+          39.14068245289907
         ],
         "type": "Point"
       },
       "id": 134,
       "properties": {
         "ADA_COMPLIANT": 2,
-        "ADDRESS": "105 BARCLAY ROAD, BARCLAY, MD 21668",
         "ADDRESS_SIGNED": 2,
         "BIKE_RACKS": 2,
         "BUS_SHELTER": 2,
@@ -4162,6 +4693,7 @@
         "EM_TRUCK_PARK": 2,
         "ENT_WIDTH": 24,
         "FENCED": 2,
+        "GLOBAL_SEGMENT_ID": 64952463,
         "LAST_UPDATE": "2015-07-08",
         "LIGHTS": 1,
         "LOCATION": "US 301 @ MD 302",
@@ -4172,11 +4704,15 @@
         "OWNER": "SHA",
         "PAY_PHONE": 2,
         "SIGNED": 2,
-        "SIGNED_NAME": "US 301 @ MD 302",
         "TOTAL_ELEC_STA": 0,
         "VEIP_KIOSK": 2,
         "YEAR_CONST": 2005,
-        "YEAR_EXPANDED": 2005
+        "YEAR_EXPANDED": 2005,
+        "description": "105 BARCLAY ROAD, BARCLAY, MD 21668",
+        "marker-color": "fbb03b",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "US 301 @ MD 302"
       },
       "type": "Feature"
     },
@@ -4184,14 +4720,13 @@
       "geometry": {
         "coordinates": [
           -75.91902212896845,
-          39.172382304976594
+          39.1723823049766
         ],
         "type": "Point"
       },
       "id": 135,
       "properties": {
         "ADA_COMPLIANT": 2,
-        "ADDRESS": "2388 SUDLERSVILLE RD, SUDLERSVILLE, MD 21668",
         "ADDRESS_SIGNED": 2,
         "BIKE_RACKS": 2,
         "BUS_SHELTER": 2,
@@ -4200,6 +4735,7 @@
         "EM_TRUCK_PARK": 2,
         "ENT_WIDTH": 30,
         "FENCED": 2,
+        "GLOBAL_SEGMENT_ID": 23251448,
         "LAST_UPDATE": "2015-07-16",
         "LIGHTS": 1,
         "LOCATION": "US 301 @ MD 300",
@@ -4210,11 +4746,15 @@
         "OWNER": "SHA",
         "PAY_PHONE": 2,
         "SIGNED": 2,
-        "SIGNED_NAME": "US 301 @ MD 300",
         "TOTAL_ELEC_STA": 0,
         "VEIP_KIOSK": 2,
         "YEAR_CONST": 2006,
-        "YEAR_EXPANDED": 2006
+        "YEAR_EXPANDED": 2006,
+        "description": "2388 SUDLERSVILLE RD, SUDLERSVILLE, MD 21668",
+        "marker-color": "fbb03b",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "US 301 @ MD 300"
       },
       "type": "Feature"
     },
@@ -4222,18 +4762,22 @@
       "geometry": {
         "coordinates": [
           -76.73528007512263,
-          38.97662659135512
+          38.97662659135513
         ],
         "type": "Point"
       },
       "id": 136,
       "properties": {
         "ADDRESS_SIGNED": 2,
+        "GLOBAL_SEGMENT_ID": 31265784,
         "LOCATION": "Bowie Market Place Mall Park and Ride",
         "LOT_ID": 217,
         "MAINTAINED_BY_ID": 2,
         "OWNER": "OTHER",
-        "SIGNED_NAME": "Bowie Market Place Mall Park and Ride"
+        "marker-color": "3bb2d0",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "Bowie Market Place Mall Park and Ride"
       },
       "type": "Feature"
     },
@@ -4248,11 +4792,15 @@
       "id": 137,
       "properties": {
         "ADDRESS_SIGNED": 2,
+        "GLOBAL_SEGMENT_ID": 31164886,
         "LOCATION": "Bowie Park and Ride",
         "LOT_ID": 218,
         "MAINTAINED_BY_ID": 2,
         "OWNER": "OTHER",
-        "SIGNED_NAME": "Bowie Park and Ride"
+        "marker-color": "3bb2d0",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "Bowie Park and Ride"
       },
       "type": "Feature"
     },
@@ -4267,11 +4815,15 @@
       "id": 138,
       "properties": {
         "ADDRESS_SIGNED": 2,
+        "GLOBAL_SEGMENT_ID": 63411169,
         "LOCATION": "Capital Plaza Park and Ride",
         "LOT_ID": 220,
         "MAINTAINED_BY_ID": 2,
         "OWNER": "OTHER",
-        "SIGNED_NAME": "Capital Plaza Park and Ride"
+        "marker-color": "3bb2d0",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "Capital Plaza Park and Ride"
       },
       "type": "Feature"
     },
@@ -4286,11 +4838,15 @@
       "id": 139,
       "properties": {
         "ADDRESS_SIGNED": 2,
+        "GLOBAL_SEGMENT_ID": 30729671,
         "LOCATION": "Oxon Hill Park and Ride",
         "LOT_ID": 221,
         "MAINTAINED_BY_ID": 2,
         "OWNER": "OTHER",
-        "SIGNED_NAME": "Oxon Hill Park and Ride"
+        "marker-color": "3bb2d0",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "Oxon Hill Park and Ride"
       },
       "type": "Feature"
     },
@@ -4305,7 +4861,6 @@
       "id": 140,
       "properties": {
         "ADA_COMPLIANT": 1,
-        "ADDRESS": "15799 LIVINGSTON RD, ACCOKEEK, MD 20607",
         "ADDRESS_SIGNED": 2,
         "BIKE_RACKS": 1,
         "BUS_SHELTER": 1,
@@ -4315,6 +4870,7 @@
         "EM_TRUCK_PARK": 1,
         "ENT_WIDTH": 30,
         "FENCED": 2,
+        "GLOBAL_SEGMENT_ID": 63355044,
         "LAST_UPDATE": "2015-07-08",
         "LIGHTS": 2,
         "LOCATION": "MD 210 @ MD 373",
@@ -4325,11 +4881,15 @@
         "OWNER": "SHA",
         "PAY_PHONE": 2,
         "SIGNED": 2,
-        "SIGNED_NAME": "MD 210 @ MD 373",
         "TOTAL_ELEC_STA": 0,
         "VEIP_KIOSK": 2,
         "YEAR_CONST": 2003,
-        "YEAR_EXPANDED": 1984
+        "YEAR_EXPANDED": 1984,
+        "description": "15799 LIVINGSTON RD, ACCOKEEK, MD 20607",
+        "marker-color": "fbb03b",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "MD 210 @ MD 373"
       },
       "type": "Feature"
     },
@@ -4337,18 +4897,22 @@
       "geometry": {
         "coordinates": [
           -76.8832171335947,
-          38.769122761559224
+          38.76912276155924
         ],
         "type": "Point"
       },
       "id": 141,
       "properties": {
         "ADDRESS_SIGNED": 2,
+        "GLOBAL_SEGMENT_ID": 63321580,
         "LOCATION": "Clinton Park and Ride",
         "LOT_ID": 223,
         "MAINTAINED_BY_ID": 2,
         "OWNER": "OTHER",
-        "SIGNED_NAME": "Clinton Park and Ride"
+        "marker-color": "3bb2d0",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "Clinton Park and Ride"
       },
       "type": "Feature"
     },
@@ -4363,7 +4927,6 @@
       "id": 142,
       "properties": {
         "ADA_COMPLIANT": 2,
-        "ADDRESS": "23670 BUDDS CREEK RD, CLEMENTS, MD 20624",
         "ADDRESS_SIGNED": 2,
         "BIKE_RACKS": 2,
         "BUS_SHELTER": 2,
@@ -4372,6 +4935,7 @@
         "EM_TRUCK_PARK": 2,
         "ENT_WIDTH": 24,
         "FENCED": 2,
+        "GLOBAL_SEGMENT_ID": 57712414,
         "LAST_UPDATE": "2015-07-09",
         "LIGHTS": 1,
         "LOCATION": "MD 234 @ MD 242 (Clements)",
@@ -4382,11 +4946,15 @@
         "OWNER": "SHA",
         "PAY_PHONE": 2,
         "SIGNED": 2,
-        "SIGNED_NAME": "MD 234 @ MD 242 (Clements)",
         "TOTAL_ELEC_STA": 0,
         "VEIP_KIOSK": 2,
         "YEAR_CONST": 1983,
-        "YEAR_EXPANDED": 1983
+        "YEAR_EXPANDED": 1983,
+        "description": "23670 BUDDS CREEK RD, CLEMENTS, MD 20624",
+        "marker-color": "fbb03b",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "MD 234 @ MD 242 (Clements)"
       },
       "type": "Feature"
     },
@@ -4394,18 +4962,22 @@
       "geometry": {
         "coordinates": [
           -76.84301203686847,
-          39.07016285869861
+          39.070162858698616
         ],
         "type": "Point"
       },
       "id": 143,
       "properties": {
         "ADDRESS_SIGNED": 2,
+        "GLOBAL_SEGMENT_ID": 30567077,
         "LOCATION": "Montpelier Recreation Park Park and Ride",
         "LOT_ID": 225,
         "MAINTAINED_BY_ID": 2,
         "OWNER": "OTHER",
-        "SIGNED_NAME": "Montpelier Recreation Park Park and Ride"
+        "marker-color": "3bb2d0",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "Montpelier Recreation Park Park and Ride"
       },
       "type": "Feature"
     },
@@ -4413,19 +4985,23 @@
       "geometry": {
         "coordinates": [
           -76.74869615608974,
-          38.81202021554903
+          38.812020215549026
         ],
         "type": "Point"
       },
       "id": 144,
       "properties": {
         "ADDRESS_SIGNED": 2,
+        "GLOBAL_SEGMENT_ID": 30776625,
         "LAST_UPDATE": "2014-09-17",
         "LOCATION": "Equestrian Center Park and Ride",
         "LOT_ID": 227,
         "MAINTAINED_BY_ID": 2,
         "OWNER": "OTHER",
-        "SIGNED_NAME": "Equestrian Center Park and Ride"
+        "marker-color": "3bb2d0",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "Equestrian Center Park and Ride"
       },
       "type": "Feature"
     },
@@ -4433,18 +5009,22 @@
       "geometry": {
         "coordinates": [
           -76.88504952254554,
-          38.84780624420086
+          38.84780624420087
         ],
         "type": "Point"
       },
       "id": 145,
       "properties": {
         "ADDRESS_SIGNED": 2,
+        "GLOBAL_SEGMENT_ID": 62048278,
         "LOCATION": "Penn Mar Shopping Center Park and Ride",
         "LOT_ID": 228,
         "MAINTAINED_BY_ID": 2,
         "OWNER": "OTHER",
-        "SIGNED_NAME": "Penn Mar Shopping Center Park and Ride"
+        "marker-color": "3bb2d0",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "Penn Mar Shopping Center Park and Ride"
       },
       "type": "Feature"
     },
@@ -4452,18 +5032,22 @@
       "geometry": {
         "coordinates": [
           -76.8467906361479,
-          39.07781054309811
+          39.07781054309812
         ],
         "type": "Point"
       },
       "id": 146,
       "properties": {
         "ADDRESS_SIGNED": 2,
+        "GLOBAL_SEGMENT_ID": 29285847,
         "LOCATION": "South Laurel Park and Ride",
         "LOT_ID": 229,
         "MAINTAINED_BY_ID": 2,
         "OWNER": "OTHER",
-        "SIGNED_NAME": "South Laurel Park and Ride"
+        "marker-color": "3bb2d0",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "South Laurel Park and Ride"
       },
       "type": "Feature"
     },
@@ -4471,18 +5055,22 @@
       "geometry": {
         "coordinates": [
           -77.00140756323158,
-          38.8184279571384
+          38.818427957138404
         ],
         "type": "Point"
       },
       "id": 147,
       "properties": {
         "ADDRESS_SIGNED": 2,
+        "GLOBAL_SEGMENT_ID": 29100032,
         "LOCATION": "Eastover Park and Ride",
         "LOT_ID": 230,
         "MAINTAINED_BY_ID": 2,
         "OWNER": "OTHER",
-        "SIGNED_NAME": "Eastover Park and Ride"
+        "marker-color": "3bb2d0",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "Eastover Park and Ride"
       },
       "type": "Feature"
     },
@@ -4497,11 +5085,15 @@
       "id": 148,
       "properties": {
         "ADDRESS_SIGNED": 2,
+        "GLOBAL_SEGMENT_ID": 57674839,
         "LOCATION": "Tulagi Place Park and Ride",
         "LOT_ID": 231,
         "MAINTAINED_BY_ID": 2,
         "OWNER": "OTHER",
-        "SIGNED_NAME": "Tulagi Place Park and Ride"
+        "marker-color": "3bb2d0",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "Tulagi Place Park and Ride"
       },
       "type": "Feature"
     },
@@ -4509,18 +5101,22 @@
       "geometry": {
         "coordinates": [
           -76.99477995235615,
-          38.72437335532532
+          38.72437335532533
         ],
         "type": "Point"
       },
       "id": 149,
       "properties": {
         "ADDRESS_SIGNED": 2,
+        "GLOBAL_SEGMENT_ID": 29081222,
         "LOCATION": "Fort Washington Park and Ride",
         "LOT_ID": 232,
         "MAINTAINED_BY_ID": 2,
         "OWNER": "OTHER",
-        "SIGNED_NAME": "Fort Washington Park and Ride"
+        "marker-color": "3bb2d0",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "Fort Washington Park and Ride"
       },
       "type": "Feature"
     },
@@ -4535,11 +5131,15 @@
       "id": 150,
       "properties": {
         "ADDRESS_SIGNED": 2,
+        "GLOBAL_SEGMENT_ID": 28199648,
         "LOCATION": "Burtonsville Park and Ride",
         "LOT_ID": 233,
         "MAINTAINED_BY_ID": 2,
         "OWNER": "OTHER",
-        "SIGNED_NAME": "Burtonsville Park and Ride"
+        "marker-color": "3bb2d0",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "Burtonsville Park and Ride"
       },
       "type": "Feature"
     },
@@ -4554,11 +5154,15 @@
       "id": 151,
       "properties": {
         "ADDRESS_SIGNED": 2,
+        "GLOBAL_SEGMENT_ID": 52704890,
         "LOCATION": "Colesville Commuter Lot Park and Ride",
         "LOT_ID": 235,
         "MAINTAINED_BY_ID": 2,
         "OWNER": "OTHER",
-        "SIGNED_NAME": "Colesville Commuter Lot Park and Ride"
+        "marker-color": "3bb2d0",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "Colesville Commuter Lot Park and Ride"
       },
       "type": "Feature"
     },
@@ -4566,18 +5170,22 @@
       "geometry": {
         "coordinates": [
           -77.2452962125493,
-          39.19993144414304
+          39.199931444143054
         ],
         "type": "Point"
       },
       "id": 152,
       "properties": {
         "ADDRESS_SIGNED": 2,
+        "GLOBAL_SEGMENT_ID": 52659699,
         "LOCATION": "Milestone Shopping Center Park and Ride",
         "LOT_ID": 236,
         "MAINTAINED_BY_ID": 2,
         "OWNER": "OTHER",
-        "SIGNED_NAME": "Milestone Shopping Center Park and Ride"
+        "marker-color": "3bb2d0",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "Milestone Shopping Center Park and Ride"
       },
       "type": "Feature"
     },
@@ -4592,11 +5200,15 @@
       "id": 153,
       "properties": {
         "ADDRESS_SIGNED": 2,
+        "GLOBAL_SEGMENT_ID": 27918741,
         "LOCATION": "Damascus Park and Ride",
         "LOT_ID": 237,
         "MAINTAINED_BY_ID": 2,
         "OWNER": "OTHER",
-        "SIGNED_NAME": "Damascus Park and Ride"
+        "marker-color": "3bb2d0",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "Damascus Park and Ride"
       },
       "type": "Feature"
     },
@@ -4604,14 +5216,13 @@
       "geometry": {
         "coordinates": [
           -77.21804592272575,
-          39.147899533261025
+          39.14789953326104
         ],
         "type": "Point"
       },
       "id": 154,
       "properties": {
         "ADA_COMPLIANT": 2,
-        "ADDRESS": "401 QUINCE ORCHARD RD, GAITHERSBURG, MD 20878",
         "ADDRESS_SIGNED": 2,
         "BIKE_RACKS": 1,
         "BUS_SHELTER": 1,
@@ -4621,6 +5232,7 @@
         "ENT_WIDTH": 58,
         "EXIT_NUMBER": "11",
         "FENCED": 1,
+        "GLOBAL_SEGMENT_ID": 27904930,
         "LAST_UPDATE": "2015-07-13",
         "LIGHTS": 1,
         "LOCATION": "IS 270 @ MD 124",
@@ -4631,11 +5243,15 @@
         "OWNER": "SHA",
         "PAY_PHONE": 2,
         "SIGNED": 1,
-        "SIGNED_NAME": "IS 270 @ MD 124",
         "TOTAL_ELEC_STA": 0,
         "VEIP_KIOSK": 2,
         "YEAR_CONST": 2001,
-        "YEAR_EXPANDED": 2001
+        "YEAR_EXPANDED": 2001,
+        "description": "401 QUINCE ORCHARD RD, GAITHERSBURG, MD 20878",
+        "marker-color": "fbb03b",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "IS 270 @ MD 124"
       },
       "type": "Feature"
     },
@@ -4650,7 +5266,6 @@
       "id": 155,
       "properties": {
         "ADA_COMPLIANT": 2,
-        "ADDRESS": "Needs Address Assigned, GWYNN OAK, MD 21207",
         "ADDRESS_SIGNED": 2,
         "BIKE_RACKS": 1,
         "BUS_SHELTER": 2,
@@ -4661,6 +5276,7 @@
         "ENT_WIDTH": 26,
         "EXIT_NUMBER": "94",
         "FENCED": 2,
+        "GLOBAL_SEGMENT_ID": 39905891,
         "LAST_UPDATE": "2015-07-08",
         "LIGHTS": 2,
         "LOCATION": "IS 70 @ Security Blvd.",
@@ -4671,11 +5287,15 @@
         "OWNER": "SHA",
         "PAY_PHONE": 2,
         "SIGNED": 2,
-        "SIGNED_NAME": "IS 70 @ Security Blvd.",
         "TOTAL_ELEC_STA": 0,
         "VEIP_KIOSK": 2,
         "YEAR_CONST": 1985,
-        "YEAR_EXPANDED": 1985
+        "YEAR_EXPANDED": 1985,
+        "description": "Needs Address Assigned, GWYNN OAK, MD 21207",
+        "marker-color": "fbb03b",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "IS 70 @ Security Blvd."
       },
       "type": "Feature"
     },
@@ -4690,11 +5310,15 @@
       "id": 156,
       "properties": {
         "ADDRESS_SIGNED": 2,
+        "GLOBAL_SEGMENT_ID": 10687656,
         "LOCATION": "Park and Ride",
         "LOT_ID": 240,
         "MAINTAINED_BY_ID": 2,
         "OWNER": "OTHER",
-        "SIGNED_NAME": "Park and Ride"
+        "marker-color": "3bb2d0",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "Park and Ride"
       },
       "type": "Feature"
     },
@@ -4702,14 +5326,13 @@
       "geometry": {
         "coordinates": [
           -77.67857742461626,
-          39.59762942271753
+          39.59762942271754
         ],
         "type": "Point"
       },
       "id": 157,
       "properties": {
         "ADA_COMPLIANT": 2,
-        "ADDRESS": "10304 AUTO PLACE, HAGERSTOWN, MD 21740",
         "ADDRESS_SIGNED": 2,
         "BIKE_RACKS": 2,
         "BUS_SHELTER": 2,
@@ -4719,6 +5342,7 @@
         "ENT_WIDTH": 50,
         "EXIT_NUMBER": "32",
         "FENCED": 1,
+        "GLOBAL_SEGMENT_ID": 24537159,
         "LAST_UPDATE": "2015-07-09",
         "LIGHTS": 1,
         "LOCATION": "IS 70 @ US 40 (East Hagerstown)",
@@ -4729,11 +5353,15 @@
         "OWNER": "SHA",
         "PAY_PHONE": 2,
         "SIGNED": 2,
-        "SIGNED_NAME": "IS 70 @ US 40 (East Hagerstown)",
         "TOTAL_ELEC_STA": 0,
         "VEIP_KIOSK": 2,
         "YEAR_CONST": 1982,
-        "YEAR_EXPANDED": 1982
+        "YEAR_EXPANDED": 1982,
+        "description": "10304 AUTO PLACE, HAGERSTOWN, MD 21740",
+        "marker-color": "fbb03b",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "IS 70 @ US 40 (East Hagerstown)"
       },
       "type": "Feature"
     },
@@ -4748,13 +5376,13 @@
       "id": 158,
       "properties": {
         "ADA_COMPLIANT": 2,
-        "ADDRESS": "10644 DOWNSVILLE PIKE, HAGERSTOWN, MD 21740",
         "ADDRESS_SIGNED": 2,
         "BIKE_RACKS": 2,
         "BUS_SHELTER": 2,
         "CREATION_DATE": "2015-07-09",
         "EM_TRUCK_PARK": 2,
         "EXIT_NUMBER": "28",
+        "GLOBAL_SEGMENT_ID": 55791643,
         "LAST_UPDATE": "2015-07-09",
         "LESSEE": "County",
         "LOCATION": "IS 70 @ MD 632 (Hagerstown)",
@@ -4762,10 +5390,14 @@
         "LOT_STATUS_ID": 1,
         "MAINTAINED_BY_ID": 2,
         "OWNER": "SHA",
-        "SIGNED_NAME": "IS 70 @ MD 632 (Hagerstown)",
         "TOTAL_ELEC_STA": 0,
         "YEAR_CONST": 1999,
-        "YEAR_EXPANDED": 1999
+        "YEAR_EXPANDED": 1999,
+        "description": "10644 DOWNSVILLE PIKE, HAGERSTOWN, MD 21740",
+        "marker-color": "fbb03b",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "IS 70 @ MD 632 (Hagerstown)"
       },
       "type": "Feature"
     },
@@ -4773,14 +5405,13 @@
       "geometry": {
         "coordinates": [
           -78.1627507870885,
-          39.69640934350136
+          39.69640934350135
         ],
         "type": "Point"
       },
       "id": 159,
       "properties": {
         "ADA_COMPLIANT": 1,
-        "ADDRESS": "237 E MAIN STREET, HANCOCK, MD 21750",
         "ADDRESS_SIGNED": 2,
         "BIKE_RACKS": 1,
         "BUS_SHELTER": 2,
@@ -4790,6 +5421,7 @@
         "ENT_WIDTH": 55,
         "EXIT_NUMBER": "3",
         "FENCED": 2,
+        "GLOBAL_SEGMENT_ID": 24985233,
         "LAST_UPDATE": "2015-07-09",
         "LESSEE": "DNR",
         "LIGHTS": 1,
@@ -4801,11 +5433,15 @@
         "OWNER": "SHA",
         "PAY_PHONE": 2,
         "SIGNED": 2,
-        "SIGNED_NAME": "MD 144 @ Center St (Hancock)",
         "TOTAL_ELEC_STA": 0,
         "VEIP_KIOSK": 2,
         "YEAR_CONST": 2006,
-        "YEAR_EXPANDED": 1998
+        "YEAR_EXPANDED": 1998,
+        "description": "237 E MAIN STREET, HANCOCK, MD 21750",
+        "marker-color": "fbb03b",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "MD 144 @ Center St (Hancock)"
       },
       "type": "Feature"
     },
@@ -4820,7 +5456,6 @@
       "id": 160,
       "properties": {
         "ADA_COMPLIANT": 1,
-        "ADDRESS": "6686 ROHRERSVILLE ROAD, BOONSBORO, MD 21713",
         "ADDRESS_SIGNED": 2,
         "BIKE_RACKS": 2,
         "BUS_SHELTER": 2,
@@ -4829,6 +5464,7 @@
         "EM_TRUCK_PARK": 2,
         "ENT_WIDTH": 30,
         "FENCED": 2,
+        "GLOBAL_SEGMENT_ID": 24956593,
         "LAST_UPDATE": "2015-07-09",
         "LIGHTS": 1,
         "LOCATION": "US 40 Alt @ MD 67",
@@ -4839,11 +5475,15 @@
         "OWNER": "SHA",
         "PAY_PHONE": 2,
         "SIGNED": 2,
-        "SIGNED_NAME": "US 40 Alt @ MD 67",
         "TOTAL_ELEC_STA": 0,
         "VEIP_KIOSK": 2,
         "YEAR_CONST": 1990,
-        "YEAR_EXPANDED": 1990
+        "YEAR_EXPANDED": 1990,
+        "description": "6686 ROHRERSVILLE ROAD, BOONSBORO, MD 21713",
+        "marker-color": "fbb03b",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "US 40 Alt @ MD 67"
       },
       "type": "Feature"
     },
@@ -4851,14 +5491,13 @@
       "geometry": {
         "coordinates": [
           -77.63706653475757,
-          39.58835078514537
+          39.588350785145366
         ],
         "type": "Point"
       },
       "id": 161,
       "properties": {
         "ADA_COMPLIANT": 1,
-        "ADDRESS": "10037 MAPLEVILLE ROAD, HAGERSTOWN, MD 21740",
         "ADDRESS_SIGNED": 2,
         "BIKE_RACKS": 2,
         "BUS_SHELTER": 2,
@@ -4868,6 +5507,7 @@
         "ENT_WIDTH": 19,
         "EXIT_NUMBER": "35",
         "FENCED": 1,
+        "GLOBAL_SEGMENT_ID": 24937142,
         "LAST_UPDATE": "2015-07-09",
         "LIGHTS": 2,
         "LOCATION": "IS 70 @ MD 66 (Hagerstown)",
@@ -4878,11 +5518,15 @@
         "OWNER": "SHA",
         "PAY_PHONE": 2,
         "SIGNED": 2,
-        "SIGNED_NAME": "IS 70 @ MD 66 (Hagerstown)",
         "TOTAL_ELEC_STA": 0,
         "VEIP_KIOSK": 2,
         "YEAR_CONST": 1988,
-        "YEAR_EXPANDED": 1980
+        "YEAR_EXPANDED": 1980,
+        "description": "10037 MAPLEVILLE ROAD, HAGERSTOWN, MD 21740",
+        "marker-color": "fbb03b",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "IS 70 @ MD 66 (Hagerstown)"
       },
       "type": "Feature"
     },
@@ -4890,14 +5534,13 @@
       "geometry": {
         "coordinates": [
           -77.72910246515694,
-          39.603271451927796
+          39.6032714519278
         ],
         "type": "Point"
       },
       "id": 162,
       "properties": {
         "ADA_COMPLIANT": 2,
-        "ADDRESS": "10541 SHARPSBURG PIKE, HAGERSTOWN, MD 21740",
         "ADDRESS_SIGNED": 2,
         "BIKE_RACKS": 2,
         "BUS_SHELTER": 2,
@@ -4907,6 +5550,7 @@
         "ENT_WIDTH": 24,
         "EXIT_NUMBER": "29",
         "FENCED": 1,
+        "GLOBAL_SEGMENT_ID": 24929897,
         "LAST_UPDATE": "2015-07-09",
         "LIGHTS": 1,
         "LOCATION": "IS 70 @ MD 65 (SHA lot) Hagerstown",
@@ -4917,11 +5561,15 @@
         "OWNER": "SHA",
         "PAY_PHONE": 2,
         "SIGNED": 2,
-        "SIGNED_NAME": "IS 70 @ MD 65 (SHA lot) Hagerstown",
         "TOTAL_ELEC_STA": 0,
         "VEIP_KIOSK": 2,
         "YEAR_CONST": 1984,
-        "YEAR_EXPANDED": 1980
+        "YEAR_EXPANDED": 1980,
+        "description": "10541 SHARPSBURG PIKE, HAGERSTOWN, MD 21740",
+        "marker-color": "fbb03b",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "IS 70 @ MD 65 (SHA lot) Hagerstown"
       },
       "type": "Feature"
     },
@@ -4929,14 +5577,13 @@
       "geometry": {
         "coordinates": [
           -77.73891391862901,
-          39.66133271284923
+          39.66133271284924
         ],
         "type": "Point"
       },
       "id": 163,
       "properties": {
         "ADA_COMPLIANT": 2,
-        "ADDRESS": "1500 BROADFORDING ROAD, HAGERSTOWN, MD 21740",
         "ADDRESS_SIGNED": 2,
         "BIKE_RACKS": 1,
         "BUS_SHELTER": 2,
@@ -4946,6 +5593,7 @@
         "ENT_WIDTH": 16,
         "EXIT_NUMBER": "7A",
         "FENCED": 1,
+        "GLOBAL_SEGMENT_ID": 25020538,
         "LAST_UPDATE": "2015-07-09",
         "LIGHTS": 2,
         "LOCATION": "IS 81 @ MD 58 (Hagerstown)",
@@ -4956,11 +5604,15 @@
         "OWNER": "SHA",
         "PAY_PHONE": 2,
         "SIGNED": 2,
-        "SIGNED_NAME": "IS 81 @ MD 58 (Hagerstown)",
         "TOTAL_ELEC_STA": 0,
         "VEIP_KIOSK": 2,
         "YEAR_CONST": 1985,
-        "YEAR_EXPANDED": 1985
+        "YEAR_EXPANDED": 1985,
+        "description": "1500 BROADFORDING ROAD, HAGERSTOWN, MD 21740",
+        "marker-color": "fbb03b",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "IS 81 @ MD 58 (Hagerstown)"
       },
       "type": "Feature"
     },
@@ -4968,14 +5620,13 @@
       "geometry": {
         "coordinates": [
           -76.1169611245615,
-          38.783780819894396
+          38.78378081989441
         ],
         "type": "Point"
       },
       "id": 164,
       "properties": {
         "ADA_COMPLIANT": 2,
-        "ADDRESS": "8520 UNIONVILLE RD, EASTON, MD 21601",
         "ADDRESS_SIGNED": 2,
         "BIKE_RACKS": 2,
         "BUS_SHELTER": 2,
@@ -4984,6 +5635,7 @@
         "EM_TRUCK_PARK": 2,
         "ENT_WIDTH": 40,
         "FENCED": 2,
+        "GLOBAL_SEGMENT_ID": 66081846,
         "LAST_UPDATE": "2015-07-08",
         "LIGHTS": 2,
         "LOCATION": "MD 33 @ MD 370 (Easton)",
@@ -4994,11 +5646,15 @@
         "OWNER": "SHA",
         "PAY_PHONE": 2,
         "SIGNED": 2,
-        "SIGNED_NAME": "MD 33 @ MD 370 (Easton)",
         "TOTAL_ELEC_STA": 0,
         "VEIP_KIOSK": 2,
         "YEAR_CONST": 1998,
-        "YEAR_EXPANDED": 1998
+        "YEAR_EXPANDED": 1998,
+        "description": "8520 UNIONVILLE RD, EASTON, MD 21601",
+        "marker-color": "fbb03b",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "MD 33 @ MD 370 (Easton)"
       },
       "type": "Feature"
     },
@@ -5006,14 +5662,13 @@
       "geometry": {
         "coordinates": [
           -76.56971932870525,
-          39.40177986846306
+          39.40177986846305
         ],
         "type": "Point"
       },
       "id": 165,
       "properties": {
         "ADA_COMPLIANT": 1,
-        "ADDRESS": "1202 CROMWELL BRIDGE ROAD, TOWSON, MD 21286",
         "ADDRESS_SIGNED": 2,
         "BIKE_RACKS": 2,
         "BUS_SHELTER": 1,
@@ -5023,6 +5678,7 @@
         "ENT_WIDTH": 34,
         "EXIT_NUMBER": "29",
         "FENCED": 1,
+        "GLOBAL_SEGMENT_ID": 38603823,
         "LAST_UPDATE": "2015-07-08",
         "LIGHTS": 1,
         "LOCATION": "IS 695 @ Cromwell Bridge Rd",
@@ -5034,11 +5690,15 @@
         "OWNER": "SHA",
         "PAY_PHONE": 2,
         "SIGNED": 1,
-        "SIGNED_NAME": "IS 695 @ Cromwell Bridge Rd",
         "TOTAL_ELEC_STA": 0,
         "VEIP_KIOSK": 2,
         "YEAR_CONST": 1986,
-        "YEAR_EXPANDED": 1986
+        "YEAR_EXPANDED": 1986,
+        "description": "1202 CROMWELL BRIDGE ROAD, TOWSON, MD 21286",
+        "marker-color": "fbb03b",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "IS 695 @ Cromwell Bridge Rd"
       },
       "type": "Feature"
     },
@@ -5046,14 +5706,13 @@
       "geometry": {
         "coordinates": [
           -77.00832389756943,
-          39.42958269634126
+          39.429582696341264
         ],
         "type": "Point"
       },
       "id": 166,
       "properties": {
         "ADA_COMPLIANT": 1,
-        "ADDRESS": "400 W OLD LIBERTY RD, SYKESVILLE, MD 21784",
         "ADDRESS_SIGNED": 2,
         "BIKE_RACKS": 1,
         "BUS_SHELTER": 2,
@@ -5062,6 +5721,7 @@
         "EM_TRUCK_PARK": 2,
         "ENT_WIDTH": 33,
         "FENCED": 2,
+        "GLOBAL_SEGMENT_ID": 41757799,
         "LAST_UPDATE": "2015-07-09",
         "LIGHTS": 1,
         "LOCATION": "MD 97 @ MD 26",
@@ -5072,11 +5732,15 @@
         "OWNER": "SHA",
         "PAY_PHONE": 2,
         "SIGNED": 2,
-        "SIGNED_NAME": "MD 97 @ MD 26",
         "TOTAL_ELEC_STA": 0,
         "VEIP_KIOSK": 2,
         "YEAR_CONST": 1983,
-        "YEAR_EXPANDED": 1978
+        "YEAR_EXPANDED": 1978,
+        "description": "400 W OLD LIBERTY RD, SYKESVILLE, MD 21784",
+        "marker-color": "fbb03b",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "MD 97 @ MD 26"
       },
       "type": "Feature"
     },
@@ -5084,14 +5748,13 @@
       "geometry": {
         "coordinates": [
           -77.81685763548731,
-          39.58821278660734
+          39.588212786607336
         ],
         "type": "Point"
       },
       "id": 167,
       "properties": {
         "ADA_COMPLIANT": 2,
-        "ADDRESS": "Lappans Rd, WILLIAMSPORT, MD 21795",
         "ADDRESS_SIGNED": 2,
         "BIKE_RACKS": 1,
         "BUS_SHELTER": 2,
@@ -5101,6 +5764,7 @@
         "ENT_WIDTH": 40,
         "EXIT_NUMBER": "1",
         "FENCED": 2,
+        "GLOBAL_SEGMENT_ID": 24965500,
         "LAST_UPDATE": "2015-07-13",
         "LIGHTS": 1,
         "LOCATION": "IS 81 @ MD 68 (Williamsport)",
@@ -5112,10 +5776,14 @@
         "PAY_PHONE": 2,
         "PNR_STATUS_ID": 1,
         "SIGNED": 2,
-        "SIGNED_NAME": "IS 81 @ MD 68 (Williamsport)",
         "TOTAL_ELEC_STA": 0,
         "VEIP_KIOSK": 2,
-        "YEAR_EXPANDED": 2014
+        "YEAR_EXPANDED": 2014,
+        "description": "Lappans Rd, WILLIAMSPORT, MD 21795",
+        "marker-color": "fbb03b",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "IS 81 @ MD 68 (Williamsport)"
       },
       "type": "Feature"
     },
@@ -5123,14 +5791,13 @@
       "geometry": {
         "coordinates": [
           -77.73154188323556,
-          39.601590167119014
+          39.60159016711902
         ],
         "type": "Point"
       },
       "id": 168,
       "properties": {
         "ADA_COMPLIANT": 2,
-        "ADDRESS": "18306 COL HENRY K DOUGLAS DR, HAGERSTOWN, MD 21740",
         "ADDRESS_SIGNED": 2,
         "BIKE_RACKS": 2,
         "BUS_SHELTER": 1,
@@ -5140,6 +5807,7 @@
         "ENT_WIDTH": 24,
         "EXIT_NUMBER": "29",
         "FENCED": 2,
+        "GLOBAL_SEGMENT_ID": 24931348,
         "LAST_UPDATE": "2015-07-13",
         "LESSEE": "MVA",
         "LIGHTS": 1,
@@ -5152,11 +5820,15 @@
         "PAY_PHONE": 2,
         "PNR_STATUS_ID": 1,
         "SIGNED": 2,
-        "SIGNED_NAME": "IS 70 @ MD 65 (MVA Upper Lot)",
         "TOTAL_ELEC_STA": 0,
         "VEIP_KIOSK": 2,
         "YEAR_CONST": 2008,
-        "YEAR_EXPANDED": 2008
+        "YEAR_EXPANDED": 2008,
+        "description": "18306 COL HENRY K DOUGLAS DR, HAGERSTOWN, MD 21740",
+        "marker-color": "fbb03b",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "IS 70 @ MD 65 (MVA Upper Lot)"
       },
       "type": "Feature"
     },
@@ -5164,20 +5836,24 @@
       "geometry": {
         "coordinates": [
           -76.69700617206499,
-          39.00517064713734
+          39.005170647137355
         ],
         "type": "Point"
       },
       "id": 169,
       "properties": {
-        "ADDRESS": "1691 CROFTON PKWY, CROFTON, MD 21114",
         "ADDRESS_SIGNED": 2,
+        "GLOBAL_SEGMENT_ID": 35491974,
         "LAST_UPDATE": "2016-03-07",
         "LOCATION": "Crofton Park and Ride",
         "LOT_ID": 165,
         "MAINTAINED_BY_ID": 2,
         "OWNER": "OTHER",
-        "SIGNED_NAME": "Crofton Park and Ride"
+        "description": "1691 CROFTON PKWY, CROFTON, MD 21114",
+        "marker-color": "3bb2d0",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "Crofton Park and Ride"
       },
       "type": "Feature"
     },
@@ -5185,14 +5861,13 @@
       "geometry": {
         "coordinates": [
           -76.6255990861837,
-          39.09755261684104
+          39.097552616841035
         ],
         "type": "Point"
       },
       "id": 170,
       "properties": {
         "ADA_COMPLIANT": 2,
-        "ADDRESS": "8516 VETERANS HWY, MILLERSVILLE, MD 21108",
         "ADDRESS_SIGNED": 2,
         "BIKE_RACKS": 2,
         "BUS_SHELTER": 2,
@@ -5202,6 +5877,7 @@
         "ENT_WIDTH": 28,
         "EXIT_NUMBER": "10",
         "FENCED": 1,
+        "GLOBAL_SEGMENT_ID": 36200217,
         "LAST_UPDATE": "2015-07-09",
         "LIGHTS": 1,
         "LOCATION": "IS 97 @ Benfield Boulevard",
@@ -5212,11 +5888,15 @@
         "OWNER": "SHA",
         "PAY_PHONE": 2,
         "SIGNED": 2,
-        "SIGNED_NAME": "IS 97 @ Benfield Boulevard",
         "TOTAL_ELEC_STA": 0,
         "VEIP_KIOSK": 2,
         "YEAR_CONST": 1991,
-        "YEAR_EXPANDED": 1991
+        "YEAR_EXPANDED": 1991,
+        "description": "8516 VETERANS HWY, MILLERSVILLE, MD 21108",
+        "marker-color": "fbb03b",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "IS 97 @ Benfield Boulevard"
       },
       "type": "Feature"
     },
@@ -5224,19 +5904,23 @@
       "geometry": {
         "coordinates": [
           -76.44345581854714,
-          39.427918501290165
+          39.42791850129016
         ],
         "type": "Point"
       },
       "id": 171,
       "properties": {
         "ADDRESS_SIGNED": 2,
+        "GLOBAL_SEGMENT_ID": 8221050,
         "LAST_UPDATE": "2015-07-07",
         "LOCATION": "Gunpowder Falls Park and Ride",
         "LOT_ID": 199,
         "MAINTAINED_BY_ID": 2,
         "OWNER": "OTHER",
-        "SIGNED_NAME": "Gunpowder Falls Park and Ride"
+        "marker-color": "3bb2d0",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "Gunpowder Falls Park and Ride"
       },
       "type": "Feature"
     },
@@ -5244,14 +5928,13 @@
       "geometry": {
         "coordinates": [
           -77.47434718542416,
-          39.37691664693627
+          39.37691664693628
         ],
         "type": "Point"
       },
       "id": 172,
       "properties": {
         "ADA_COMPLIANT": 1,
-        "ADDRESS": "5500 ELMER DERR RD, FREDERICK, MD 21703",
         "ADDRESS_SIGNED": 2,
         "BIKE_RACKS": 2,
         "BUS_SHELTER": 2,
@@ -5260,6 +5943,7 @@
         "EM_TRUCK_PARK": 2,
         "ENT_WIDTH": 28,
         "FENCED": 2,
+        "GLOBAL_SEGMENT_ID": 14549131,
         "LAST_UPDATE": "2015-07-13",
         "LIGHTS": 1,
         "LOCATION": "US 340 @ Mt. Zion Road (East Lot)",
@@ -5271,11 +5955,15 @@
         "PAY_PHONE": 2,
         "PNR_STATUS_ID": 1,
         "SIGNED": 2,
-        "SIGNED_NAME": "US 340 @ Mt. Zion Road (East Lot)",
         "TOTAL_ELEC_STA": 0,
         "VEIP_KIOSK": 2,
         "YEAR_CONST": 2008,
-        "YEAR_EXPANDED": 2008
+        "YEAR_EXPANDED": 2008,
+        "description": "5500 ELMER DERR RD, FREDERICK, MD 21703",
+        "marker-color": "fbb03b",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "US 340 @ Mt. Zion Road (East Lot)"
       },
       "type": "Feature"
     },
@@ -5283,14 +5971,13 @@
       "geometry": {
         "coordinates": [
           -76.13522849748445,
-          39.57025674347768
+          39.57025674347767
         ],
         "type": "Point"
       },
       "id": 173,
       "properties": {
         "ADA_COMPLIANT": 2,
-        "ADDRESS": "2300 LEVEL RD, HAVRE DE GRACE, MD 21078",
         "ADDRESS_SIGNED": 2,
         "BIKE_RACKS": 2,
         "BUS_SHELTER": 2,
@@ -5301,6 +5988,7 @@
         "ENT_WIDTH": 22,
         "EXIT_NUMBER": "89",
         "FENCED": 2,
+        "GLOBAL_SEGMENT_ID": 43240513,
         "LAST_UPDATE": "2015-07-08",
         "LESSEE": "SHA",
         "LIGHTS": 1,
@@ -5312,11 +6000,15 @@
         "OWNER": "SHA",
         "PAY_PHONE": 2,
         "SIGNED": 2,
-        "SIGNED_NAME": "IS 95 @ MD 155 (Havre De Grace)",
         "TOTAL_ELEC_STA": 0,
         "VEIP_KIOSK": 2,
         "YEAR_CONST": 1992,
-        "YEAR_EXPANDED": 1992
+        "YEAR_EXPANDED": 1992,
+        "description": "2300 LEVEL RD, HAVRE DE GRACE, MD 21078",
+        "marker-color": "fbb03b",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "IS 95 @ MD 155 (Havre De Grace)"
       },
       "type": "Feature"
     },
@@ -5324,14 +6016,13 @@
       "geometry": {
         "coordinates": [
           -76.51216987752912,
-          38.46895286997419
+          38.46895286997418
         ],
         "type": "Point"
       },
       "id": 174,
       "properties": {
         "ADA_COMPLIANT": 2,
-        "ADDRESS": "150 BALL ROAD, ST LEONARD, MD 20685",
         "ADDRESS_SIGNED": 2,
         "BIKE_RACKS": 1,
         "BUS_SHELTER": 1,
@@ -5341,6 +6032,7 @@
         "EM_TRUCK_PARK": 2,
         "ENT_WIDTH": 26,
         "FENCED": 2,
+        "GLOBAL_SEGMENT_ID": 11413801,
         "LAST_UPDATE": "2016-05-11",
         "LESSEE": "Church",
         "LIGHTS": 1,
@@ -5352,11 +6044,15 @@
         "OWNER": "SHA",
         "PAY_PHONE": 2,
         "SIGNED": 2,
-        "SIGNED_NAME": "MD 2/4 @ Ball Road (Crossroad Church)",
         "TOTAL_ELEC_STA": 0,
         "VEIP_KIOSK": 2,
         "YEAR_CONST": 2003,
-        "YEAR_EXPANDED": 2000
+        "YEAR_EXPANDED": 2000,
+        "description": "150 BALL ROAD, ST LEONARD, MD 20685",
+        "marker-color": "fbb03b",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "MD 2/4 @ Ball Road (Crossroad Church)"
       },
       "type": "Feature"
     },
@@ -5364,18 +6060,22 @@
       "geometry": {
         "coordinates": [
           -76.52277052500207,
-          39.397701790656846
+          39.39770179065686
         ],
         "type": "Point"
       },
       "id": 175,
       "properties": {
         "ADDRESS_SIGNED": 2,
+        "GLOBAL_SEGMENT_ID": 6335640,
         "LOCATION": "Carney Park and Ride",
         "LOT_ID": 82,
         "MAINTAINED_BY_ID": 2,
         "OWNER": "OTHER",
-        "SIGNED_NAME": "Carney Park and Ride"
+        "marker-color": "3bb2d0",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "Carney Park and Ride"
       },
       "type": "Feature"
     },
@@ -5390,7 +6090,6 @@
       "id": 176,
       "properties": {
         "ADA_COMPLIANT": 2,
-        "ADDRESS": "1598 OLD MOUNTAIN RD S, JOPPA, MD 21085",
         "ADDRESS_SIGNED": 2,
         "BIKE_RACKS": 2,
         "BUS_SHELTER": 2,
@@ -5400,6 +6099,7 @@
         "ENT_WIDTH": 40,
         "EXIT_NUMBER": "74",
         "FENCED": 2,
+        "GLOBAL_SEGMENT_ID": 20555886,
         "LAST_UPDATE": "2016-03-08",
         "LESSEE": "SHA",
         "LIGHTS": 1,
@@ -5412,9 +6112,13 @@
         "PAY_PHONE": 2,
         "PNR_STATUS_ID": 1,
         "SIGNED": 2,
-        "SIGNED_NAME": "IS 95 @ MD 152 (South Lot) (Joppa)",
         "TOTAL_ELEC_STA": 0,
-        "VEIP_KIOSK": 2
+        "VEIP_KIOSK": 2,
+        "description": "1598 OLD MOUNTAIN RD S, JOPPA, MD 21085",
+        "marker-color": "fbb03b",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "IS 95 @ MD 152 (South Lot) (Joppa)"
       },
       "type": "Feature"
     },
@@ -5422,22 +6126,26 @@
       "geometry": {
         "coordinates": [
           -76.3870116429653,
-          39.481741381704
+          39.48174138170399
         ],
         "type": "Point"
       },
       "id": 177,
       "properties": {
-        "ADDRESS": "800 MOUNTAIN RD, JOPPA, MD 21085",
         "ADDRESS_SIGNED": 2,
         "CREATION_DATE": "2016-03-08",
+        "GLOBAL_SEGMENT_ID": 20978007,
         "LAST_UPDATE": "2016-03-08",
         "LOCATION": "MD 152 @ Dunwood Road",
         "LOT_ID": 301,
         "MAINTAINED_BY_ID": 2,
         "OWNER": "Other",
         "PNR_STATUS_ID": 1,
-        "SIGNED_NAME": "MD 152 @ Dunwood Road"
+        "description": "800 MOUNTAIN RD, JOPPA, MD 21085",
+        "marker-color": "3bb2d0",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "MD 152 @ Dunwood Road"
       },
       "type": "Feature"
     },
@@ -5445,22 +6153,26 @@
       "geometry": {
         "coordinates": [
           -76.691814883616,
-          39.19189418935549
+          39.191894189355494
         ],
         "type": "Point"
       },
       "id": 178,
       "properties": {
-        "ADDRESS": "1506 AMTRACK WAY, LINTHICUM, MD 21090",
         "ADDRESS_SIGNED": 2,
         "CREATION_DATE": "2016-03-07",
+        "GLOBAL_SEGMENT_ID": 4511323,
         "LAST_UPDATE": "2016-03-07",
         "LOCATION": "BWI MARC Park And Ride",
         "LOT_ID": 285,
         "MAINTAINED_BY_ID": 2,
         "OWNER": "OTHER",
         "PNR_STATUS_ID": 1,
-        "SIGNED_NAME": "BWI MARC Park And Ride"
+        "description": "1506 AMTRACK WAY, LINTHICUM, MD 21090",
+        "marker-color": "3bb2d0",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "BWI MARC Park And Ride"
       },
       "type": "Feature"
     },
@@ -5468,14 +6180,13 @@
       "geometry": {
         "coordinates": [
           -76.83302243618684,
-          39.2375032613186
+          39.237503261318594
         ],
         "type": "Point"
       },
       "id": 179,
       "properties": {
         "ADA_COMPLIANT": 2,
-        "ADDRESS": "9320 PREBYTERIAN CIRCLE, COLUMBIA, MD 21045",
         "ADDRESS_SIGNED": 2,
         "BIKE_RACKS": 2,
         "BUS_SHELTER": 2,
@@ -5485,6 +6196,7 @@
         "ENT_WIDTH": 28,
         "EXIT_NUMBER": "21",
         "FENCED": 2,
+        "GLOBAL_SEGMENT_ID": 61105890,
         "LAST_UPDATE": "2015-07-09",
         "LIGHTS": 2,
         "LOCATION": "US 29 @ MD 108",
@@ -5495,11 +6207,15 @@
         "OWNER": "SHA",
         "PAY_PHONE": 2,
         "SIGNED": 2,
-        "SIGNED_NAME": "US 29 @ MD 108",
         "TOTAL_ELEC_STA": 0,
         "VEIP_KIOSK": 2,
         "YEAR_CONST": 1986,
-        "YEAR_EXPANDED": 1986
+        "YEAR_EXPANDED": 1986,
+        "description": "9320 PREBYTERIAN CIRCLE, COLUMBIA, MD 21045",
+        "marker-color": "fbb03b",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "US 29 @ MD 108"
       },
       "type": "Feature"
     },
@@ -5513,16 +6229,20 @@
       },
       "id": 180,
       "properties": {
-        "ADDRESS": "165 RITCHIE HWY, SEVERNA PARK, MD 21146",
         "ADDRESS_SIGNED": 2,
         "CREATION_DATE": "2016-02-18",
+        "GLOBAL_SEGMENT_ID": 2982275,
         "LAST_UPDATE": "2016-02-18",
         "LOCATION": "Earleigh Heights Park and Ride",
         "LOT_ID": 288,
         "MAINTAINED_BY_ID": 2,
         "OWNER": "OTHER",
         "PNR_STATUS_ID": 1,
-        "SIGNED_NAME": "Earleigh Heights Park and Ride"
+        "description": "165 RITCHIE HWY, SEVERNA PARK, MD 21146",
+        "marker-color": "3bb2d0",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "Earleigh Heights Park and Ride"
       },
       "type": "Feature"
     },
@@ -5536,16 +6256,20 @@
       },
       "id": 181,
       "properties": {
-        "ADDRESS": "130 FAIRGROUND RD, PRINCE FREDERICK, MD 20678",
         "ADDRESS_SIGNED": 2,
         "CREATION_DATE": "2016-02-12",
+        "GLOBAL_SEGMENT_ID": 10995895,
         "LAST_UPDATE": "2016-02-12",
         "LOCATION": "Prince Frederick Park and Ride",
         "LOT_ID": 293,
         "MAINTAINED_BY_ID": 2,
         "OWNER": "OTHER",
         "PNR_STATUS_ID": 1,
-        "SIGNED_NAME": "Prince Frederick Park and Ride"
+        "description": "130 FAIRGROUND RD, PRINCE FREDERICK, MD 20678",
+        "marker-color": "3bb2d0",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "Prince Frederick Park and Ride"
       },
       "type": "Feature"
     },
@@ -5553,22 +6277,26 @@
       "geometry": {
         "coordinates": [
           -76.53282783229777,
-          38.70654115857513
+          38.70654115857514
         ],
         "type": "Point"
       },
       "id": 182,
       "properties": {
-        "ADDRESS": "CHESAPEAKE AVE, NORTH BEACH, MD 20714",
         "ADDRESS_SIGNED": 2,
         "CREATION_DATE": "2016-03-07",
+        "GLOBAL_SEGMENT_ID": 11444721,
         "LAST_UPDATE": "2016-03-07",
         "LOCATION": "North Beach Park and Ride",
         "LOT_ID": 294,
         "MAINTAINED_BY_ID": 2,
         "OWNER": "OTHER",
         "PNR_STATUS_ID": 1,
-        "SIGNED_NAME": "North Beach Park and Ride"
+        "description": "CHESAPEAKE AVE, NORTH BEACH, MD 20714",
+        "marker-color": "3bb2d0",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "North Beach Park and Ride"
       },
       "type": "Feature"
     },
@@ -5582,16 +6310,20 @@
       },
       "id": 183,
       "properties": {
-        "ADDRESS": "6201 N SOLOMONS ISLAND RD, SUNDERLAND, MD 20689",
         "ADDRESS_SIGNED": 2,
         "CREATION_DATE": "2016-02-12",
+        "GLOBAL_SEGMENT_ID": 11407291,
         "LAST_UPDATE": "2016-03-07",
         "LOCATION": "Chesapeake Church Park and Ride",
         "LOT_ID": 295,
         "MAINTAINED_BY_ID": 2,
         "OWNER": "OTHER",
         "PNR_STATUS_ID": 1,
-        "SIGNED_NAME": "Chesapeake Church Park and Ride"
+        "description": "6201 N SOLOMONS ISLAND RD, SUNDERLAND, MD 20689",
+        "marker-color": "3bb2d0",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "Chesapeake Church Park and Ride"
       },
       "type": "Feature"
     },
@@ -5605,16 +6337,20 @@
       },
       "id": 184,
       "properties": {
-        "ADDRESS": "171 PINEY NARROWS RD, CHESTER, MD 21619",
         "ADDRESS_SIGNED": 2,
         "CREATION_DATE": "2016-03-07",
+        "GLOBAL_SEGMENT_ID": 22907059,
         "LAST_UPDATE": "2016-03-07",
         "LOCATION": "Kent Narrows Park and Ride",
         "LOT_ID": 297,
         "MAINTAINED_BY_ID": 2,
         "OWNER": "OTHER",
         "PNR_STATUS_ID": 1,
-        "SIGNED_NAME": "Kent Narrows Park and Ride"
+        "description": "171 PINEY NARROWS RD, CHESTER, MD 21619",
+        "marker-color": "3bb2d0",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "Kent Narrows Park and Ride"
       },
       "type": "Feature"
     },
@@ -5622,14 +6358,13 @@
       "geometry": {
         "coordinates": [
           -76.85004280086883,
-          39.17428551185616
+          39.174285511856155
         ],
         "type": "Point"
       },
       "id": 185,
       "properties": {
         "ADA_COMPLIANT": 1,
-        "ADDRESS": "9602 BROKEN LAND PKWY, COLUMBIA, MD 21046",
         "ADDRESS_SIGNED": 2,
         "BIKE_RACKS": 1,
         "BUS_SHELTER": 1,
@@ -5639,6 +6374,7 @@
         "ENT_WIDTH": 52,
         "EXIT_NUMBER": "14",
         "FENCED": 1,
+        "GLOBAL_SEGMENT_ID": 21857406,
         "LAST_UPDATE": "2015-07-09",
         "LIGHTS": 1,
         "LOCATION": "MD 32 @ Broken Land Pkwy (East Lot)",
@@ -5649,11 +6385,15 @@
         "OWNER": "SHA",
         "PAY_PHONE": 2,
         "SIGNED": 2,
-        "SIGNED_NAME": "MD 32 @ Broken Land Pkwy (East Lot)",
         "TOTAL_ELEC_STA": 0,
         "VEIP_KIOSK": 2,
         "YEAR_CONST": 1995,
-        "YEAR_EXPANDED": 1995
+        "YEAR_EXPANDED": 1995,
+        "description": "9602 BROKEN LAND PKWY, COLUMBIA, MD 21046",
+        "marker-color": "fbb03b",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "MD 32 @ Broken Land Pkwy (East Lot)"
       },
       "type": "Feature"
     },
@@ -5668,7 +6408,6 @@
       "id": 186,
       "properties": {
         "ADA_COMPLIANT": 2,
-        "ADDRESS": "1001 WRIGHTON ROAD, LOTHIAN, MD 20711",
         "ADDRESS_SIGNED": 2,
         "BIKE_RACKS": 2,
         "BUS_SHELTER": 1,
@@ -5678,6 +6417,7 @@
         "EM_TRUCK_PARK": 2,
         "ENT_WIDTH": 28,
         "FENCED": 2,
+        "GLOBAL_SEGMENT_ID": 36701715,
         "LAST_UPDATE": "2015-07-09",
         "LIGHTS": 1,
         "LOCATION": "MD 4 @ MD 258 (Bay Front Rd)",
@@ -5688,11 +6428,15 @@
         "OWNER": "SHA",
         "PAY_PHONE": 2,
         "SIGNED": 2,
-        "SIGNED_NAME": "MD 4 @ MD 258 (Bay Front Rd)",
         "TOTAL_ELEC_STA": 0,
         "VEIP_KIOSK": 2,
         "YEAR_CONST": 1993,
-        "YEAR_EXPANDED": 1983
+        "YEAR_EXPANDED": 1983,
+        "description": "1001 WRIGHTON ROAD, LOTHIAN, MD 20711",
+        "marker-color": "fbb03b",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "MD 4 @ MD 258 (Bay Front Rd)"
       },
       "type": "Feature"
     },
@@ -5700,14 +6444,13 @@
       "geometry": {
         "coordinates": [
           -75.69500149759514,
-          38.12969218478309
+          38.129692184783096
         ],
         "type": "Point"
       },
       "id": 187,
       "properties": {
         "ADA_COMPLIANT": 2,
-        "ADDRESS": "9041 SPRING LANE, WESTOVER, MD 21871",
         "ADDRESS_SIGNED": 2,
         "BIKE_RACKS": 2,
         "BUS_SHELTER": 1,
@@ -5717,6 +6460,7 @@
         "EM_TRUCK_PARK": 2,
         "ENT_WIDTH": 20,
         "FENCED": 2,
+        "GLOBAL_SEGMENT_ID": 65568284,
         "LAST_UPDATE": "2015-07-16",
         "LIGHTS": 1,
         "LOCATION": "US 13 @ MD 413",
@@ -5727,11 +6471,15 @@
         "OWNER": "SHA",
         "PAY_PHONE": 2,
         "SIGNED": 2,
-        "SIGNED_NAME": "US 13 @ MD 413",
         "TOTAL_ELEC_STA": 0,
         "VEIP_KIOSK": 2,
         "YEAR_CONST": 1978,
-        "YEAR_EXPANDED": 1978
+        "YEAR_EXPANDED": 1978,
+        "description": "9041 SPRING LANE, WESTOVER, MD 21871",
+        "marker-color": "fbb03b",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "US 13 @ MD 413"
       },
       "type": "Feature"
     },
@@ -5739,14 +6487,13 @@
       "geometry": {
         "coordinates": [
           -76.0623167422088,
-          38.93977452414578
+          38.9397745241458
         ],
         "type": "Point"
       },
       "id": 188,
       "properties": {
         "ADA_COMPLIANT": 2,
-        "ADDRESS": "29213 QUEEN ANNE HWY, WYE MILLS, MD 21679",
         "ADDRESS_SIGNED": 2,
         "BIKE_RACKS": 1,
         "BUS_SHELTER": 2,
@@ -5756,6 +6503,7 @@
         "EM_TRUCK_PARK": 2,
         "ENT_WIDTH": 31,
         "FENCED": 2,
+        "GLOBAL_SEGMENT_ID": 65069045,
         "LAST_UPDATE": "2015-07-15",
         "LIGHTS": 1,
         "LOCATION": "US 50 @ MD 404 (East Lot)",
@@ -5766,11 +6514,15 @@
         "OWNER": "SHA",
         "PAY_PHONE": 2,
         "SIGNED": 2,
-        "SIGNED_NAME": "US 50 @ MD 404 (Lot A)",
         "TOTAL_ELEC_STA": 0,
         "VEIP_KIOSK": 2,
         "YEAR_CONST": 1983,
-        "YEAR_EXPANDED": 1978
+        "YEAR_EXPANDED": 1978,
+        "description": "29213 QUEEN ANNE HWY, WYE MILLS, MD 21679",
+        "marker-color": "fbb03b",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "US 50 @ MD 404 (Lot A)"
       },
       "type": "Feature"
     },
@@ -5778,14 +6530,13 @@
       "geometry": {
         "coordinates": [
           -76.55342587157163,
-          38.976626848545145
+          38.97662684854516
         ],
         "type": "Point"
       },
       "id": 189,
       "properties": {
         "ADA_COMPLIANT": 2,
-        "ADDRESS": "2580 RIVA ROAD, ANNAPOLIS, MD 21401",
         "ADDRESS_SIGNED": 2,
         "BIKE_RACKS": 1,
         "BUS_SHELTER": 1,
@@ -5796,6 +6547,7 @@
         "ENT_WIDTH": 25,
         "EXIT_NUMBER": "22",
         "FENCED": 2,
+        "GLOBAL_SEGMENT_ID": 35548538,
         "LAST_UPDATE": "2015-07-09",
         "LIGHTS": 2,
         "LOCATION": "MD 665 @ Riva Road (Harr S. Truman)",
@@ -5806,11 +6558,15 @@
         "OWNER": "SHA",
         "PAY_PHONE": 2,
         "SIGNED": 2,
-        "SIGNED_NAME": "MD 665 @ Riva Road (Harr S. Truman)",
         "TOTAL_ELEC_STA": 0,
         "VEIP_KIOSK": 2,
         "YEAR_CONST": 2011,
-        "YEAR_EXPANDED": 1990
+        "YEAR_EXPANDED": 1990,
+        "description": "2580 RIVA ROAD, ANNAPOLIS, MD 21401",
+        "marker-color": "fbb03b",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "MD 665 @ Riva Road (Harr S. Truman)"
       },
       "type": "Feature"
     }
