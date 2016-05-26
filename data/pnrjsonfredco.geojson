@@ -1,0 +1,1084 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          -77.63510063806868,
+          39.34077310797569
+        ],
+        "type": "Point"
+      },
+      "id": 1,
+      "properties": {
+        "ADA_COMPLIANT": 1,
+        "ADDRESS_SIGNED": 2,
+        "BIKE_RACKS": 2,
+        "BUS_SHELTER": 2,
+        "CREATION_DATE": "2015-07-13",
+        "EMERG_COND": 2,
+        "EM_TRUCK_PARK": 2,
+        "ENT_WIDTH": 35,
+        "FENCED": 2,
+        "GLOBAL_SEGMENT_ID": 15585577,
+        "LAST_UPDATE": "2015-07-13",
+        "LIGHTS": 1,
+        "LOCATION": "MD 180 @ MD 17 ( Rosemont)",
+        "LOT_ID": 100,
+        "LOT_STATUS_ID": 1,
+        "MAINTAINED_BY_ID": 1,
+        "OVERNIGHT_ONLY": 2,
+        "OWNER": "SHA",
+        "PAY_PHONE": 2,
+        "SIGNED": 2,
+        "TOTAL_ELEC_STA": 0,
+        "VEIP_KIOSK": 2,
+        "YEAR_CONST": 1985,
+        "YEAR_EXPANDED": 1979,
+        "description": "1000 JEFFERSON PIKE, KNOXVILLE, MD 21758",
+        "marker-color": "fbb03b",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "MD 180 @ MD 17 ( Rosemont)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -77.47625055393935,
+          39.37592945497342
+        ],
+        "type": "Point"
+      },
+      "id": 2,
+      "properties": {
+        "ADA_COMPLIANT": 1,
+        "ADDRESS_SIGNED": 2,
+        "BIKE_RACKS": 1,
+        "BUS_SHELTER": 2,
+        "CREATION_DATE": "2015-07-13",
+        "EMERG_COND": 2,
+        "EM_TRUCK_PARK": 2,
+        "ENT_WIDTH": 14,
+        "EXIT_NUMBER": "9",
+        "FENCED": 2,
+        "GLOBAL_SEGMENT_ID": 14548991,
+        "LAST_UPDATE": "2015-07-13",
+        "LIGHTS": 1,
+        "LOCATION": "US 340 @ Mt. Zion Road (West Lot)",
+        "LOT_ID": 106,
+        "LOT_STATUS_ID": 1,
+        "MAINTAINED_BY_ID": 1,
+        "OVERNIGHT_ONLY": 2,
+        "OWNER": "SHA",
+        "PAY_PHONE": 2,
+        "SIGNED": 2,
+        "TOTAL_ELEC_STA": 0,
+        "VEIP_KIOSK": 2,
+        "YEAR_CONST": 2011,
+        "YEAR_EXPANDED": 2011,
+        "description": "5498 ELMER DERR RD, FREDERICK, MD 21703",
+        "marker-color": "fbb03b",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "US 340 @ Mt. Zion Road (West Lot)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -77.68338220270272,
+          39.33316534712425
+        ],
+        "type": "Point"
+      },
+      "id": 3,
+      "properties": {
+        "ADA_COMPLIANT": 2,
+        "ADDRESS_SIGNED": 2,
+        "BIKE_RACKS": 1,
+        "BUS_SHELTER": 2,
+        "CREATION_DATE": "2015-07-09",
+        "EMERG_COND": 2,
+        "EM_TRUCK_PARK": 2,
+        "ENT_WIDTH": 38,
+        "FENCED": 2,
+        "GLOBAL_SEGMENT_ID": 24957077,
+        "LAST_UPDATE": "2015-07-09",
+        "LIGHTS": 1,
+        "LOCATION": "US 340 @ MD 67 (MD 67D Weverton)",
+        "LOT_ID": 259,
+        "LOT_STATUS_ID": 1,
+        "MAINTAINED_BY_ID": 1,
+        "OVERNIGHT_ONLY": 2,
+        "OWNER": "SHA",
+        "PAY_PHONE": 2,
+        "PNR_STATUS_ID": 1,
+        "SIGNED": 2,
+        "TOTAL_ELEC_STA": 0,
+        "VEIP_KIOSK": 2,
+        "YEAR_CONST": 2010,
+        "YEAR_EXPANDED": 2010,
+        "description": "19685 WEVERTON CLIFFS ROAD, KNOXVILLE, MD 21758",
+        "marker-color": "fbb03b",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "US 340 @ MD 67 (MD 67D Weverton)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -77.53189220521978,
+          39.360542067446914
+        ],
+        "type": "Point"
+      },
+      "id": 4,
+      "properties": {
+        "ADA_COMPLIANT": 2,
+        "ADDRESS_SIGNED": 2,
+        "BIKE_RACKS": 2,
+        "BUS_SHELTER": 2,
+        "CREATION_DATE": "2016-05-11",
+        "EMERG_COND": 2,
+        "EM_TRUCK_PARK": 2,
+        "ENT_WIDTH": 32,
+        "EXIT_NUMBER": "8",
+        "FENCED": 2,
+        "GLOBAL_SEGMENT_ID": 48426716,
+        "LAST_UPDATE": "2016-05-11",
+        "LESSEE": "Ruritan Club",
+        "LIGHTS": 1,
+        "LOCATION": "US 340 @ Lander Road",
+        "LOT_ID": 96,
+        "LOT_STATUS_ID": 1,
+        "MAINTAINED_BY_ID": 1,
+        "OVERNIGHT_ONLY": 2,
+        "OWNER": "SHA",
+        "PAY_PHONE": 2,
+        "SIGNED": 2,
+        "TOTAL_ELEC_STA": 0,
+        "VEIP_KIOSK": 2,
+        "YEAR_CONST": 2007,
+        "YEAR_EXPANDED": 1984,
+        "description": "4601 LANDER RD, JEFFERSON, MD 21755",
+        "marker-color": "fbb03b",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "US 340 @ Lander Road"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -77.29750445806967,
+          39.25002402798622
+        ],
+        "type": "Point"
+      },
+      "id": 5,
+      "properties": {
+        "ADDRESS_SIGNED": 2,
+        "COMMENTS": "Closed. Entrances gated.",
+        "CREATION_DATE": "2015-11-16",
+        "GLOBAL_SEGMENT_ID": 28026416,
+        "LAST_UPDATE": "2015-11-16",
+        "LOCATION": "Comus Park and Ride",
+        "LOT_ID": 123,
+        "LOT_STATUS_ID": 4,
+        "MAINTAINED_BY_ID": 2,
+        "OWNER": "OTHER",
+        "marker-color": "3bb2d0",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "Comus Park and Ride"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -77.01911318295785,
+          39.320482116162815
+        ],
+        "type": "Point"
+      },
+      "id": 6,
+      "properties": {
+        "ADA_COMPLIANT": 2,
+        "ADDRESS_SIGNED": 2,
+        "BIKE_RACKS": 2,
+        "BUS_SHELTER": 2,
+        "CREATION_DATE": "2015-07-09",
+        "EMERG_COND": 2,
+        "EM_TRUCK_PARK": 2,
+        "ENT_WIDTH": 36,
+        "EXIT_NUMBER": "76",
+        "FENCED": 2,
+        "GLOBAL_SEGMENT_ID": 61114382,
+        "LAST_UPDATE": "2015-07-09",
+        "LIGHTS": 1,
+        "LOCATION": "IS 70 @ MD 97 (MD144) Cooksville",
+        "LOT_ID": 131,
+        "LOT_STATUS_ID": 1,
+        "MAINTAINED_BY_ID": 1,
+        "OVERNIGHT_ONLY": 2,
+        "OWNER": "SHA",
+        "PAY_PHONE": 2,
+        "SIGNED": 2,
+        "TOTAL_ELEC_STA": 0,
+        "VEIP_KIOSK": 2,
+        "YEAR_CONST": 1987,
+        "YEAR_EXPANDED": 1987,
+        "description": "14510 FREDERICK ROAD, COOKSVILLE, MD 21723",
+        "marker-color": "fbb03b",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "IS 70 @ MD 97 (MD144) Cooksville"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -77.37632694940426,
+          39.40441354754789
+        ],
+        "type": "Point"
+      },
+      "id": 7,
+      "properties": {
+        "ADDRESS_SIGNED": 2,
+        "GLOBAL_SEGMENT_ID": 15880267,
+        "LOCATION": "Airport Industrial Park Park and Ride",
+        "LOT_ID": 94,
+        "MAINTAINED_BY_ID": 2,
+        "OWNER": "OTHER",
+        "marker-color": "3bb2d0",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "Airport Industrial Park Park and Ride"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -77.62731826292818,
+          39.31153416295832
+        ],
+        "type": "Point"
+      },
+      "id": 8,
+      "properties": {
+        "ADDRESS_SIGNED": 2,
+        "GLOBAL_SEGMENT_ID": 15842674,
+        "LOCATION": "Brunswick Park and Ride",
+        "LOT_ID": 95,
+        "MAINTAINED_BY_ID": 2,
+        "OWNER": "OTHER",
+        "marker-color": "3bb2d0",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "Brunswick Park and Ride"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -77.35570117772613,
+          39.323810860291665
+        ],
+        "type": "Point"
+      },
+      "id": 9,
+      "properties": {
+        "ADA_COMPLIANT": 1,
+        "ADDRESS_SIGNED": 2,
+        "BIKE_RACKS": 1,
+        "BUS_SHELTER": 1,
+        "CREATION_DATE": "2015-07-13",
+        "EMERG_COND": 2,
+        "EM_TRUCK_PARK": 2,
+        "ENT_WIDTH": 38,
+        "EXIT_NUMBER": "26",
+        "FENCED": 2,
+        "GLOBAL_SEGMENT_ID": 15549915,
+        "LAST_UPDATE": "2015-07-13",
+        "LIGHTS": 1,
+        "LOCATION": "IS 270 @ MD 80 South Lot",
+        "LOT_ID": 97,
+        "LOT_STATUS_ID": 1,
+        "MAINTAINED_BY_ID": 1,
+        "OVERNIGHT_ONLY": 1,
+        "OWNER": "SHA",
+        "PAY_PHONE": 2,
+        "SIGNED": 1,
+        "TOTAL_ELEC_STA": 0,
+        "VEIP_KIOSK": 2,
+        "YEAR_CONST": 1999,
+        "YEAR_EXPANDED": 1978,
+        "description": "8721 FINGERBOARD ROAD, FREDERICK, MD 21704",
+        "marker-color": "fbb03b",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "IS 270 @ MD 80 South Lot"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -77.3966702521478,
+          39.38326460538931
+        ],
+        "type": "Point"
+      },
+      "id": 10,
+      "properties": {
+        "ADDRESS_SIGNED": 2,
+        "GLOBAL_SEGMENT_ID": 15717303,
+        "LOCATION": "Frederick MARC Station Park and Ride",
+        "LOT_ID": 98,
+        "MAINTAINED_BY_ID": 2,
+        "OWNER": "OTHER",
+        "marker-color": "3bb2d0",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "Frederick MARC Station Park and Ride"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -77.31589481158503,
+          39.522859279889175
+        ],
+        "type": "Point"
+      },
+      "id": 11,
+      "properties": {
+        "ADA_COMPLIANT": 2,
+        "ADDRESS_SIGNED": 2,
+        "BIKE_RACKS": 1,
+        "BUS_SHELTER": 2,
+        "CREATION_DATE": "2015-07-13",
+        "EMERG_COND": 2,
+        "EM_TRUCK_PARK": 2,
+        "ENT_WIDTH": 28,
+        "FENCED": 2,
+        "GLOBAL_SEGMENT_ID": 15610770,
+        "LAST_UPDATE": "2015-07-13",
+        "LIGHTS": 1,
+        "LOCATION": "MD 194 @ Main St. S. (Woodsboro)",
+        "LOT_ID": 99,
+        "LOT_STATUS_ID": 1,
+        "MAINTAINED_BY_ID": 1,
+        "OVERNIGHT_ONLY": 2,
+        "OWNER": "SHA",
+        "PAY_PHONE": 2,
+        "SIGNED": 2,
+        "TOTAL_ELEC_STA": 0,
+        "VEIP_KIOSK": 2,
+        "YEAR_CONST": 2004,
+        "YEAR_EXPANDED": 2004,
+        "description": "636 S MAIN ST, WOODSBORO, MD 21798",
+        "marker-color": "fbb03b",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "MD 194 @ Main St. S. (Woodsboro)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -77.37288025934623,
+          39.401046098475284
+        ],
+        "type": "Point"
+      },
+      "id": 12,
+      "properties": {
+        "ADA_COMPLIANT": 1,
+        "ADDRESS_SIGNED": 2,
+        "BIKE_RACKS": 2,
+        "BUS_SHELTER": 2,
+        "CREATION_DATE": "2015-07-16",
+        "EMERG_COND": 2,
+        "EM_TRUCK_PARK": 2,
+        "ENT_WIDTH": 56,
+        "EXIT_NUMBER": "56",
+        "FENCED": 2,
+        "GLOBAL_SEGMENT_ID": 15205891,
+        "LAST_UPDATE": "2015-07-16",
+        "LIGHTS": 1,
+        "LOCATION": "IS 70 @ MD 144",
+        "LOT_ID": 101,
+        "LOT_STATUS_ID": 1,
+        "MAINTAINED_BY_ID": 1,
+        "OVERNIGHT_ONLY": 2,
+        "OWNER": "SHA",
+        "PAY_PHONE": 2,
+        "SIGNED": 2,
+        "TOTAL_ELEC_STA": 0,
+        "VEIP_KIOSK": 2,
+        "YEAR_CONST": 1994,
+        "YEAR_EXPANDED": 1994,
+        "description": "8500 OLD NATIONAL PIKE, FREDERICK, MD 21701",
+        "marker-color": "fbb03b",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "IS 70 @ MD 144"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -77.26186373860838,
+          39.377016474269226
+        ],
+        "type": "Point"
+      },
+      "id": 13,
+      "properties": {
+        "ADA_COMPLIANT": 1,
+        "ADDRESS_SIGNED": 2,
+        "BIKE_RACKS": 2,
+        "BUS_SHELTER": 2,
+        "CREATION_DATE": "2016-03-04",
+        "EMERG_COND": 2,
+        "EM_TRUCK_PARK": 2,
+        "ENT_WIDTH": 55,
+        "EXIT_NUMBER": "62",
+        "FENCED": 2,
+        "GLOBAL_SEGMENT_ID": 15671171,
+        "LAST_UPDATE": "2016-03-04",
+        "LIGHTS": 1,
+        "LOCATION": "IS 70 @ MD 75 (Monrovia)",
+        "LOT_ID": 102,
+        "LOT_STATUS_ID": 1,
+        "MAINTAINED_BY_ID": 1,
+        "OVERNIGHT_ONLY": 2,
+        "OWNER": "SHA",
+        "PAY_PHONE": 2,
+        "SIGNED": 2,
+        "TOTAL_ELEC_STA": 0,
+        "VEIP_KIOSK": 2,
+        "YEAR_CONST": 1999,
+        "YEAR_EXPANDED": 2014,
+        "description": "11599 BALDWIN RD, MONROVIA, MD 21770",
+        "marker-color": "fbb03b",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "IS 70 @ MD 75 (Monrovia)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -77.40865255237205,
+          39.38543393389294
+        ],
+        "type": "Point"
+      },
+      "id": 14,
+      "properties": {
+        "ADDRESS_SIGNED": 2,
+        "GLOBAL_SEGMENT_ID": 15234460,
+        "LOCATION": "Francis Scott Key Mall Park and Ride",
+        "LOT_ID": 103,
+        "MAINTAINED_BY_ID": 2,
+        "OWNER": "OTHER",
+        "marker-color": "3bb2d0",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "Francis Scott Key Mall Park and Ride"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -77.5674945392205,
+          39.492490643126615
+        ],
+        "type": "Point"
+      },
+      "id": 15,
+      "properties": {
+        "ADA_COMPLIANT": 1,
+        "ADDRESS_SIGNED": 2,
+        "BIKE_RACKS": 1,
+        "BUS_SHELTER": 1,
+        "CREATION_DATE": "2015-07-13",
+        "EMERG_COND": 2,
+        "EM_TRUCK_PARK": 2,
+        "ENT_WIDTH": 24,
+        "EXIT_NUMBER": "42",
+        "FENCED": 2,
+        "GLOBAL_SEGMENT_ID": 15166871,
+        "LAST_UPDATE": "2015-07-13",
+        "LIGHTS": 1,
+        "LOCATION": "IS 70 @ MD 17 (Myersville)",
+        "LOT_ID": 104,
+        "LOT_STATUS_ID": 1,
+        "MAINTAINED_BY_ID": 1,
+        "OVERNIGHT_ONLY": 2,
+        "OWNER": "SHA",
+        "PAY_PHONE": 2,
+        "SIGNED": 2,
+        "TOTAL_ELEC_STA": 0,
+        "VEIP_KIOSK": 2,
+        "YEAR_CONST": 1984,
+        "YEAR_EXPANDED": 1984,
+        "description": "3002 VENTRIE CT, MYERSVILLE, MD 21773",
+        "marker-color": "fbb03b",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "IS 70 @ MD 17 (Myersville)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -77.35437315811191,
+          39.32468506428376
+        ],
+        "type": "Point"
+      },
+      "id": 16,
+      "properties": {
+        "ADA_COMPLIANT": 2,
+        "ADDRESS_SIGNED": 2,
+        "BIKE_RACKS": 2,
+        "BUS_SHELTER": 2,
+        "CREATION_DATE": "2015-07-13",
+        "EMERG_COND": 2,
+        "EM_TRUCK_PARK": 1,
+        "ENT_WIDTH": 30,
+        "EXIT_NUMBER": "26",
+        "FENCED": 2,
+        "GLOBAL_SEGMENT_ID": 15366590,
+        "LAST_UPDATE": "2015-07-13",
+        "LIGHTS": 1,
+        "LOCATION": "IS 270 @ MD 80 North Lot",
+        "LOT_ID": 105,
+        "LOT_STATUS_ID": 1,
+        "MAINTAINED_BY_ID": 1,
+        "OVERNIGHT_ONLY": 1,
+        "OWNER": "SHA",
+        "PAY_PHONE": 2,
+        "SIGNED": 1,
+        "TOTAL_ELEC_STA": 0,
+        "VEIP_KIOSK": 2,
+        "YEAR_CONST": 2010,
+        "YEAR_EXPANDED": 1999,
+        "description": "8810 URBANA CHURCH ROAD, FREDERICK, MD 21704",
+        "marker-color": "fbb03b",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "IS 270 @ MD 80 North Lot"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -76.99041615279363,
+          39.52076895152301
+        ],
+        "type": "Point"
+      },
+      "id": 17,
+      "properties": {
+        "ADA_COMPLIANT": 1,
+        "ADDRESS_SIGNED": 2,
+        "BIKE_RACKS": 2,
+        "BUS_SHELTER": 2,
+        "CREATION_DATE": "2015-07-09",
+        "EMERG_COND": 2,
+        "EM_TRUCK_PARK": 2,
+        "ENT_WIDTH": 53,
+        "FENCED": 2,
+        "GLOBAL_SEGMENT_ID": 12675185,
+        "LAST_UPDATE": "2015-07-09",
+        "LIGHTS": 1,
+        "LOCATION": "MD 97 @ MD 32",
+        "LOT_ID": 117,
+        "LOT_STATUS_ID": 1,
+        "MAINTAINED_BY_ID": 1,
+        "OVERNIGHT_ONLY": 2,
+        "OWNER": "SHA",
+        "PAY_PHONE": 2,
+        "SIGNED": 2,
+        "TOTAL_ELEC_STA": 0,
+        "VEIP_KIOSK": 2,
+        "YEAR_CONST": 1982,
+        "YEAR_EXPANDED": 1982,
+        "description": "1945 WASHINGTON RD, WESTMINSTER, MD 21157",
+        "marker-color": "fbb03b",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "MD 97 @ MD 32"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -77.06849992632465,
+          39.34831385659726
+        ],
+        "type": "Point"
+      },
+      "id": 18,
+      "properties": {
+        "ADDRESS_SIGNED": 2,
+        "GLOBAL_SEGMENT_ID": 21865209,
+        "LOCATION": "Woodbine Park and Ride",
+        "LOT_ID": 135,
+        "MAINTAINED_BY_ID": 2,
+        "OWNER": "OTHER",
+        "marker-color": "3bb2d0",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "Woodbine Park and Ride"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -77.27247685902412,
+          39.17505041935147
+        ],
+        "type": "Point"
+      },
+      "id": 19,
+      "properties": {
+        "ADDRESS_SIGNED": 2,
+        "GLOBAL_SEGMENT_ID": 27887856,
+        "LOCATION": "Germantown/ MARC Station Park and Ride",
+        "LOT_ID": 136,
+        "MAINTAINED_BY_ID": 2,
+        "OWNER": "OTHER",
+        "marker-color": "3bb2d0",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "Germantown/ MARC Station Park and Ride"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -77.26155655713208,
+          39.18263198255312
+        ],
+        "type": "Point"
+      },
+      "id": 20,
+      "properties": {
+        "ADDRESS_SIGNED": 2,
+        "BIKE_RACKS": 1,
+        "BUS_SHELTER": 1,
+        "COMMENTS": "Yellow lined spaces only",
+        "CREATION_DATE": "2015-11-16",
+        "FENCED": 2,
+        "GLOBAL_SEGMENT_ID": 52198191,
+        "LAST_UPDATE": "2015-11-16",
+        "LIGHTS": 1,
+        "LOCATION": "Germantown Transit Center (GTC) Park and Ride",
+        "LOT_ID": 141,
+        "LOT_STATUS_ID": 1,
+        "MAINTAINED_BY_ID": 2,
+        "OWNER": "OTHER",
+        "marker-color": "3bb2d0",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "Germantown Transit Center (GTC) Park and Ride"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -77.28012108519422,
+          39.16123096672668
+        ],
+        "type": "Point"
+      },
+      "id": 21,
+      "properties": {
+        "ADDRESS_SIGNED": 2,
+        "GLOBAL_SEGMENT_ID": 27877592,
+        "LOCATION": "Germantown Park and Ride",
+        "LOT_ID": 153,
+        "MAINTAINED_BY_ID": 2,
+        "OWNER": "OTHER",
+        "marker-color": "3bb2d0",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "Germantown Park and Ride"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -77.15300182565166,
+          39.36522603664608
+        ],
+        "type": "Point"
+      },
+      "id": 22,
+      "properties": {
+        "ADA_COMPLIANT": 1,
+        "ADDRESS_SIGNED": 2,
+        "BIKE_RACKS": 2,
+        "BUS_SHELTER": 2,
+        "CREATION_DATE": "2015-07-13",
+        "EMERG_COND": 2,
+        "EM_TRUCK_PARK": 2,
+        "ENT_WIDTH": 53,
+        "EXIT_NUMBER": "68",
+        "FENCED": 2,
+        "GLOBAL_SEGMENT_ID": 12568314,
+        "LAST_UPDATE": "2015-07-13",
+        "LIGHTS": 1,
+        "LOCATION": "IS 70 @ MD 27 (Mount Airy)",
+        "LOT_ID": 210,
+        "LOT_STATUS_ID": 1,
+        "MAINTAINED_BY_ID": 1,
+        "OVERNIGHT_ONLY": 2,
+        "OWNER": "SHA",
+        "PAY_PHONE": 2,
+        "SIGNED": 2,
+        "TOTAL_ELEC_STA": 0,
+        "VEIP_KIOSK": 2,
+        "YEAR_CONST": 2001,
+        "YEAR_EXPANDED": 1981,
+        "description": "7337 RIDGE ROAD, MOUNT AIRY, MD 21771",
+        "marker-color": "fbb03b",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "IS 70 @ MD 27 (Mount Airy)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -77.41143008817092,
+          39.40114269480077
+        ],
+        "type": "Point"
+      },
+      "id": 23,
+      "properties": {
+        "ADA_COMPLIANT": 1,
+        "ADDRESS_SIGNED": 2,
+        "BIKE_RACKS": 2,
+        "BUS_SHELTER": 2,
+        "CREATION_DATE": "2015-07-13",
+        "EMERG_COND": 2,
+        "EM_TRUCK_PARK": 1,
+        "ENT_WIDTH": 38,
+        "EXIT_NUMBER": "54",
+        "FENCED": 2,
+        "GLOBAL_SEGMENT_ID": 67338965,
+        "LAST_UPDATE": "2015-07-13",
+        "LIGHTS": 1,
+        "LOCATION": "IS 70 @ MD 355 (New Design Rd)",
+        "LOT_ID": 256,
+        "LOT_STATUS_ID": 1,
+        "MAINTAINED_BY_ID": 1,
+        "OVERNIGHT_ONLY": 2,
+        "OWNER": "SHA",
+        "PAY_PHONE": 2,
+        "PNR_STATUS_ID": 1,
+        "SIGNED": 2,
+        "TOTAL_ELEC_STA": 0,
+        "VEIP_KIOSK": 2,
+        "YEAR_CONST": 2010,
+        "YEAR_EXPANDED": 2010,
+        "description": "6075 NEW DESIGN RD, FREDERICK, MD 21701",
+        "marker-color": "fbb03b",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "IS 70 @ MD 355 (New Design Rd)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -77.2452962125493,
+          39.199931444143054
+        ],
+        "type": "Point"
+      },
+      "id": 24,
+      "properties": {
+        "ADDRESS_SIGNED": 2,
+        "GLOBAL_SEGMENT_ID": 52659699,
+        "LOCATION": "Milestone Shopping Center Park and Ride",
+        "LOT_ID": 236,
+        "MAINTAINED_BY_ID": 2,
+        "OWNER": "OTHER",
+        "marker-color": "3bb2d0",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "Milestone Shopping Center Park and Ride"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -77.20184053088425,
+          39.2866147907914
+        ],
+        "type": "Point"
+      },
+      "id": 25,
+      "properties": {
+        "ADDRESS_SIGNED": 2,
+        "GLOBAL_SEGMENT_ID": 27918741,
+        "LOCATION": "Damascus Park and Ride",
+        "LOT_ID": 237,
+        "MAINTAINED_BY_ID": 2,
+        "OWNER": "OTHER",
+        "marker-color": "3bb2d0",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "Damascus Park and Ride"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -77.67857742461626,
+          39.59762942271754
+        ],
+        "type": "Point"
+      },
+      "id": 26,
+      "properties": {
+        "ADA_COMPLIANT": 2,
+        "ADDRESS_SIGNED": 2,
+        "BIKE_RACKS": 2,
+        "BUS_SHELTER": 2,
+        "CREATION_DATE": "2015-07-09",
+        "EMERG_COND": 2,
+        "EM_TRUCK_PARK": 2,
+        "ENT_WIDTH": 50,
+        "EXIT_NUMBER": "32",
+        "FENCED": 1,
+        "GLOBAL_SEGMENT_ID": 24537159,
+        "LAST_UPDATE": "2015-07-09",
+        "LIGHTS": 1,
+        "LOCATION": "IS 70 @ US 40 (East Hagerstown)",
+        "LOT_ID": 242,
+        "LOT_STATUS_ID": 1,
+        "MAINTAINED_BY_ID": 1,
+        "OVERNIGHT_ONLY": 2,
+        "OWNER": "SHA",
+        "PAY_PHONE": 2,
+        "SIGNED": 2,
+        "TOTAL_ELEC_STA": 0,
+        "VEIP_KIOSK": 2,
+        "YEAR_CONST": 1982,
+        "YEAR_EXPANDED": 1982,
+        "description": "10304 AUTO PLACE, HAGERSTOWN, MD 21740",
+        "marker-color": "fbb03b",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "IS 70 @ US 40 (East Hagerstown)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -77.64551943773573,
+          39.497034790401656
+        ],
+        "type": "Point"
+      },
+      "id": 27,
+      "properties": {
+        "ADA_COMPLIANT": 1,
+        "ADDRESS_SIGNED": 2,
+        "BIKE_RACKS": 2,
+        "BUS_SHELTER": 2,
+        "CREATION_DATE": "2015-07-09",
+        "EMERG_COND": 2,
+        "EM_TRUCK_PARK": 2,
+        "ENT_WIDTH": 30,
+        "FENCED": 2,
+        "GLOBAL_SEGMENT_ID": 24956593,
+        "LAST_UPDATE": "2015-07-09",
+        "LIGHTS": 1,
+        "LOCATION": "US 40 Alt @ MD 67",
+        "LOT_ID": 245,
+        "LOT_STATUS_ID": 1,
+        "MAINTAINED_BY_ID": 1,
+        "OVERNIGHT_ONLY": 2,
+        "OWNER": "SHA",
+        "PAY_PHONE": 2,
+        "SIGNED": 2,
+        "TOTAL_ELEC_STA": 0,
+        "VEIP_KIOSK": 2,
+        "YEAR_CONST": 1990,
+        "YEAR_EXPANDED": 1990,
+        "description": "6686 ROHRERSVILLE ROAD, BOONSBORO, MD 21713",
+        "marker-color": "fbb03b",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "US 40 Alt @ MD 67"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -77.63706653475757,
+          39.588350785145366
+        ],
+        "type": "Point"
+      },
+      "id": 28,
+      "properties": {
+        "ADA_COMPLIANT": 1,
+        "ADDRESS_SIGNED": 2,
+        "BIKE_RACKS": 2,
+        "BUS_SHELTER": 2,
+        "CREATION_DATE": "2015-07-09",
+        "EMERG_COND": 2,
+        "EM_TRUCK_PARK": 2,
+        "ENT_WIDTH": 19,
+        "EXIT_NUMBER": "35",
+        "FENCED": 1,
+        "GLOBAL_SEGMENT_ID": 24937142,
+        "LAST_UPDATE": "2015-07-09",
+        "LIGHTS": 2,
+        "LOCATION": "IS 70 @ MD 66 (Hagerstown)",
+        "LOT_ID": 246,
+        "LOT_STATUS_ID": 1,
+        "MAINTAINED_BY_ID": 1,
+        "OVERNIGHT_ONLY": 2,
+        "OWNER": "SHA",
+        "PAY_PHONE": 2,
+        "SIGNED": 2,
+        "TOTAL_ELEC_STA": 0,
+        "VEIP_KIOSK": 2,
+        "YEAR_CONST": 1988,
+        "YEAR_EXPANDED": 1980,
+        "description": "10037 MAPLEVILLE ROAD, HAGERSTOWN, MD 21740",
+        "marker-color": "fbb03b",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "IS 70 @ MD 66 (Hagerstown)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -77.00832389756943,
+          39.429582696341264
+        ],
+        "type": "Point"
+      },
+      "id": 29,
+      "properties": {
+        "ADA_COMPLIANT": 1,
+        "ADDRESS_SIGNED": 2,
+        "BIKE_RACKS": 1,
+        "BUS_SHELTER": 2,
+        "CREATION_DATE": "2015-07-09",
+        "EMERG_COND": 2,
+        "EM_TRUCK_PARK": 2,
+        "ENT_WIDTH": 33,
+        "FENCED": 2,
+        "GLOBAL_SEGMENT_ID": 41757799,
+        "LAST_UPDATE": "2015-07-09",
+        "LIGHTS": 1,
+        "LOCATION": "MD 97 @ MD 26",
+        "LOT_ID": 115,
+        "LOT_STATUS_ID": 1,
+        "MAINTAINED_BY_ID": 1,
+        "OVERNIGHT_ONLY": 2,
+        "OWNER": "SHA",
+        "PAY_PHONE": 2,
+        "SIGNED": 2,
+        "TOTAL_ELEC_STA": 0,
+        "VEIP_KIOSK": 2,
+        "YEAR_CONST": 1983,
+        "YEAR_EXPANDED": 1978,
+        "description": "400 W OLD LIBERTY RD, SYKESVILLE, MD 21784",
+        "marker-color": "fbb03b",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "MD 97 @ MD 26"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -77.47434718542416,
+          39.37691664693628
+        ],
+        "type": "Point"
+      },
+      "id": 30,
+      "properties": {
+        "ADA_COMPLIANT": 1,
+        "ADDRESS_SIGNED": 2,
+        "BIKE_RACKS": 2,
+        "BUS_SHELTER": 2,
+        "CREATION_DATE": "2015-07-13",
+        "EMERG_COND": 2,
+        "EM_TRUCK_PARK": 2,
+        "ENT_WIDTH": 28,
+        "FENCED": 2,
+        "GLOBAL_SEGMENT_ID": 14549131,
+        "LAST_UPDATE": "2015-07-13",
+        "LIGHTS": 1,
+        "LOCATION": "US 340 @ Mt. Zion Road (East Lot)",
+        "LOT_ID": 257,
+        "LOT_STATUS_ID": 1,
+        "MAINTAINED_BY_ID": 1,
+        "OVERNIGHT_ONLY": 2,
+        "OWNER": "SHA",
+        "PAY_PHONE": 2,
+        "PNR_STATUS_ID": 1,
+        "SIGNED": 2,
+        "TOTAL_ELEC_STA": 0,
+        "VEIP_KIOSK": 2,
+        "YEAR_CONST": 2008,
+        "YEAR_EXPANDED": 2008,
+        "description": "5500 ELMER DERR RD, FREDERICK, MD 21703",
+        "marker-color": "fbb03b",
+        "marker-size": "small",
+        "marker-symbol": "parking",
+        "title": "US 340 @ Mt. Zion Road (East Lot)"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}
