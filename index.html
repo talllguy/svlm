@@ -155,41 +155,41 @@
     });
 
     function directions(to) {
-      var from = getFrom();
-      if (from == null) {
-        var r = confirm("Location settings are off. Turn on?");
-        if (r == true) {
-          toLoc = to;
-          map.on('locationfound', updateLocationForDirections);
-          map.locate();
-          return;
-        } else {
-          return;
-        }
-      }
-
-      window.location.href = "comgooglemapsurl://maps.google.com/?saddr=" + from + "&daddr=" + to;
+      // var from = getFrom();
+      // if (from == null) {
+      //   var r = confirm("Location settings are off. Turn on?");
+      //   if (r == true) {
+      //     toLoc = to;
+      //     map.on('locationfound', updateLocationForDirections);
+      //     map.locate();
+      //     return;
+      //   } else {
+      //     return;
+      //   }
+      // }
+      // NOTE: Removing ---> ?saddr=" + from +  from URL
+      window.location.href = "comgooglemapsurl://maps.google.com/&daddr=" + to + "&directionsmode=driving";
     }
 
-    function getFrom() {
-      if (myLoc != null) {
-        return myLoc.latitude + "," + myLoc.longitude;
-      } else {
-        return null;
-      }
-    }
+    // function getFrom() {
+    //   if (myLoc != null) {
+    //     return myLoc.latitude + "," + myLoc.longitude;
+    //   } else {
+    //     return null;
+    //   }
+    // }
 
-    function updateLocation(e) {
-      myLoc = e;
-    }
-
-    function updateLocationForDirections(e) {
-      myLoc = e;
-      directions(toLoc);
-      map.on('locationfound', updateLocation);
-    }
-
-    map.on('locationfound', updateLocation);
+    // function updateLocation(e) {
+    //   myLoc = e;
+    // }
+    //
+    // function updateLocationForDirections(e) {
+    //   myLoc = e;
+    //   directions(toLoc);
+    //   map.on('locationfound', updateLocation);
+    // }
+    //
+    // map.on('locationfound', updateLocation);
 
 	jQuery("#searchfield").on('keyup', function(){
 		var searchString = $('#searchfield').val().toLowerCase();
