@@ -115,6 +115,18 @@
     myLoc = null;
     toLoc = null;
 
+	var isMobile = {
+		Android: function() {
+			return navigator.userAgent.match(/Android/i);
+		},
+		iOS: function() {
+			return navigator.userAgent.match(/iPhone|iPad|iPod/i);
+		},
+		any: function() {
+			return (isMobile.Android() || isMobile.iOS());
+		}
+	};
+	
     // load the marker with the directions for the geojson feature
     // the layeradd event allows it to rerun after filtration.
     featureLayer.on('layeradd', function(res) {
@@ -128,8 +140,8 @@
         if (layer != null && layer._popup != null && layer._latlng != null) {
           var to = layer._latlng.lat + "," + layer._latlng.lng;
 
-          layer._popup._content = '<div class="marker-title">' + layer.feature.properties.name + '</div><div class="marker-description">' + layer.feature.properties.description + '</div><div><a style="cursor:pointer" class="ui-button" id="' + buttonId + '" onclick="directions(\'' + to + '\')">Google Directions</a>' +
-									'<br><a style="cursor:pointer" class="ui-button" id="' + buttonId + '_w" href="waze://?ll=' + to + '&navigate=yes">Waze Directions</a></div>';
+          layer._popup._content = '<div class="marker-title">' + layer.feature.properties.name + '</div><div class="marker-description">' + layer.feature.properties.description + '</div><div><a style="cursor:pointer" class="ui-button" id="' + buttonId + '" onclick="directions(\'' + to + '\')">Google Directions</a></div>';
+		  if (isMobile.any()) layer._popup._content += '<div><a style="cursor:pointer" class="ui-button" id="' + buttonId + '_w" href="waze://?ll=' + to + '&navigate=yes">Waze Directions</a></div>';
           layer.buttonId = buttonId;
         }
       }
@@ -147,8 +159,8 @@
         if (layer != null && layer._popup != null && layer._latlng != null) {
           var to = layer._latlng.lat + "," + layer._latlng.lng;
 
-          layer._popup._content = '<div class="marker-title">' + layer.feature.properties.title + '</div><div class="marker-description">' + layer.feature.properties.description + '</div><div><a style="cursor:pointer" class="ui-button" id="' + buttonId + '" onclick="directions(\'' + to + '\')">Google Directions</a>' +
-									'<br><a style="cursor:pointer" class="ui-button" id="' + buttonId + '_w" href="waze://?ll=' + to + '&navigate=yes">Waze Directions</a></div>';
+          layer._popup._content = '<div class="marker-title">' + layer.feature.properties.title + '</div><div class="marker-description">' + layer.feature.properties.description + '</div><div><a style="cursor:pointer" class="ui-button" id="' + buttonId + '" onclick="directions(\'' + to + '\')">Google Directions</a></div>';
+		  if (isMobile.any()) layer._popup._content += '<div><a style="cursor:pointer" class="ui-button" id="' + buttonId + '_w" href="waze://?ll=' + to + '&navigate=yes">Waze Directions</a></div>';
           layer.buttonId = buttonId;
         }
       }
