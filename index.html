@@ -128,7 +128,8 @@
         if (layer != null && layer._popup != null && layer._latlng != null) {
           var to = layer._latlng.lat + "," + layer._latlng.lng;
 
-          layer._popup._content = '<div class="marker-title">' + layer.feature.properties.name + '</div><div class="marker-description">' + layer.feature.properties.description + '</div><div><a style="cursor:pointer" class="ui-button" id="' + buttonId + '" onclick="directions(\'' + to + '\')">Directions</button></div>';
+          layer._popup._content = '<div class="marker-title">' + layer.feature.properties.name + '</div><div class="marker-description">' + layer.feature.properties.description + '</div><div><a style="cursor:pointer" class="ui-button" id="' + buttonId + '" onclick="directions(\'' + to + '\')">Google Directions</a>' +
+									'<br><a style="cursor:pointer" class="ui-button" id="' + buttonId + '_w" href="waze://?ll=' + to + '&navigate=yes">Waze Directions</a></div>';
           layer.buttonId = buttonId;
         }
       }
@@ -146,7 +147,8 @@
         if (layer != null && layer._popup != null && layer._latlng != null) {
           var to = layer._latlng.lat + "," + layer._latlng.lng;
 
-          layer._popup._content = '<div class="marker-title">' + layer.feature.properties.title + '</div><div class="marker-description">' + layer.feature.properties.description + '</div><div><a style="cursor:pointer" class="ui-button" id="' + buttonId + '" onclick="directions(\'' + to + '\')">Directions</button></div>';
+          layer._popup._content = '<div class="marker-title">' + layer.feature.properties.title + '</div><div class="marker-description">' + layer.feature.properties.description + '</div><div><a style="cursor:pointer" class="ui-button" id="' + buttonId + '" onclick="directions(\'' + to + '\')">Google Directions</a>' +
+									'<br><a style="cursor:pointer" class="ui-button" id="' + buttonId + '_w" href="waze://?ll=' + to + '&navigate=yes">Waze Directions</a></div>';
           layer.buttonId = buttonId;
         }
       }
