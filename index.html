@@ -159,7 +159,7 @@
       // if (from == null) {
       //   var r = confirm("Location settings are off. Turn on?");
       //   if (r == true) {
-      //     toLoc = to;
+          toLoc = to;
       //     map.on('locationfound', updateLocationForDirections);
       //     map.locate();
       //     return;
@@ -168,7 +168,7 @@
       //   }
       // }
       // NOTE: Removing ---> ?saddr=" + from +  from URL
-      window.location.href = "comgooglemapsurl://maps.google.com/&daddr=" + to + "&directionsmode=driving";
+      window.location.href = "https://maps.google.com/&daddr=" + to + "&directionsmode=driving";
     }
 
     // function getFrom() {
