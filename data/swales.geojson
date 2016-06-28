@@ -9001,6 +9001,763 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -77.3405828275981,
+          39.711899418497275
+        ]
+      },
+      "type": "Feature",
+      "id": 142,
+      "properties": {
+        "description": "DONE",
+        "marker-color": "63b6e5",
+        "marker-size": "small",
+        "marker-symbol": "polling-place",
+        "name": "Category_2A_113_Ind2_10"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.33935716549585,
+          39.710959562845
+        ]
+      },
+      "type": "Feature",
+      "id": 143,
+      "properties": {
+        "description": "DONE",
+        "marker-color": "63b6e5",
+        "marker-size": "small",
+        "marker-symbol": "polling-place",
+        "name": "Category_2A_114_Ind2_10"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.33053142397542,
+          39.689041075142185
+        ]
+      },
+      "type": "Feature",
+      "id": 144,
+      "properties": {
+        "description": "DONE",
+        "marker-color": "63b6e5",
+        "marker-size": "small",
+        "marker-symbol": "polling-place",
+        "name": "Category_2A_115_Ind2_10"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.33381297610704,
+          39.68859831053993
+        ]
+      },
+      "type": "Feature",
+      "id": 145,
+      "properties": {
+        "description": "DONE",
+        "marker-color": "63b6e5",
+        "marker-size": "small",
+        "marker-symbol": "polling-place",
+        "name": "Category_2A_116_Ind2_10"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3321651108833,
+          39.69236309346784
+        ]
+      },
+      "type": "Feature",
+      "id": 146,
+      "properties": {
+        "description": "DONE",
+        "marker-color": "63b6e5",
+        "marker-size": "small",
+        "marker-symbol": "polling-place",
+        "name": "Category_2A_117_Ind2_10"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.33109088397042,
+          39.69498998223385
+        ]
+      },
+      "type": "Feature",
+      "id": 147,
+      "properties": {
+        "description": "DONE",
+        "marker-color": "63b6e5",
+        "marker-size": "small",
+        "marker-symbol": "polling-place",
+        "name": "Category_2A_118_Ind2_10"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.42137828762539,
+          39.62417549071412
+        ]
+      },
+      "type": "Feature",
+      "id": 148,
+      "properties": {
+        "description": "DONE",
+        "marker-color": "63b6e5",
+        "marker-size": "small",
+        "marker-symbol": "polling-place",
+        "name": "Ind5_Category_2A_316"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.50168907348075,
+          39.63677471573691
+        ]
+      },
+      "type": "Feature",
+      "id": 149,
+      "properties": {
+        "description": "DONE",
+        "marker-color": "63b6e5",
+        "marker-size": "small",
+        "marker-symbol": "polling-place",
+        "name": "Ind5_Category_2A_339"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4986707094077,
+          39.63660409228757
+        ]
+      },
+      "type": "Feature",
+      "id": 150,
+      "properties": {
+        "description": "DONE",
+        "marker-color": "63b6e5",
+        "marker-size": "small",
+        "marker-symbol": "polling-place",
+        "name": "Ind5_Category_2A_336"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.49779358934833,
+          39.636440355452535
+        ]
+      },
+      "type": "Feature",
+      "id": 151,
+      "properties": {
+        "description": "DONE",
+        "marker-color": "63b6e5",
+        "marker-size": "small",
+        "marker-symbol": "polling-place",
+        "name": "Ind5_Category_2A_336"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.25812195084835,
+          39.68497859733239
+        ]
+      },
+      "type": "Feature",
+      "id": 163,
+      "properties": {
+        "description": "DONE",
+        "marker-color": "63b6e5",
+        "marker-size": "small",
+        "marker-symbol": "polling-place",
+        "name": "Category_2A_137_Ind7_10"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.39842849462782,
+          39.49772733019908
+        ]
+      },
+      "type": "Feature",
+      "id": 434,
+      "properties": {
+        "description": "DONE",
+        "marker-color": "63b6e5",
+        "marker-size": "small",
+        "marker-symbol": "polling-place",
+        "name": "Category_2A_284_Ind17_10"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.39775392620895,
+          39.487520857843585
+        ]
+      },
+      "type": "Feature",
+      "id": 435,
+      "properties": {
+        "description": "DONE",
+        "marker-color": "63b6e5",
+        "marker-size": "small",
+        "marker-symbol": "polling-place",
+        "name": "Category_2A_285_Ind17_10"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4171648381398,
+          39.619625184902915
+        ]
+      },
+      "type": "Feature",
+      "id": 478,
+      "properties": {
+        "description": "DONE",
+        "marker-color": "63b6e5",
+        "marker-size": "small",
+        "marker-symbol": "polling-place",
+        "name": "Category_2A_232_Ind11_10"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.35250833861694,
+          39.61277360961811
+        ]
+      },
+      "type": "Feature",
+      "id": 479,
+      "properties": {
+        "description": "DONE",
+        "marker-color": "63b6e5",
+        "marker-size": "small",
+        "marker-symbol": "polling-place",
+        "name": "Category_2A_181_Ind11_10"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3519864820907,
+          39.61249456089356
+        ]
+      },
+      "type": "Feature",
+      "id": 480,
+      "properties": {
+        "description": "DONE",
+        "marker-color": "63b6e5",
+        "marker-size": "small",
+        "marker-symbol": "polling-place",
+        "name": "Category_2A_180_Ind11_10"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.34877301787265,
+          39.6119298043217
+        ]
+      },
+      "type": "Feature",
+      "id": 481,
+      "properties": {
+        "description": "DONE",
+        "marker-color": "63b6e5",
+        "marker-size": "small",
+        "marker-symbol": "polling-place",
+        "name": "Category_2A_177_Ind11_10"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.33984241697596,
+          39.6115554742062
+        ]
+      },
+      "type": "Feature",
+      "id": 482,
+      "properties": {
+        "description": "DONE",
+        "marker-color": "63b6e5",
+        "marker-size": "small",
+        "marker-symbol": "polling-place",
+        "name": "Category_2A_174_Ind11_10"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.58983147932963,
+          39.52966601417296
+        ]
+      },
+      "type": "Feature",
+      "id": 483,
+      "properties": {
+        "description": "DONE",
+        "marker-color": "63b6e5",
+        "marker-size": "small",
+        "marker-symbol": "polling-place",
+        "name": "Ind15_Category_2A_93"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.57728297412731,
+          39.5212796098743
+        ]
+      },
+      "type": "Feature",
+      "id": 484,
+      "properties": {
+        "description": "DONE",
+        "marker-color": "63b6e5",
+        "marker-size": "small",
+        "marker-symbol": "polling-place",
+        "name": "Ind15_Category_2A_236"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.57654879562523,
+          39.52082707780214
+        ]
+      },
+      "type": "Feature",
+      "id": 485,
+      "properties": {
+        "description": "DONE",
+        "marker-color": "63b6e5",
+        "marker-size": "small",
+        "marker-symbol": "polling-place",
+        "name": "Ind15_Category_2A_236"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.56628964827071,
+          39.51411724401319
+        ]
+      },
+      "type": "Feature",
+      "id": 486,
+      "properties": {
+        "description": "DONE",
+        "marker-color": "63b6e5",
+        "marker-size": "small",
+        "marker-symbol": "polling-place",
+        "name": "Ind15_Category_2A_83"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.310126162575,
+          39.54898808135223
+        ]
+      },
+      "type": "Feature",
+      "id": 824,
+      "properties": {
+        "description": "DONE",
+        "marker-color": "63b6e5",
+        "marker-size": "small",
+        "marker-symbol": "polling-place",
+        "name": "Category_2A_361_Ind18_10"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.30816561818155,
+          39.55109216119024
+        ]
+      },
+      "type": "Feature",
+      "id": 825,
+      "properties": {
+        "description": "DONE",
+        "marker-color": "63b6e5",
+        "marker-size": "small",
+        "marker-symbol": "polling-place",
+        "name": "Category_2A_364_Ind18_10"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.31617631785262,
+          39.521938870037516
+        ]
+      },
+      "type": "Feature",
+      "id": 826,
+      "properties": {
+        "description": "DONE",
+        "marker-color": "63b6e5",
+        "marker-size": "small",
+        "marker-symbol": "polling-place",
+        "name": "Category_2A_2511_Ind18_10"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.31613430929323,
+          39.5228351514762
+        ]
+      },
+      "type": "Feature",
+      "id": 827,
+      "properties": {
+        "description": "DONE",
+        "marker-color": "63b6e5",
+        "marker-size": "small",
+        "Comments": "will need looked at in the field, DA hard to draw",
+        "marker-symbol": "polling-place",
+        "name": "Category_2A_259_Ind18_10"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.32857766304647,
+          39.49760074100015
+        ]
+      },
+      "type": "Feature",
+      "id": 828,
+      "properties": {
+        "description": "DONE",
+        "marker-color": "63b6e5",
+        "marker-size": "small",
+        "marker-symbol": "polling-place",
+        "name": "Category_2A_155_Ind18_10"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.24941493934857,
+          39.48901384455622
+        ]
+      },
+      "type": "Feature",
+      "id": 829,
+      "properties": {
+        "description": "DONE",
+        "marker-color": "63b6e5",
+        "marker-size": "small",
+        "marker-symbol": "polling-place",
+        "name": "Category_2A_124_Ind18_10"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.30846723853661,
+          39.550780419023496
+        ]
+      },
+      "type": "Feature",
+      "id": 830,
+      "properties": {
+        "description": "DONE",
+        "marker-color": "63b6e5",
+        "marker-size": "small",
+        "marker-symbol": "polling-place",
+        "name": "Category_2A_362_Ind18_10"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.31171447035531,
+          39.52923051494586
+        ]
+      },
+      "type": "Feature",
+      "id": 831,
+      "properties": {
+        "description": "DONE",
+        "marker-color": "63b6e5",
+        "marker-size": "small",
+        "marker-symbol": "polling-place",
+        "name": "Category_2A_282_Ind18_10"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.43241198936563,
+          39.56829474531801
+        ]
+      },
+      "type": "Feature",
+      "id": 628,
+      "properties": {
+        "description": "DONE",
+        "marker-color": "63b6e5",
+        "marker-size": "small",
+        "marker-symbol": "polling-place",
+        "name": "Category_2A_589_Ind10_10"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.33009066559615,
+          39.54849437871712
+        ]
+      },
+      "type": "Feature",
+      "id": 420,
+      "properties": {
+        "description": "DONE",
+        "marker-color": "63b6e5",
+        "marker-size": "small",
+        "marker-symbol": "polling-place",
+        "name": "Category_2A_92_Ind17_10"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.33373903923473,
+          39.55070549964486
+        ]
+      },
+      "type": "Feature",
+      "id": 421,
+      "properties": {
+        "description": "DONE",
+        "marker-color": "63b6e5",
+        "marker-size": "small",
+        "marker-symbol": "polling-place",
+        "name": "Category_2A_95_Ind17_10"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.39794032843847,
+          39.48694172986286
+        ]
+      },
+      "type": "Feature",
+      "id": 422,
+      "properties": {
+        "description": "DONE",
+        "marker-color": "63b6e5",
+        "marker-size": "small",
+        "marker-symbol": "polling-place",
+        "name": "Category_2A_162_Ind17_10"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.54247473673252,
+          39.497971548133314
+        ]
+      },
+      "type": "Feature",
+      "id": 487,
+      "properties": {
+        "description": "DONE",
+        "marker-color": "63b6e5",
+        "marker-size": "small",
+        "marker-symbol": "polling-place",
+        "name": "Ind15_Category_2A_71"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.54204723983555,
+          39.49757910892331
+        ]
+      },
+      "type": "Feature",
+      "id": 488,
+      "properties": {
+        "description": "DONE",
+        "marker-color": "63b6e5",
+        "marker-size": "small",
+        "marker-symbol": "polling-place",
+        "name": "Ind15_Category_2A_69"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.52999936006135,
+          39.48582969649975
+        ]
+      },
+      "type": "Feature",
+      "id": 489,
+      "properties": {
+        "description": "DONE",
+        "marker-color": "63b6e5",
+        "marker-size": "small",
+        "marker-symbol": "polling-place",
+        "name": "Ind15_Category_2A_57"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.52889837059547,
+          39.48502811333507
+        ]
+      },
+      "type": "Feature",
+      "id": 490,
+      "properties": {
+        "description": "DONE",
+        "marker-color": "63b6e5",
+        "marker-size": "small",
+        "marker-symbol": "polling-place",
+        "name": "Ind15_Category_2A_56"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.42960741864155,
+          39.551298320527145
+        ]
+      },
+      "type": "Feature",
+      "id": 491,
+      "properties": {
+        "description": "DONE",
+        "marker-color": "63b6e5",
+        "marker-size": "small",
+        "marker-symbol": "polling-place",
+        "name": "Ind16_Category_2A_102"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.42912257505066,
+          39.55027779235679
+        ]
+      },
+      "type": "Feature",
+      "id": 492,
+      "properties": {
+        "description": "DONE",
+        "marker-color": "63b6e5",
+        "marker-size": "small",
+        "marker-symbol": "polling-place",
+        "name": "Ind16_Category_2A_99"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.42831604034468,
+          39.54966761913162
+        ]
+      },
+      "type": "Feature",
+      "id": 493,
+      "properties": {
+        "description": "DONE",
+        "marker-color": "63b6e5",
+        "marker-size": "small",
+        "marker-symbol": "polling-place",
+        "name": "Ind16_Category_2A_94"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.29780617116323,
+          39.52635646971913
+        ]
+      },
+      "type": "Feature",
+      "id": 812,
+      "properties": {
+        "description": "DONE",
+        "marker-color": "63b6e5",
+        "marker-size": "small",
+        "marker-symbol": "polling-place",
+        "name": "Category_2A_271_Ind18_10"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -77.42448793658245,
           39.53783770977186
         ]
@@ -10418,565 +11175,6 @@
         "marker-size": "small",
         "marker-symbol": "polling-place",
         "name": "Category_2A_112_Ind2_10"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.3405828275981,
-          39.711899418497275
-        ]
-      },
-      "type": "Feature",
-      "id": 142,
-      "properties": {
-        "description": "DONE",
-        "marker-color": "63b6e5",
-        "marker-size": "small",
-        "marker-symbol": "polling-place",
-        "name": "Category_2A_113_Ind2_10"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.33935716549585,
-          39.710959562845
-        ]
-      },
-      "type": "Feature",
-      "id": 143,
-      "properties": {
-        "description": "DONE",
-        "marker-color": "63b6e5",
-        "marker-size": "small",
-        "marker-symbol": "polling-place",
-        "name": "Category_2A_114_Ind2_10"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.33053142397542,
-          39.689041075142185
-        ]
-      },
-      "type": "Feature",
-      "id": 144,
-      "properties": {
-        "description": "DONE",
-        "marker-color": "63b6e5",
-        "marker-size": "small",
-        "marker-symbol": "polling-place",
-        "name": "Category_2A_115_Ind2_10"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.33381297610704,
-          39.68859831053993
-        ]
-      },
-      "type": "Feature",
-      "id": 145,
-      "properties": {
-        "description": "DONE",
-        "marker-color": "63b6e5",
-        "marker-size": "small",
-        "marker-symbol": "polling-place",
-        "name": "Category_2A_116_Ind2_10"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.3321651108833,
-          39.69236309346784
-        ]
-      },
-      "type": "Feature",
-      "id": 146,
-      "properties": {
-        "description": "DONE",
-        "marker-color": "63b6e5",
-        "marker-size": "small",
-        "marker-symbol": "polling-place",
-        "name": "Category_2A_117_Ind2_10"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.33109088397042,
-          39.69498998223385
-        ]
-      },
-      "type": "Feature",
-      "id": 147,
-      "properties": {
-        "description": "DONE",
-        "marker-color": "63b6e5",
-        "marker-size": "small",
-        "marker-symbol": "polling-place",
-        "name": "Category_2A_118_Ind2_10"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.42137828762539,
-          39.62417549071412
-        ]
-      },
-      "type": "Feature",
-      "id": 148,
-      "properties": {
-        "description": "DONE",
-        "marker-color": "63b6e5",
-        "marker-size": "small",
-        "marker-symbol": "polling-place",
-        "name": "Ind5_Category_2A_316"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.50168907348075,
-          39.63677471573691
-        ]
-      },
-      "type": "Feature",
-      "id": 149,
-      "properties": {
-        "description": "DONE",
-        "marker-color": "63b6e5",
-        "marker-size": "small",
-        "marker-symbol": "polling-place",
-        "name": "Ind5_Category_2A_339"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.4986707094077,
-          39.63660409228757
-        ]
-      },
-      "type": "Feature",
-      "id": 150,
-      "properties": {
-        "description": "DONE",
-        "marker-color": "63b6e5",
-        "marker-size": "small",
-        "marker-symbol": "polling-place",
-        "name": "Ind5_Category_2A_336"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.49779358934833,
-          39.636440355452535
-        ]
-      },
-      "type": "Feature",
-      "id": 151,
-      "properties": {
-        "description": "DONE",
-        "marker-color": "63b6e5",
-        "marker-size": "small",
-        "marker-symbol": "polling-place",
-        "name": "Ind5_Category_2A_336"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.25812195084835,
-          39.68497859733239
-        ]
-      },
-      "type": "Feature",
-      "id": 163,
-      "properties": {
-        "description": "DONE",
-        "marker-color": "63b6e5",
-        "marker-size": "small",
-        "marker-symbol": "polling-place",
-        "name": "Category_2A_137_Ind7_10"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.39842849462782,
-          39.49772733019908
-        ]
-      },
-      "type": "Feature",
-      "id": 434,
-      "properties": {
-        "description": "DONE",
-        "marker-color": "63b6e5",
-        "marker-size": "small",
-        "marker-symbol": "polling-place",
-        "name": "Category_2A_284_Ind17_10"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.39775392620895,
-          39.487520857843585
-        ]
-      },
-      "type": "Feature",
-      "id": 435,
-      "properties": {
-        "description": "DONE",
-        "marker-color": "63b6e5",
-        "marker-size": "small",
-        "marker-symbol": "polling-place",
-        "name": "Category_2A_285_Ind17_10"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.4171648381398,
-          39.619625184902915
-        ]
-      },
-      "type": "Feature",
-      "id": 478,
-      "properties": {
-        "description": "DONE",
-        "marker-color": "63b6e5",
-        "marker-size": "small",
-        "marker-symbol": "polling-place",
-        "name": "Category_2A_232_Ind11_10"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.35250833861694,
-          39.61277360961811
-        ]
-      },
-      "type": "Feature",
-      "id": 479,
-      "properties": {
-        "description": "DONE",
-        "marker-color": "63b6e5",
-        "marker-size": "small",
-        "marker-symbol": "polling-place",
-        "name": "Category_2A_181_Ind11_10"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.3519864820907,
-          39.61249456089356
-        ]
-      },
-      "type": "Feature",
-      "id": 480,
-      "properties": {
-        "description": "DONE",
-        "marker-color": "63b6e5",
-        "marker-size": "small",
-        "marker-symbol": "polling-place",
-        "name": "Category_2A_180_Ind11_10"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.34877301787265,
-          39.6119298043217
-        ]
-      },
-      "type": "Feature",
-      "id": 481,
-      "properties": {
-        "description": "DONE",
-        "marker-color": "63b6e5",
-        "marker-size": "small",
-        "marker-symbol": "polling-place",
-        "name": "Category_2A_177_Ind11_10"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.33984241697596,
-          39.6115554742062
-        ]
-      },
-      "type": "Feature",
-      "id": 482,
-      "properties": {
-        "description": "DONE",
-        "marker-color": "63b6e5",
-        "marker-size": "small",
-        "marker-symbol": "polling-place",
-        "name": "Category_2A_174_Ind11_10"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.58983147932963,
-          39.52966601417296
-        ]
-      },
-      "type": "Feature",
-      "id": 483,
-      "properties": {
-        "description": "DONE",
-        "marker-color": "63b6e5",
-        "marker-size": "small",
-        "marker-symbol": "polling-place",
-        "name": "Ind15_Category_2A_93"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.57728297412731,
-          39.5212796098743
-        ]
-      },
-      "type": "Feature",
-      "id": 484,
-      "properties": {
-        "description": "DONE",
-        "marker-color": "63b6e5",
-        "marker-size": "small",
-        "marker-symbol": "polling-place",
-        "name": "Ind15_Category_2A_236"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.57654879562523,
-          39.52082707780214
-        ]
-      },
-      "type": "Feature",
-      "id": 485,
-      "properties": {
-        "description": "DONE",
-        "marker-color": "63b6e5",
-        "marker-size": "small",
-        "marker-symbol": "polling-place",
-        "name": "Ind15_Category_2A_236"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.56628964827071,
-          39.51411724401319
-        ]
-      },
-      "type": "Feature",
-      "id": 486,
-      "properties": {
-        "description": "DONE",
-        "marker-color": "63b6e5",
-        "marker-size": "small",
-        "marker-symbol": "polling-place",
-        "name": "Ind15_Category_2A_83"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.310126162575,
-          39.54898808135223
-        ]
-      },
-      "type": "Feature",
-      "id": 824,
-      "properties": {
-        "description": "DONE",
-        "marker-color": "63b6e5",
-        "marker-size": "small",
-        "marker-symbol": "polling-place",
-        "name": "Category_2A_361_Ind18_10"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.30816561818155,
-          39.55109216119024
-        ]
-      },
-      "type": "Feature",
-      "id": 825,
-      "properties": {
-        "description": "DONE",
-        "marker-color": "63b6e5",
-        "marker-size": "small",
-        "marker-symbol": "polling-place",
-        "name": "Category_2A_364_Ind18_10"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.31617631785262,
-          39.521938870037516
-        ]
-      },
-      "type": "Feature",
-      "id": 826,
-      "properties": {
-        "description": "DONE",
-        "marker-color": "63b6e5",
-        "marker-size": "small",
-        "marker-symbol": "polling-place",
-        "name": "Category_2A_2511_Ind18_10"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.31613430929323,
-          39.5228351514762
-        ]
-      },
-      "type": "Feature",
-      "id": 827,
-      "properties": {
-        "description": "DONE",
-        "marker-color": "63b6e5",
-        "marker-size": "small",
-        "Comments": "will need looked at in the field, DA hard to draw",
-        "marker-symbol": "polling-place",
-        "name": "Category_2A_259_Ind18_10"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.32857766304647,
-          39.49760074100015
-        ]
-      },
-      "type": "Feature",
-      "id": 828,
-      "properties": {
-        "description": "DONE",
-        "marker-color": "63b6e5",
-        "marker-size": "small",
-        "marker-symbol": "polling-place",
-        "name": "Category_2A_155_Ind18_10"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.24941493934857,
-          39.48901384455622
-        ]
-      },
-      "type": "Feature",
-      "id": 829,
-      "properties": {
-        "description": "DONE",
-        "marker-color": "63b6e5",
-        "marker-size": "small",
-        "marker-symbol": "polling-place",
-        "name": "Category_2A_124_Ind18_10"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.30846723853661,
-          39.550780419023496
-        ]
-      },
-      "type": "Feature",
-      "id": 830,
-      "properties": {
-        "description": "DONE",
-        "marker-color": "63b6e5",
-        "marker-size": "small",
-        "marker-symbol": "polling-place",
-        "name": "Category_2A_362_Ind18_10"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.31171447035531,
-          39.52923051494586
-        ]
-      },
-      "type": "Feature",
-      "id": 831,
-      "properties": {
-        "description": "DONE",
-        "marker-color": "63b6e5",
-        "marker-size": "small",
-        "marker-symbol": "polling-place",
-        "name": "Category_2A_282_Ind18_10"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.43241198936563,
-          39.56829474531801
-        ]
-      },
-      "type": "Feature",
-      "id": 628,
-      "properties": {
-        "description": "DONE",
-        "marker-color": "63b6e5",
-        "marker-size": "small",
-        "marker-symbol": "polling-place",
-        "name": "Category_2A_589_Ind10_10"
       }
     },
     {
@@ -16177,204 +16375,6 @@
         "marker-size": "small",
         "marker-symbol": "polling-place",
         "name": "Category_2A_91_Ind17_10"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.33009066559615,
-          39.54849437871712
-        ]
-      },
-      "type": "Feature",
-      "id": 420,
-      "properties": {
-        "description": "DONE",
-        "marker-color": "63b6e5",
-        "marker-size": "small",
-        "marker-symbol": "polling-place",
-        "name": "Category_2A_92_Ind17_10"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.33373903923473,
-          39.55070549964486
-        ]
-      },
-      "type": "Feature",
-      "id": 421,
-      "properties": {
-        "description": "DONE",
-        "marker-color": "63b6e5",
-        "marker-size": "small",
-        "marker-symbol": "polling-place",
-        "name": "Category_2A_95_Ind17_10"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.39794032843847,
-          39.48694172986286
-        ]
-      },
-      "type": "Feature",
-      "id": 422,
-      "properties": {
-        "description": "DONE",
-        "marker-color": "63b6e5",
-        "marker-size": "small",
-        "marker-symbol": "polling-place",
-        "name": "Category_2A_162_Ind17_10"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.54247473673252,
-          39.497971548133314
-        ]
-      },
-      "type": "Feature",
-      "id": 487,
-      "properties": {
-        "description": "DONE",
-        "marker-color": "63b6e5",
-        "marker-size": "small",
-        "marker-symbol": "polling-place",
-        "name": "Ind15_Category_2A_71"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.54204723983555,
-          39.49757910892331
-        ]
-      },
-      "type": "Feature",
-      "id": 488,
-      "properties": {
-        "description": "DONE",
-        "marker-color": "63b6e5",
-        "marker-size": "small",
-        "marker-symbol": "polling-place",
-        "name": "Ind15_Category_2A_69"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.52999936006135,
-          39.48582969649975
-        ]
-      },
-      "type": "Feature",
-      "id": 489,
-      "properties": {
-        "description": "DONE",
-        "marker-color": "63b6e5",
-        "marker-size": "small",
-        "marker-symbol": "polling-place",
-        "name": "Ind15_Category_2A_57"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.52889837059547,
-          39.48502811333507
-        ]
-      },
-      "type": "Feature",
-      "id": 490,
-      "properties": {
-        "description": "DONE",
-        "marker-color": "63b6e5",
-        "marker-size": "small",
-        "marker-symbol": "polling-place",
-        "name": "Ind15_Category_2A_56"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.42960741864155,
-          39.551298320527145
-        ]
-      },
-      "type": "Feature",
-      "id": 491,
-      "properties": {
-        "description": "DONE",
-        "marker-color": "63b6e5",
-        "marker-size": "small",
-        "marker-symbol": "polling-place",
-        "name": "Ind16_Category_2A_102"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.42912257505066,
-          39.55027779235679
-        ]
-      },
-      "type": "Feature",
-      "id": 492,
-      "properties": {
-        "description": "DONE",
-        "marker-color": "63b6e5",
-        "marker-size": "small",
-        "marker-symbol": "polling-place",
-        "name": "Ind16_Category_2A_99"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.42831604034468,
-          39.54966761913162
-        ]
-      },
-      "type": "Feature",
-      "id": 493,
-      "properties": {
-        "description": "DONE",
-        "marker-color": "63b6e5",
-        "marker-size": "small",
-        "marker-symbol": "polling-place",
-        "name": "Ind16_Category_2A_94"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.29780617116323,
-          39.52635646971913
-        ]
-      },
-      "type": "Feature",
-      "id": 812,
-      "properties": {
-        "description": "DONE",
-        "marker-color": "63b6e5",
-        "marker-size": "small",
-        "marker-symbol": "polling-place",
-        "name": "Category_2A_271_Ind18_10"
       }
     },
     {
@@ -22101,10 +22101,10 @@
       "type": "Feature",
       "id": 1223,
       "properties": {
-        "description": "READY",
-        "marker-color": "a3e46b",
-        "marker-size": "medium",
-        "marker-symbol": "water",
+        "description": "DONE",
+        "marker-color": "63b6e5",
+        "marker-size": "small",
+        "marker-symbol": "polling-place",
         "name": "Category_2A_80_Ind6_10"
       }
     },
@@ -22175,10 +22175,10 @@
       "type": "Feature",
       "id": 1227,
       "properties": {
-        "description": "READY",
-        "marker-color": "a3e46b",
-        "marker-size": "medium",
-        "marker-symbol": "water",
+        "description": "DONE",
+        "marker-color": "63b6e5",
+        "marker-size": "small",
+        "marker-symbol": "polling-place",
         "name": "Category_2A_106_Ind6_10"
       }
     },
@@ -22248,10 +22248,10 @@
       "type": "Feature",
       "id": 1231,
       "properties": {
-        "description": "READY",
-        "marker-color": "a3e46b",
-        "marker-size": "medium",
-        "marker-symbol": "water",
+        "description": "DONE",
+        "marker-color": "63b6e5",
+        "marker-size": "small",
+        "marker-symbol": "polling-place",
         "name": "Category_2A_119_Ind6_10"
       }
     },
@@ -22447,10 +22447,10 @@
       "type": "Feature",
       "id": 1242,
       "properties": {
-        "description": "READY",
-        "marker-color": "a3e46b",
-        "marker-size": "medium",
-        "marker-symbol": "water",
+        "description": "DONE",
+        "marker-color": "63b6e5",
+        "marker-size": "small",
+        "marker-symbol": "polling-place",
         "name": "Category_2A_155_Ind6_10"
       }
     },
@@ -22520,10 +22520,10 @@
       "type": "Feature",
       "id": 1246,
       "properties": {
-        "description": "READY",
-        "marker-color": "a3e46b",
-        "marker-size": "medium",
-        "marker-symbol": "water",
+        "description": "DONE",
+        "marker-color": "63b6e5",
+        "marker-size": "small",
+        "marker-symbol": "polling-place",
         "name": "Category_2A_175_Ind6_10"
       }
     },
@@ -22557,10 +22557,10 @@
       "type": "Feature",
       "id": 1248,
       "properties": {
-        "description": "READY",
-        "marker-color": "a3e46b",
-        "marker-size": "medium",
-        "marker-symbol": "water",
+        "description": "DONE",
+        "marker-color": "63b6e5",
+        "marker-size": "small",
+        "marker-symbol": "polling-place",
         "name": "Category_2A_182_Ind6_10"
       }
     },
@@ -22593,10 +22593,10 @@
       "type": "Feature",
       "id": 1250,
       "properties": {
-        "description": "READY",
-        "marker-color": "a3e46b",
-        "marker-size": "medium",
-        "marker-symbol": "water",
+        "description": "DONE",
+        "marker-color": "63b6e5",
+        "marker-size": "small",
+        "marker-symbol": "polling-place",
         "name": "Category_2A_202_Ind6_10"
       }
     },
@@ -22849,10 +22849,10 @@
       "type": "Feature",
       "id": 1264,
       "properties": {
-        "description": "READY",
-        "marker-color": "a3e46b",
-        "marker-size": "medium",
-        "marker-symbol": "water",
+        "description": "DONE",
+        "marker-color": "63b6e5",
+        "marker-size": "small",
+        "marker-symbol": "polling-place",
         "name": "Category_2A_269_Ind6_10"
       }
     },
@@ -23162,10 +23162,10 @@
       "type": "Feature",
       "id": 1281,
       "properties": {
-        "description": "READY",
-        "marker-color": "a3e46b",
-        "marker-size": "medium",
-        "marker-symbol": "water",
+        "description": "DONE",
+        "marker-color": "63b6e5",
+        "marker-size": "small",
+        "marker-symbol": "polling-place",
         "name": "Category_2A_327_Ind6_10"
       }
     },
@@ -23180,10 +23180,10 @@
       "type": "Feature",
       "id": 1282,
       "properties": {
-        "description": "READY",
-        "marker-color": "a3e46b",
-        "marker-size": "medium",
-        "marker-symbol": "water",
+        "description": "DONE",
+        "marker-color": "63b6e5",
+        "marker-size": "small",
+        "marker-symbol": "polling-place",
         "name": "Category_2A_330_Ind6_10"
       }
     },
@@ -23198,10 +23198,10 @@
       "type": "Feature",
       "id": 1283,
       "properties": {
-        "description": "READY",
-        "marker-color": "a3e46b",
-        "marker-size": "medium",
-        "marker-symbol": "water",
+        "description": "DONE",
+        "marker-color": "63b6e5",
+        "marker-size": "small",
+        "marker-symbol": "polling-place",
         "name": "Category_2A_336_Ind6_10"
       }
     },
@@ -23270,10 +23270,10 @@
       "type": "Feature",
       "id": 1287,
       "properties": {
-        "description": "READY",
-        "marker-color": "a3e46b",
-        "marker-size": "medium",
-        "marker-symbol": "water",
+        "description": "DONE",
+        "marker-color": "63b6e5",
+        "marker-size": "small",
+        "marker-symbol": "polling-place",
         "name": "Category_2A_350_Ind6_10"
       }
     },
@@ -23324,10 +23324,10 @@
       "type": "Feature",
       "id": 1290,
       "properties": {
-        "description": "READY",
-        "marker-color": "a3e46b",
-        "marker-size": "medium",
-        "marker-symbol": "water",
+        "description": "DONE",
+        "marker-color": "63b6e5",
+        "marker-size": "small",
+        "marker-symbol": "polling-place",
         "name": "Category_2A_358_Ind6_10"
       }
     },
@@ -23342,10 +23342,10 @@
       "type": "Feature",
       "id": 1291,
       "properties": {
-        "description": "READY",
-        "marker-color": "a3e46b",
-        "marker-size": "medium",
-        "marker-symbol": "water",
+        "description": "DONE",
+        "marker-color": "63b6e5",
+        "marker-size": "small",
+        "marker-symbol": "polling-place",
         "name": "Category_2A_359_Ind6_10"
       }
     },
@@ -23414,10 +23414,10 @@
       "type": "Feature",
       "id": 1295,
       "properties": {
-        "description": "READY",
-        "marker-color": "a3e46b",
-        "marker-size": "medium",
-        "marker-symbol": "water",
+        "description": "DONE",
+        "marker-color": "63b6e5",
+        "marker-size": "small",
+        "marker-symbol": "polling-place",
         "name": "Category_2A_385_Ind6_10"
       }
     },
@@ -23614,10 +23614,10 @@
       "type": "Feature",
       "id": 1306,
       "properties": {
-        "description": "READY",
-        "marker-color": "a3e46b",
-        "marker-size": "medium",
-        "marker-symbol": "water",
+        "description": "DONE",
+        "marker-color": "63b6e5",
+        "marker-size": "small",
+        "marker-symbol": "polling-place",
         "name": "Category_2A_722_Ind6_10"
       }
     },
@@ -23668,10 +23668,10 @@
       "type": "Feature",
       "id": 1309,
       "properties": {
-        "description": "READY",
-        "marker-color": "a3e46b",
-        "marker-size": "medium",
-        "marker-symbol": "water",
+        "description": "DONE",
+        "marker-color": "63b6e5",
+        "marker-size": "small",
+        "marker-symbol": "polling-place",
         "name": "Category_2A_417_Ind6_10"
       }
     },
