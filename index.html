@@ -126,7 +126,7 @@
 			return (isMobile.Android() || isMobile.iOS());
 		}
 	};
-	
+
     // load the marker with the directions for the geojson feature
     // the layeradd event allows it to rerun after filtration.
     featureLayer.on('layeradd', function(res) {
@@ -225,7 +225,7 @@ todo.onclick = function(e) {
     // In this case, we're filtering by the marker symbol of water or cross,
     // which are the ones to do.
     featureLayer.setFilter(function(f) {
-        return f.properties['marker-symbol'] === 'water' || f.properties['marker-symbol'] === 'cross';
+        return f.properties['marker-symbol'] === 'water' || f.properties['marker-symbol'] === 'cross' || f.properties['marker-symbol'] === 'danger';
     });
     return false;
 };
