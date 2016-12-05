@@ -52,7 +52,7 @@ map.on('load', function () {
 
 
 // When a click event occurs near a place, open a popup at the location of
-the feature, with description HTML from its properties.
+// the feature, with description HTML from its properties.
 map.on('click', function (e) {
     var features = map.queryRenderedFeatures(e.point, { layers: ['places'] });
 
